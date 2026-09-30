@@ -1,26 +1,22 @@
-name: Deploy Tianji Yixian to GitHub Pages
+name: Build Tianji Yixian gh-pages branch
 
 on:
   push:
     branches: ["main"]
     paths:
       - "tianji-yixian-v0.3.56-web.zip"
+      - ".github/workflows/pages.yml"
   workflow_dispatch:
 
 permissions:
-  contents: read
-  pages: write
-  id-token: write
+  contents: write
 
 concurrency:
-  group: pages
+  group: tianji-pages-branch
   cancel-in-progress: true
 
 jobs:
-  deploy:
-    environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
+  publish:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repository
@@ -33,15 +29,16 @@ jobs:
           test -f tianji-yixian-v0.3.56-web.zip
           unzip -q tianji-yixian-v0.3.56-web.zip -d _site
           test -f _site/index.html
+          touch _site/.nojekyll
 
-      - name: Configure GitHub Pages
-        uses: actions/configure-pages@v6
-
-      - name: Upload Pages artifact
-        uses: actions/upload-pages-artifact@v5
-        with:
-          path: "_site"
-
-      - name: Deploy to GitHub Pages
-        id: deployment
-        uses: actions/deploy-pages@v4
+      - name: Publish static files to gh-pages branch
+        run: |
+          cd _site
+          git init
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git checkout -b gh-pages
+          git add -A
+          git commit -m "Deploy Tianji Yixian v0.3.56"
+          git remote add origin "https://x-access-token:${{ github.token }}@github.com/${{ github.repository }}.git"
+          git push --force origin gh-pages
