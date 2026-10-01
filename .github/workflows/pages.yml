@@ -1,10 +1,10 @@
-name: Build Tianji Yixian gh-pages branch
+name: Build Tianji Yixian versioned gh-pages
 
 on:
   push:
     branches: ["main"]
     paths:
-      - "tianji-yixian-v0.3.56-web.zip"
+      - "tianji-yixian-v*-web.zip"
       - ".github/workflows/pages.yml"
   workflow_dispatch:
 
@@ -21,24 +21,117 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v7
+        with:
+          fetch-depth: 1
 
-      - name: Prepare Tianji Yixian web release
+      - name: Select latest release ZIP
+        id: release
+        shell: bash
         run: |
-          rm -rf _site
-          mkdir -p _site
-          test -f tianji-yixian-v0.3.56-web.zip
-          unzip -q tianji-yixian-v0.3.56-web.zip -d _site
-          test -f _site/index.html
+          set -euo pipefail
+          ZIP="$(find . -maxdepth 1 -type f -name 'tianji-yixian-v*-web.zip' -printf '%f\n' | sort -V | tail -n 1)"
+          test -n "$ZIP"
+          VERSION="$(printf '%s' "$ZIP" | sed -E 's/^tianji-yixian-(v[0-9]+\.[0-9]+\.[0-9]+)-web\.zip$/\1/')"
+          test "$VERSION" != "$ZIP"
+          echo "zip=$ZIP" >> "$GITHUB_OUTPUT"
+          echo "version=$VERSION" >> "$GITHUB_OUTPUT"
+
+      - name: Preserve recent versioned releases
+        shell: bash
+        run: |
+          set -euo pipefail
+          rm -rf _site _previous
+          mkdir -p _site/releases _previous
+          if git fetch origin gh-pages:refs/remotes/origin/gh-pages --depth=1 2>/dev/null; then
+            git archive refs/remotes/origin/gh-pages releases 2>/dev/null | tar -x -C _previous || true
+            if [ -d _previous/releases ]; then
+              cp -a _previous/releases/. _site/releases/
+            fi
+          fi
+
+      - name: Unpack current release into isolated version directory
+        shell: bash
+        run: |
+          set -euo pipefail
+          VERSION="${{ steps.release.outputs.version }}"
+          ZIP="${{ steps.release.outputs.zip }}"
+          rm -rf "_site/releases/$VERSION"
+          mkdir -p "_site/releases/$VERSION"
+          unzip -q "$ZIP" -d "_site/releases/$VERSION"
+          test -f "_site/releases/$VERSION/index.html"
+
+          # Keep only the newest three complete releases. This lets an already-open
+          # older tab keep lazily loading its assets while preventing gh-pages from
+          # growing forever.
+          cd _site/releases
+          mapfile -t RELEASES < <(find . -mindepth 1 -maxdepth 1 -type d -printf '%f\n' | sort -V)
+          COUNT="${#RELEASES[@]}"
+          if [ "$COUNT" -gt 3 ]; then
+            REMOVE_COUNT=$((COUNT - 3))
+            for ((i=0; i<REMOVE_COUNT; i++)); do
+              rm -rf -- "${RELEASES[$i]}"
+            done
+          fi
+
+      - name: Create stable root loader and release manifest
+        shell: bash
+        run: |
+          set -euo pipefail
+          VERSION="${{ steps.release.outputs.version }}"
+          cat > _site/release.json <<EOF
+          {"version":"$VERSION"}
+          EOF
+
+          cat > _site/index.html <<'EOF'
+          <!doctype html>
+          <html lang="zh-CN">
+          <head>
+            <meta charset="utf-8" />
+            <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+            <meta name="theme-color" content="#111827" />
+            <title>天机一线</title>
+          </head>
+          <body>
+            <div id="app" aria-live="polite"></div>
+            <script type="module">
+              const manifestUrl = new URL("./release.json", location.href);
+              manifestUrl.searchParams.set("_", Date.now().toString());
+              const response = await fetch(manifestUrl, { cache: "no-store" });
+              if (!response.ok) throw new Error(`Failed to load release manifest: ${response.status}`);
+              const { version } = await response.json();
+              if (!/^v\d+\.\d+\.\d+$/.test(version)) throw new Error("Invalid release version");
+
+              const releaseBase = new URL(`./releases/${version}/`, location.href);
+              const base = document.createElement("base");
+              base.href = releaseBase.href;
+              document.head.append(base);
+
+              for (const file of ["styles/base.css", "styles/app.css"]) {
+                const link = document.createElement("link");
+                link.rel = "stylesheet";
+                link.href = new URL(file, releaseBase).href;
+                document.head.append(link);
+              }
+
+              await import(new URL("src/main.js", releaseBase).href + "?release=" + encodeURIComponent(version));
+            </script>
+          </body>
+          </html>
+          EOF
+
           touch _site/.nojekyll
 
       - name: Publish static files to gh-pages branch
+        shell: bash
         run: |
+          set -euo pipefail
+          VERSION="${{ steps.release.outputs.version }}"
           cd _site
           git init
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git checkout -b gh-pages
           git add -A
-          git commit -m "Deploy Tianji Yixian v0.3.56"
+          git commit -m "Deploy Tianji Yixian $VERSION (version-isolated assets)"
           git remote add origin "https://x-access-token:${{ github.token }}@github.com/${{ github.repository }}.git"
           git push --force origin gh-pages
