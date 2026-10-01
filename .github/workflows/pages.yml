@@ -36,6 +36,51 @@ jobs:
           echo "zip=$ZIP" >> "$GITHUB_OUTPUT"
           echo "version=$VERSION" >> "$GITHUB_OUTPUT"
 
+      - name: Update README release metadata
+        shell: bash
+        run: |
+          set -euo pipefail
+          VERSION="${{ steps.release.outputs.version }}"
+          ZIP="${{ steps.release.outputs.zip }}"
+
+          python3 - "$VERSION" "$ZIP" <<'PY'
+          import re
+          import sys
+          from pathlib import Path
+
+          version, zip_name = sys.argv[1], sys.argv[2]
+          path = Path("README.md")
+          text = path.read_text(encoding="utf-8")
+          replacement = f"""<!-- AUTO_RELEASE_START -->
+          ## 当前公开版本
+
+          - 游戏版本：**{version}**
+          - 公开试玩：https://aughost1983.github.io/tianji-yixian/
+          - 发布包：`{zip_name}`
+          <!-- AUTO_RELEASE_END -->"""
+
+          updated, count = re.subn(
+              r"<!-- AUTO_RELEASE_START -->.*?<!-- AUTO_RELEASE_END -->",
+              replacement,
+              text,
+              count=1,
+              flags=re.S,
+          )
+          if count != 1:
+              raise SystemExit("README auto-release markers are missing or duplicated")
+          path.write_text(updated, encoding="utf-8")
+          PY
+
+          if git diff --quiet -- README.md; then
+            echo "README already matches $VERSION"
+          else
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git add README.md
+            git commit -m "Update README for $VERSION"
+            git push origin HEAD:main
+          fi
+
       - name: Preserve recent versioned releases
         shell: bash
         run: |
