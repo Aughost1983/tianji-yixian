@@ -1,0 +1,2141 @@
+{
+  "schema": 1,
+  "version": "v0.3.65",
+  "resources": [
+    {
+      "url": "./assets/audio/artifact.wav",
+      "category": "audio",
+      "bytes": 30032,
+      "sha256": "4c818c44ec31c268f77428ad5c25b53b75c8e801eea00bb1b680505e46570410",
+      "audioKind": "sfx",
+      "audioIds": [
+        "artifact"
+      ]
+    },
+    {
+      "url": "./assets/audio/attack.wav",
+      "category": "audio",
+      "bytes": 12832,
+      "sha256": "9165a69959872b2f972ebf0aaf93c7144d24f439edb186d5b7ffd12f1e95142d",
+      "audioKind": "sfx",
+      "audioIds": [
+        "attack"
+      ]
+    },
+    {
+      "url": "./assets/audio/battle-start.wav",
+      "category": "audio",
+      "bytes": 44144,
+      "sha256": "df83689c180ec6d82a59335da65493679a63d76a2f1fdca1d5d867b836b91b10",
+      "audioKind": "sfx",
+      "audioIds": [
+        "battleStart"
+      ]
+    },
+    {
+      "url": "./assets/audio/bgm-combat.wav",
+      "category": "audio",
+      "bytes": 2646044,
+      "sha256": "7c66dc58cef6d21348260fbbcc5b424f1c8dc802e0d4ec3883e4fb3525b114a5",
+      "audioKind": "bgm",
+      "audioIds": [
+        "combat"
+      ]
+    },
+    {
+      "url": "./assets/audio/bgm-gate.wav",
+      "category": "audio",
+      "bytes": 2399676,
+      "sha256": "0b644cc5ce3e6940dff2a94b7155fb33c76cbb236717b58c606c48d1dbaacc76",
+      "audioKind": "bgm",
+      "audioIds": [
+        "gateCombat"
+      ]
+    },
+    {
+      "url": "./assets/audio/bgm-map.wav",
+      "category": "audio",
+      "bytes": 2646044,
+      "sha256": "eefcc4442cd639e08293b99533474c65435fdeabd4bc22b3db6c731caf386b7c",
+      "audioKind": "bgm",
+      "audioIds": [
+        "map"
+      ]
+    },
+    {
+      "url": "./assets/audio/bgm-merchant.wav",
+      "category": "audio",
+      "bytes": 2646044,
+      "sha256": "869a2d8317a6002401fbf6b27eb5a82743472bee8870283de22b6bdb81ae937d",
+      "audioKind": "bgm",
+      "audioIds": [
+        "merchant"
+      ]
+    },
+    {
+      "url": "./assets/audio/bgm-rest.wav",
+      "category": "audio",
+      "bytes": 2646044,
+      "sha256": "773346ff528d9ba95a9773d1a2f44cc37980c969e4a4a1c280ebea1103ecfb6a",
+      "audioKind": "bgm",
+      "audioIds": [
+        "rest"
+      ]
+    },
+    {
+      "url": "./assets/audio/click.wav",
+      "category": "audio",
+      "bytes": 4012,
+      "sha256": "fdb122de2b928bd7ddf3c081ce11948e54f147b2cf7092d39fdb8547d64bcd97",
+      "audioKind": "sfx",
+      "audioIds": [
+        "click"
+      ]
+    },
+    {
+      "url": "./assets/audio/death.wav",
+      "category": "audio",
+      "bytes": 51200,
+      "sha256": "7cdff71d7f26d77bb6a60d98aba0f425cff6bcf6c7804104ddd93e96af815a7c",
+      "audioKind": "sfx",
+      "audioIds": [
+        "death"
+      ]
+    },
+    {
+      "url": "./assets/audio/defense.wav",
+      "category": "audio",
+      "bytes": 22976,
+      "sha256": "274bddb2fc7c5b9c0f2fcffa28d326885059575d563a4a959df8390cf0346ed7",
+      "audioKind": "sfx",
+      "audioIds": [
+        "defense"
+      ]
+    },
+    {
+      "url": "./assets/audio/enemy-hit-aqiao.wav",
+      "category": "audio",
+      "bytes": 15920,
+      "sha256": "55ab4c7993d0a2361a8f2475b58bcc9990f002d5d6530281e2efc2b59df57b60",
+      "audioKind": "sfx",
+      "audioIds": [
+        "enemyHitAqiao"
+      ]
+    },
+    {
+      "url": "./assets/audio/enemy-hit-berserk-wolf.wav",
+      "category": "audio",
+      "bytes": 27826,
+      "sha256": "ec8035c83c8c6406e664c0b98a8d083e1a55bc07e3ac1cada462fba611d6cef8",
+      "audioKind": "sfx",
+      "audioIds": [
+        "enemyHitBerserkWolf"
+      ]
+    },
+    {
+      "url": "./assets/audio/enemy-hit-evil-alchemist.wav",
+      "category": "audio",
+      "bytes": 45908,
+      "sha256": "9567b8ac2f2bc88e806c52b24affab9bbf5350bb2a4853b244bf25b6af1299cc",
+      "audioKind": "sfx",
+      "audioIds": [
+        "enemyHitEvilAlchemist"
+      ]
+    },
+    {
+      "url": "./assets/audio/enemy-hit-five-elements-disciple.wav",
+      "category": "audio",
+      "bytes": 19448,
+      "sha256": "d908c2990d7bbdd39e9073ed1f1e3b95814a00ab61651d9239eb10e17698dbf3",
+      "audioKind": "sfx",
+      "audioIds": [
+        "enemyHitFiveElementsDisciple"
+      ]
+    },
+    {
+      "url": "./assets/audio/enemy-hit-five-elements-elite.wav",
+      "category": "audio",
+      "bytes": 19448,
+      "sha256": "27754c3f2458eaaf714b78e0aaec6cca48d1cc851fed1ef824592fd5cebe1ae0",
+      "audioKind": "sfx",
+      "audioIds": [
+        "enemyHitFiveElementsElite"
+      ]
+    },
+    {
+      "url": "./assets/audio/enemy-hit-gate.wav",
+      "category": "audio",
+      "bytes": 37088,
+      "sha256": "e5f8a5cab9bd39a6b324a38b6337aeea9a9333a86561af621e3d5a1b7c480ca5",
+      "audioKind": "sfx",
+      "audioIds": [
+        "enemyHitGate"
+      ]
+    },
+    {
+      "url": "./assets/audio/enemy-hit-hanping.wav",
+      "category": "audio",
+      "bytes": 21652,
+      "sha256": "e7d2a8992358b69bafebe53cb31c9001803a8d27ae42761dd9a2a9f00bec0d1d",
+      "audioKind": "sfx",
+      "audioIds": [
+        "enemyHitHanping"
+      ]
+    },
+    {
+      "url": "./assets/audio/enemy-hit-lost-mind-apothecary.wav",
+      "category": "audio",
+      "bytes": 27826,
+      "sha256": "95fd646723690feef1f179ece2aeb46848c94c656962037fe939903b80522608",
+      "audioKind": "sfx",
+      "audioIds": [
+        "enemyHitLostMindApothecary"
+      ]
+    },
+    {
+      "url": "./assets/audio/enemy-hit-peiben.wav",
+      "category": "audio",
+      "bytes": 19008,
+      "sha256": "bcf967a13158e7d4e80c2efb9b172f1206dc617c1056b00d9b1dc8b5e6b47431",
+      "audioKind": "sfx",
+      "audioIds": [
+        "enemyHitPeiben"
+      ]
+    },
+    {
+      "url": "./assets/audio/enemy-hit-pursuer-elite.wav",
+      "category": "audio",
+      "bytes": 27828,
+      "sha256": "89ce457ba6cdd60b27121106e344755db5eb1ff8e9221f964704fcf23392973b",
+      "audioKind": "sfx",
+      "audioIds": [
+        "enemyHitPursuerElite"
+      ]
+    },
+    {
+      "url": "./assets/audio/enemy-hit-pursuer.wav",
+      "category": "audio",
+      "bytes": 22536,
+      "sha256": "ff6eb4cadb19d8918704fc9527ad46163413c723e3b508e6a544a8edf11767f2",
+      "audioKind": "sfx",
+      "audioIds": [
+        "enemyHitPursuer"
+      ]
+    },
+    {
+      "url": "./assets/audio/enemy-hit-qingyi-cultivator.wav",
+      "category": "audio",
+      "bytes": 17952,
+      "sha256": "63676a2767b893f01ef0eb66b7233e8428c8530fbb0e8f54eecbf6a90556d40a",
+      "audioKind": "sfx",
+      "audioIds": [
+        "enemyHitQingyiCultivator"
+      ]
+    },
+    {
+      "url": "./assets/audio/enemy-hit-spider.wav",
+      "category": "audio",
+      "bytes": 18124,
+      "sha256": "157f344e4d77170f14ff2de431c38472363eaed90ffaebc747421daed8425122",
+      "audioKind": "sfx",
+      "audioIds": [
+        "enemyHitSpider"
+      ]
+    },
+    {
+      "url": "./assets/audio/enemy-hit-stone-golem.wav",
+      "category": "audio",
+      "bytes": 37970,
+      "sha256": "4e24b7198c0027b7588ef5f18cef0e0040437cbd8a3c6692e9e2ffe90082459e",
+      "audioKind": "sfx",
+      "audioIds": [
+        "enemyHitStoneGolem"
+      ]
+    },
+    {
+      "url": "./assets/audio/enemy-hit-tiger.wav",
+      "category": "audio",
+      "bytes": 56492,
+      "sha256": "83394cfd9385ef3d0d350ccd30d1a1640ffbe70a1858caa983c167aebe655c16",
+      "audioKind": "sfx",
+      "audioIds": [
+        "enemyHitTiger"
+      ]
+    },
+    {
+      "url": "./assets/audio/enemy-hit-white-jade-python.wav",
+      "category": "audio",
+      "bytes": 24298,
+      "sha256": "71d92ac2c0e187ea98a6aef71f8d594fa947e2081c932d6deeade08f7e0299d1",
+      "audioKind": "sfx",
+      "audioIds": [
+        "enemyHitWhiteJadePython"
+      ]
+    },
+    {
+      "url": "./assets/audio/enemy-hit-wolf.wav",
+      "category": "audio",
+      "bytes": 25180,
+      "sha256": "a760257c93331a034d888164202befb172b74ee41370b21a8d29af8bbd8f26e4",
+      "audioKind": "sfx",
+      "audioIds": [
+        "enemyHitWolf"
+      ]
+    },
+    {
+      "url": "./assets/audio/enemy-hit-zhengyang-chief.wav",
+      "category": "audio",
+      "bytes": 20142,
+      "sha256": "fb8dee6abbbd658b4f56fe84b6a975da60c62a0a3654f46f156f641c03c8aa62",
+      "audioKind": "sfx",
+      "audioIds": [
+        "enemyHitZhengyangChief"
+      ]
+    },
+    {
+      "url": "./assets/audio/enemy-hit-zhengyang-disciple.wav",
+      "category": "audio",
+      "bytes": 22080,
+      "sha256": "dcb4e550a81514b37c54001f15645cf4fbae3abf634880cd9fe3ed85b8b909e5",
+      "audioKind": "sfx",
+      "audioIds": [
+        "enemyHitZhengyangDisciple"
+      ]
+    },
+    {
+      "url": "./assets/audio/enemy-hit-zhengyang-elite.wav",
+      "category": "audio",
+      "bytes": 24522,
+      "sha256": "0191a4f5862b3600719f8d75a27587663a50abf07838e74b486eec7f05a42513",
+      "audioKind": "sfx",
+      "audioIds": [
+        "enemyHitZhengyangElite"
+      ]
+    },
+    {
+      "url": "./assets/audio/enemy-hit-zhengyang-left-protector.wav",
+      "category": "audio",
+      "bytes": 32712,
+      "sha256": "d86cb1fad6f18507dc9ca746ffdbfa85083c973e5b21085eea728099a4283f71",
+      "audioKind": "sfx",
+      "audioIds": [
+        "enemyHitZhengyangLeftProtector"
+      ]
+    },
+    {
+      "url": "./assets/audio/fail.wav",
+      "category": "audio",
+      "bytes": 37088,
+      "sha256": "21014ab43f0819948ba7abcf093832747526c3e0cac88eeb7f38738fb17b72ea",
+      "audioKind": "sfx",
+      "audioIds": [
+        "fail"
+      ]
+    },
+    {
+      "url": "./assets/audio/footsteps.wav",
+      "category": "audio",
+      "bytes": 88244,
+      "sha256": "9fee342c005156c731899ed9cda930ff69cde6ef7406a8e115c85bab5236d019",
+      "audioKind": "sfx",
+      "audioIds": [
+        "footsteps"
+      ]
+    },
+    {
+      "url": "./assets/audio/hit.wav",
+      "category": "audio",
+      "bytes": 9746,
+      "sha256": "d1cd376b71734af910fc399defc1413a469cf47968eace110dbb0d30e0f3f5cd",
+      "audioKind": "sfx",
+      "audioIds": [
+        "hit"
+      ]
+    },
+    {
+      "url": "./assets/audio/miss.wav",
+      "category": "audio",
+      "bytes": 37088,
+      "sha256": "914988a61b1834169c98c5c7f1524168ae662d2b84df1a95aff9f0c7a43e186d",
+      "audioKind": "sfx",
+      "audioIds": [
+        "miss"
+      ]
+    },
+    {
+      "url": "./assets/audio/revive.wav",
+      "category": "audio",
+      "bytes": 72368,
+      "sha256": "8677e832a123e33d2f562b590dd54afd24ac19ac084ee9fb73b3d351a9ccf4b4",
+      "audioKind": "sfx",
+      "audioIds": [
+        "revive"
+      ]
+    },
+    {
+      "url": "./assets/audio/skills/absorb-qi.wav",
+      "category": "audio",
+      "bytes": 16360,
+      "sha256": "c9bf519c987408f3849b4281ead79b08ef0b3db84a32b1f672421448a3d4cfac",
+      "audioKind": "sfx",
+      "audioIds": [
+        "skill:absorbQi"
+      ]
+    },
+    {
+      "url": "./assets/audio/skills/apothecary-cry.wav",
+      "category": "audio",
+      "bytes": 16802,
+      "sha256": "cda0e16b5357cb5cd701bada3fb2466edca33d5affc047402f11a453d82cc0a1",
+      "audioKind": "sfx",
+      "audioIds": [
+        "skill:apothecaryCry"
+      ]
+    },
+    {
+      "url": "./assets/audio/skills/beast-charge.wav",
+      "category": "audio",
+      "bytes": 16802,
+      "sha256": "bbc9e7c656b6a684bcd03fb7ec6f82918f418e5ec1da14a807c9c4dfdb0e80ed",
+      "audioKind": "sfx",
+      "audioIds": [
+        "skill:beastCharge"
+      ]
+    },
+    {
+      "url": "./assets/audio/skills/blood-burst.wav",
+      "category": "audio",
+      "bytes": 16360,
+      "sha256": "d432dd58f8362d61e38375d175e61dfa5832c9f4e9d8ea3ecfdccb2299282f2b",
+      "audioKind": "sfx",
+      "audioIds": [
+        "skill:bloodBurst"
+      ]
+    },
+    {
+      "url": "./assets/audio/skills/body-hardening.wav",
+      "category": "audio",
+      "bytes": 15920,
+      "sha256": "5b746329f351973a1fec3c2db3e4d80013b9b01f2fb83a66a22a12263f8ce149",
+      "audioKind": "sfx",
+      "audioIds": [
+        "skill:bodyHardening"
+      ]
+    },
+    {
+      "url": "./assets/audio/skills/broken-bottle.wav",
+      "category": "audio",
+      "bytes": 16360,
+      "sha256": "35d4ed9c50c73bf5ea82cd2f45e28baccecda62e96b64fbe5ae709a17bd860f0",
+      "audioKind": "sfx",
+      "audioIds": [
+        "skill:brokenBottle"
+      ]
+    },
+    {
+      "url": "./assets/audio/skills/cloud-hand.wav",
+      "category": "audio",
+      "bytes": 14156,
+      "sha256": "c9f7b2613acce0976d2a22e1a07de042beb6ff97ce9c6ff332bda949b26e40e6",
+      "audioKind": "sfx",
+      "audioIds": [
+        "skill:cloudHand"
+      ]
+    },
+    {
+      "url": "./assets/audio/skills/cold-thunder-sword.wav",
+      "category": "audio",
+      "bytes": 19448,
+      "sha256": "fce3054ae24f97dccd78ced4c3e737d3486411adbd55e85e3fbfbfa13bf533d8",
+      "audioKind": "sfx",
+      "audioIds": [
+        "skill:coldThunderSword"
+      ]
+    },
+    {
+      "url": "./assets/audio/skills/earth-escape.wav",
+      "category": "audio",
+      "bytes": 15478,
+      "sha256": "8b6ee11eda61b60e1e2f40da7a11a7f2cfee958015f659bc9e708a31c31345ee",
+      "audioKind": "sfx",
+      "audioIds": [
+        "skill:earthEscape"
+      ]
+    },
+    {
+      "url": "./assets/audio/skills/fireball.wav",
+      "category": "audio",
+      "bytes": 15038,
+      "sha256": "5548fc251a836a972cfb5ef440eb5c1a5e07351fc1ff28ab3e7f867529f5bec2",
+      "audioKind": "sfx",
+      "audioIds": [
+        "skill:fireball"
+      ]
+    },
+    {
+      "url": "./assets/audio/skills/five-elements-sword.wav",
+      "category": "audio",
+      "bytes": 19448,
+      "sha256": "2107b4cb1cdd8b46bbd6199a68d992eb81c397cb5d6758423f6ab3e8de2dfd7f",
+      "audioKind": "sfx",
+      "audioIds": [
+        "skill:fiveElementsSword"
+      ]
+    },
+    {
+      "url": "./assets/audio/skills/five-thunder-palm.wav",
+      "category": "audio",
+      "bytes": 16802,
+      "sha256": "db103f850203a6d4ab3fce358d3bcd12fe60edc1754b418880f24b5e84fe91e9",
+      "audioKind": "sfx",
+      "audioIds": [
+        "skill:fiveThunderPalm"
+      ]
+    },
+    {
+      "url": "./assets/audio/skills/five-thunder.wav",
+      "category": "audio",
+      "bytes": 18566,
+      "sha256": "7fa6bf2d7167c963f7bf874c685bd26d8c2d5288c63ecbd85cff255b2bec8104",
+      "audioKind": "sfx",
+      "audioIds": [
+        "skill:fiveThunder"
+      ]
+    },
+    {
+      "url": "./assets/audio/skills/flame-aura.wav",
+      "category": "audio",
+      "bytes": 16802,
+      "sha256": "dbc5373d2a43ef5a1da04cf06b13d763cfda6b628bec9498860bf9be68ffc872",
+      "audioKind": "sfx",
+      "audioIds": [
+        "skill:flameAura"
+      ]
+    },
+    {
+      "url": "./assets/audio/skills/flying-sword.wav",
+      "category": "audio",
+      "bytes": 15478,
+      "sha256": "33595d622c2ab07c25376932879fffc842c407f1f7c5c0f5654c55ab2bb3455e",
+      "audioKind": "sfx",
+      "audioIds": [
+        "skill:flyingSword"
+      ]
+    },
+    {
+      "url": "./assets/audio/skills/frenzy-palm.wav",
+      "category": "audio",
+      "bytes": 16802,
+      "sha256": "fec09d8645a4397a4c2d90f7d1c67b9e0cb208f0b91595e496089b46557b0304",
+      "audioKind": "sfx",
+      "audioIds": [
+        "skill:frenzyPalm"
+      ]
+    },
+    {
+      "url": "./assets/audio/skills/frost.wav",
+      "category": "audio",
+      "bytes": 16802,
+      "sha256": "f4464fa4f8d01970ca47903d05d27e63b92e0bc85a2c2ebd3352772296f83bdd",
+      "audioKind": "sfx",
+      "audioIds": [
+        "skill:frost"
+      ]
+    },
+    {
+      "url": "./assets/audio/skills/gate-awaken.wav",
+      "category": "audio",
+      "bytes": 21652,
+      "sha256": "98e1a186b7370fb18cea459063ed9d07cf8f4f308acb762b5de45119c9bfb88b",
+      "audioKind": "sfx",
+      "audioIds": [
+        "skill:gateAwaken"
+      ]
+    },
+    {
+      "url": "./assets/audio/skills/ghost-flash.wav",
+      "category": "audio",
+      "bytes": 14156,
+      "sha256": "c42444d5684aa73b789105ebc155e676bc1a2a3e0f0e768415525b2ad5bebd30",
+      "audioKind": "sfx",
+      "audioIds": [
+        "skill:ghostFlash"
+      ]
+    },
+    {
+      "url": "./assets/audio/skills/gold-thunder-seal.wav",
+      "category": "audio",
+      "bytes": 14156,
+      "sha256": "e27b24e85fe3b21ee9aa84bc6af70114def46543a175913ea3e655dac14ea5a5",
+      "audioKind": "sfx",
+      "audioIds": [
+        "skill:goldThunderSeal"
+      ]
+    },
+    {
+      "url": "./assets/audio/skills/golem-smash.wav",
+      "category": "audio",
+      "bytes": 19448,
+      "sha256": "09af8fd9cb89719f827f3993fedb8d0241d4532af5287c22177ffc67df61dea9",
+      "audioKind": "sfx",
+      "audioIds": [
+        "skill:golemSmash"
+      ]
+    },
+    {
+      "url": "./assets/audio/skills/great-fire.wav",
+      "category": "audio",
+      "bytes": 19448,
+      "sha256": "02b0f74f38b99eb6b0d16264809d08d9bc1ea1a1eda36cc7918ce77d5fcd4b35",
+      "audioKind": "sfx",
+      "audioIds": [
+        "skill:greatFire"
+      ]
+    },
+    {
+      "url": "./assets/audio/skills/green-snake-sword.wav",
+      "category": "audio",
+      "bytes": 16360,
+      "sha256": "96b44d199162b79f758d17ae54e1bea29f304fa2856056cf76fc850b620a1464",
+      "audioKind": "sfx",
+      "audioIds": [
+        "skill:greenSnakeSword"
+      ]
+    },
+    {
+      "url": "./assets/audio/skills/green-wood.wav",
+      "category": "audio",
+      "bytes": 15920,
+      "sha256": "ea6a6de8491145779d3f64b40c624ff27631e9f3113c056f22085eecb5e87ed4",
+      "audioKind": "sfx",
+      "audioIds": [
+        "skill:greenWood"
+      ]
+    },
+    {
+      "url": "./assets/audio/skills/heart-sword.wav",
+      "category": "audio",
+      "bytes": 17244,
+      "sha256": "ed2dddac34c5a4d67f5e185260417ae3350762f9d0e74d31cd036a389c1ddf84",
+      "audioKind": "sfx",
+      "audioIds": [
+        "skill:heartSword"
+      ]
+    },
+    {
+      "url": "./assets/audio/skills/inch-punch.wav",
+      "category": "audio",
+      "bytes": 13274,
+      "sha256": "fe8acae8cf2fb6acd72d672387caaae56814610b0e8c3cc3016d3a3af842c527",
+      "audioKind": "sfx",
+      "audioIds": [
+        "skill:inchPunch"
+      ]
+    },
+    {
+      "url": "./assets/audio/skills/kui-thunder.wav",
+      "category": "audio",
+      "bytes": 20330,
+      "sha256": "a1cc0c32e56db34d6019f03afa8f87ccdff8072daac0c9bb5a74a578bdadc71d",
+      "audioKind": "sfx",
+      "audioIds": [
+        "skill:kuiThunder"
+      ]
+    },
+    {
+      "url": "./assets/audio/skills/mind-demon.wav",
+      "category": "audio",
+      "bytes": 16802,
+      "sha256": "d22cc8a63476433f00d572f61ac8baeae04708facbf6b30266fe921ab5513c36",
+      "audioKind": "sfx",
+      "audioIds": [
+        "skill:mindDemon"
+      ]
+    },
+    {
+      "url": "./assets/audio/skills/mount-tai.wav",
+      "category": "audio",
+      "bytes": 19888,
+      "sha256": "92ed115bf0bbaa2e79ab0a2d4d30bf37b4e2b676b4529135fba00958ce855dfa",
+      "audioKind": "sfx",
+      "audioIds": [
+        "skill:mountTai"
+      ]
+    },
+    {
+      "url": "./assets/audio/skills/mountain-stance.wav",
+      "category": "audio",
+      "bytes": 15038,
+      "sha256": "9d05c165765c20d726a7996cc92ef1c2a81fcba9b910b6cf93ce695c13f8b82a",
+      "audioKind": "sfx",
+      "audioIds": [
+        "skill:mountainStance"
+      ]
+    },
+    {
+      "url": "./assets/audio/skills/myriad-swords.wav",
+      "category": "audio",
+      "bytes": 18124,
+      "sha256": "0f71ae5e3b9617150c79cb800aa8f81779426b882968cd1f657cfc36708a6b49",
+      "audioKind": "sfx",
+      "audioIds": [
+        "skill:myriadSwords"
+      ]
+    },
+    {
+      "url": "./assets/audio/skills/palm-thunder.wav",
+      "category": "audio",
+      "bytes": 15038,
+      "sha256": "f8469e28dd749f5d430823c4a4f5d4cad62ac75dedc7488e7b38505fd953f75f",
+      "audioKind": "sfx",
+      "audioIds": [
+        "skill:palmThunder"
+      ]
+    },
+    {
+      "url": "./assets/audio/skills/petrify.wav",
+      "category": "audio",
+      "bytes": 18124,
+      "sha256": "a207880f5ff28bb7d2e1b6a68adb4c06b8f7cc08797ace75c3b3e7dae65cf971",
+      "audioKind": "sfx",
+      "audioIds": [
+        "skill:petrify"
+      ]
+    },
+    {
+      "url": "./assets/audio/skills/pill.wav",
+      "category": "audio",
+      "bytes": 12832,
+      "sha256": "2885f339c41d117d61cfa22d6f88496345b19d0dabc29d81b7c05e17ca61571c",
+      "audioKind": "sfx",
+      "audioIds": [
+        "skill:pill"
+      ]
+    },
+    {
+      "url": "./assets/audio/skills/shadow-kick.wav",
+      "category": "audio",
+      "bytes": 14156,
+      "sha256": "c366a88c15176a1e32b6158b99f2d2641744f3a39d18af4e67c2509df2b5c375",
+      "audioKind": "sfx",
+      "audioIds": [
+        "skill:shadowKick"
+      ]
+    },
+    {
+      "url": "./assets/audio/skills/snake-shed.wav",
+      "category": "audio",
+      "bytes": 17244,
+      "sha256": "f5ff3836d016f77ff675b030087752a695aac12c492e8a5cd37a2bc73515f774",
+      "audioKind": "sfx",
+      "audioIds": [
+        "skill:snakeShed"
+      ]
+    },
+    {
+      "url": "./assets/audio/skills/spider-silk.wav",
+      "category": "audio",
+      "bytes": 14156,
+      "sha256": "2a041b18fad9f7cef85ea778b711a4f4b9cbb5430c96df1e6590e2dd566b779e",
+      "audioKind": "sfx",
+      "audioIds": [
+        "skill:spiderSilk"
+      ]
+    },
+    {
+      "url": "./assets/audio/skills/stone-burst.wav",
+      "category": "audio",
+      "bytes": 16360,
+      "sha256": "3e5f3a4526b7e69853dc97e3a75f3da8dadc90387aecf495e5dfbeea8dd2e971",
+      "audioKind": "sfx",
+      "audioIds": [
+        "skill:stoneBurst"
+      ]
+    },
+    {
+      "url": "./assets/audio/skills/stone-screen.wav",
+      "category": "audio",
+      "bytes": 15478,
+      "sha256": "a746f05ff5290e001aa43a84846cdc273efd35974889bbd3e56c36017bd5b48e",
+      "audioKind": "sfx",
+      "audioIds": [
+        "skill:stoneScreen"
+      ]
+    },
+    {
+      "url": "./assets/audio/skills/sword-domain.wav",
+      "category": "audio",
+      "bytes": 18566,
+      "sha256": "5076b3e7f618543258b521d777952c3a1c2f241ef5cfa256e9e4817a691e21ef",
+      "audioKind": "sfx",
+      "audioIds": [
+        "skill:swordDomain"
+      ]
+    },
+    {
+      "url": "./assets/audio/skills/sword-intent.wav",
+      "category": "audio",
+      "bytes": 17684,
+      "sha256": "ad4cd295220eaee43598ea5a8c9484913958204410fa9a914699c5425f7cbcf5",
+      "audioKind": "sfx",
+      "audioIds": [
+        "skill:swordIntent"
+      ]
+    },
+    {
+      "url": "./assets/audio/skills/sword-qi-slash.wav",
+      "category": "audio",
+      "bytes": 15920,
+      "sha256": "9866fd6fac1765a6df1bcaa3a116d68a994c93559a98065b97c6d62cbf1940ca",
+      "audioKind": "sfx",
+      "audioIds": [
+        "skill:swordQiSlash"
+      ]
+    },
+    {
+      "url": "./assets/audio/skills/sword-ward.wav",
+      "category": "audio",
+      "bytes": 13716,
+      "sha256": "36b929068534d2a749e4487d4892c8200395442c1e6dd727c813e392beee8bba",
+      "audioKind": "sfx",
+      "audioIds": [
+        "skill:swordWard"
+      ]
+    },
+    {
+      "url": "./assets/audio/skills/talisman.wav",
+      "category": "audio",
+      "bytes": 13716,
+      "sha256": "ea387fb6e827c36fe387af8e52cc73e04ade79542a4a513bf29273b549fe0073",
+      "audioKind": "sfx",
+      "audioIds": [
+        "skill:talisman"
+      ]
+    },
+    {
+      "url": "./assets/audio/skills/tiger-roar.wav",
+      "category": "audio",
+      "bytes": 22094,
+      "sha256": "cba32c396463d1ef2bb0eb1bd611124a6cf36746dc73d05387ec15c89e41ab88",
+      "audioKind": "sfx",
+      "audioIds": [
+        "skill:tigerRoar"
+      ]
+    },
+    {
+      "url": "./assets/audio/skills/undying-body.wav",
+      "category": "audio",
+      "bytes": 16360,
+      "sha256": "4c25067399c3205825d1167795aeaf9ca05cc1cb7ca231060a6e20ade74d729e",
+      "audioKind": "sfx",
+      "audioIds": [
+        "skill:undyingBody"
+      ]
+    },
+    {
+      "url": "./assets/audio/skills/water-magic.wav",
+      "category": "audio",
+      "bytes": 17244,
+      "sha256": "7ca826e970db6241accc428698591a3d1e615670cddfa68cabdeddcae58befcb",
+      "audioKind": "sfx",
+      "audioIds": [
+        "skill:waterMagic"
+      ]
+    },
+    {
+      "url": "./assets/audio/skills/wind.wav",
+      "category": "audio",
+      "bytes": 17244,
+      "sha256": "2a8e2c34f0aee1344a2c96c7d9008d1ea35ee6bf5915f8132056f4a362ba1bf2",
+      "audioKind": "sfx",
+      "audioIds": [
+        "skill:wind"
+      ]
+    },
+    {
+      "url": "./assets/audio/skills/wolf-howl.wav",
+      "category": "audio",
+      "bytes": 18566,
+      "sha256": "77b663a0a18fa30744558cd9dc490e4478073ab179c1ef377f3825a38af32860",
+      "audioKind": "sfx",
+      "audioIds": [
+        "skill:wolfHowl"
+      ]
+    },
+    {
+      "url": "./assets/audio/skills/xuanpin-qi.wav",
+      "category": "audio",
+      "bytes": 18566,
+      "sha256": "703c435f2ab561d7eb178406be24ac0f1835cac0b2f5325eb0c3d9547abf960b",
+      "audioKind": "sfx",
+      "audioIds": [
+        "skill:xuanpinQi"
+      ]
+    },
+    {
+      "url": "./assets/audio/skills/yin-water-thunder.wav",
+      "category": "audio",
+      "bytes": 17684,
+      "sha256": "1aa8177e942cba7a89dd4de8eb42588200eb738c5ae30000c46bb9ceba5d9e4b",
+      "audioKind": "sfx",
+      "audioIds": [
+        "skill:yinWaterThunder"
+      ]
+    },
+    {
+      "url": "./assets/audio/support.wav",
+      "category": "audio",
+      "bytes": 24740,
+      "sha256": "bf6abaa54ac958abcebc1cf27b5cb3d6f06ccb6ff2d5eb3be6de48bbf7455051",
+      "audioKind": "sfx",
+      "audioIds": [
+        "support"
+      ]
+    },
+    {
+      "url": "./assets/audio/sword-approach.wav",
+      "category": "audio",
+      "bytes": 54728,
+      "sha256": "827c7387988296d70a028ec5825f6d3ffd647bb21d2008076e77c04fa1ec30ae",
+      "audioKind": "sfx",
+      "audioIds": [
+        "swordApproach"
+      ]
+    },
+    {
+      "url": "./assets/audio/win.wav",
+      "category": "audio",
+      "bytes": 63548,
+      "sha256": "3061cc5751923ab1a69a063ba566c05e293e20efa8b5ace78b758529d846d629",
+      "audioKind": "sfx",
+      "audioIds": [
+        "win"
+      ]
+    },
+    {
+      "url": "./assets/event-scenes/alchemy-intro.svg",
+      "category": "images",
+      "bytes": 17118,
+      "sha256": "19ce83e5555aaf6b373a47b114d9316294e71e7f68451a8e72f7a7681d0e156b"
+    },
+    {
+      "url": "./assets/event-scenes/alchemy-pills.svg",
+      "category": "images",
+      "bytes": 19416,
+      "sha256": "b23a9295087f800a5018d305f131413e8b7d42b2b0f7ed77487431ccc5738141"
+    },
+    {
+      "url": "./assets/event-scenes/altar-awaken.svg",
+      "category": "images",
+      "bytes": 10826,
+      "sha256": "f79529402fcfa809f02f00caaa26417612c6cbcb0bcb183d6b4dfeec87963f11"
+    },
+    {
+      "url": "./assets/event-scenes/altar-intro.svg",
+      "category": "images",
+      "bytes": 10252,
+      "sha256": "2060dc9ae2b4ec3cec8bfc8823d4a48881361a71969242beaa69c269290c826b"
+    },
+    {
+      "url": "./assets/event-scenes/altar-meditate.svg",
+      "category": "images",
+      "bytes": 8432,
+      "sha256": "bd6abafa208413e6084ac84e9f991daaf29d2c0c158dc254bb2333ad49e7b117"
+    },
+    {
+      "url": "./assets/event-scenes/corpse-blast.svg",
+      "category": "images",
+      "bytes": 13296,
+      "sha256": "b758a97b3441a96e465c4739eb712f290209467681ed014b9280ba26a0f630cd"
+    },
+    {
+      "url": "./assets/event-scenes/corpse-inspect.svg",
+      "category": "images",
+      "bytes": 12119,
+      "sha256": "db9912aed2559989290ca14bac9f34d2d3a94b7dbf6a3504fecf28d0a0dda26c"
+    },
+    {
+      "url": "./assets/event-scenes/corpse-intro.svg",
+      "category": "images",
+      "bytes": 11870,
+      "sha256": "bb69c2f2ae1e3f93bb005578c89c4bada363af0cf7fd269919d79cfacf018802"
+    },
+    {
+      "url": "./assets/event-scenes/corpse-loot.svg",
+      "category": "images",
+      "bytes": 13923,
+      "sha256": "2d8d8a8a3e0614ff861688d7073bb5aea967fe91013708744c0ae154261b7b6c"
+    },
+    {
+      "url": "./assets/event-scenes/corpse-seal.svg",
+      "category": "images",
+      "bytes": 12272,
+      "sha256": "ede118d910d1f4aa4992da9ed97709ff052db580debf1e2acb41ddc75474bfbb"
+    },
+    {
+      "url": "./assets/event-scenes/fire-pit-fall.svg",
+      "category": "images",
+      "bytes": 12919,
+      "sha256": "1f61138fa75b8e129e4b8c7d03469087dda2a6e3cf480c0fed02a9b93286f9d9"
+    },
+    {
+      "url": "./assets/event-scenes/fire-pit-frost.svg",
+      "category": "images",
+      "bytes": 11873,
+      "sha256": "13c0a5577b30f5264e823e0e1b6c03e24267550fe73fa125a45764d97d3dd136"
+    },
+    {
+      "url": "./assets/event-scenes/fire-pit-intro.svg",
+      "category": "images",
+      "bytes": 11724,
+      "sha256": "f5e8f6b75bb06f52d80e91aa6608c8cf45558fc5b6294f14524a20d9bde8cdde"
+    },
+    {
+      "url": "./assets/event-scenes/fire-pit-leap.svg",
+      "category": "images",
+      "bytes": 12204,
+      "sha256": "a7edaab96a447b562076cfa7765a1ae459a3a951c1be3aac0558281f674915c0"
+    },
+    {
+      "url": "./assets/event-scenes/fire-pit-silk.svg",
+      "category": "images",
+      "bytes": 12166,
+      "sha256": "1b1f444f1820c1250bc258800e6bb28f564a295510e6f2ad67887b6df34074d5"
+    },
+    {
+      "url": "./assets/event-scenes/rift-fall.svg",
+      "category": "images",
+      "bytes": 11424,
+      "sha256": "710fdf7ae753d8883af1b485513620f1e5011282ce9e5e1ddbc287ff5f8db730"
+    },
+    {
+      "url": "./assets/event-scenes/rift-fruit.svg",
+      "category": "images",
+      "bytes": 10791,
+      "sha256": "14c578df9521cdca4614166acf10523230fa7d82699a3a44a38eaaa974703bd6"
+    },
+    {
+      "url": "./assets/event-scenes/rift-intro.svg",
+      "category": "images",
+      "bytes": 10753,
+      "sha256": "18bcbfa1365b68bf66242d712e89da72205b2db5ca630a90f0ca40cb4f261c50"
+    },
+    {
+      "url": "./assets/event-scenes/tablet-illusion.svg",
+      "category": "images",
+      "bytes": 25395,
+      "sha256": "16543f702cafb157bd477db3839b7a41a59c1887f4a5718a595bfe90116504e0"
+    },
+    {
+      "url": "./assets/event-scenes/tablet-insight.svg",
+      "category": "images",
+      "bytes": 9220,
+      "sha256": "c622ec7a3070238af20cabc55fbc1a6aaee66a484917d9a1ccc00f8a5304f6f6"
+    },
+    {
+      "url": "./assets/event-scenes/tablet-intro.svg",
+      "category": "images",
+      "bytes": 11090,
+      "sha256": "3f149fa891c3c0382990538ef006e69ce6b4c11ef453e4960233dacc54165ae3"
+    },
+    {
+      "url": "./assets/event-scenes/vein-intro.svg",
+      "category": "images",
+      "bytes": 15022,
+      "sha256": "6c1e083465e4d3638e1fcbd18fdf26fe67bcf82070ac0e69eb99fff2fa6367d6"
+    },
+    {
+      "url": "./assets/event-scenes/vein-meditate.svg",
+      "category": "images",
+      "bytes": 13075,
+      "sha256": "6be13d7c7773f1ff42b92957f71b0bbbc909b32de2d7e7200fbea517c38be717"
+    },
+    {
+      "url": "./assets/event-scenes/vein-mine.svg",
+      "category": "images",
+      "bytes": 18325,
+      "sha256": "206f4cd761def570056370afb23925d10725f5794e9fb86e82d8fb23efd87a6e"
+    },
+    {
+      "url": "./assets/icons/artifacts/coldLightSword.svg",
+      "category": "images",
+      "bytes": 562,
+      "sha256": "c921dbab97627aa41f50809d0f12f5b5ea07e6dc8c894fefa0f2396e50b276e4"
+    },
+    {
+      "url": "./assets/icons/artifacts/greenSnakeSword.svg",
+      "category": "images",
+      "bytes": 912,
+      "sha256": "45179b26eb5a84886de330472dd882405817ba75673cdbede763e962933c55ab"
+    },
+    {
+      "url": "./assets/icons/artifacts/heartMace.svg",
+      "category": "images",
+      "bytes": 559,
+      "sha256": "725e3f4ec44f1c6f60b9baccdeee93e1a520d7c32cb535102813e6e3f88728fb"
+    },
+    {
+      "url": "./assets/icons/artifacts/mixedOrb.svg",
+      "category": "images",
+      "bytes": 628,
+      "sha256": "68e2115add8c8eb0d95baaa078191010485aaf8155833e2fc04fd7f8167d09f9"
+    },
+    {
+      "url": "./assets/icons/artifacts/reincarnation.svg",
+      "category": "images",
+      "bytes": 639,
+      "sha256": "5e537522d58a5667e06be8c7b338f1f4398bda224321d838951204d17a2c2703"
+    },
+    {
+      "url": "./assets/icons/artifacts/shadowlessBoots.svg",
+      "category": "images",
+      "bytes": 553,
+      "sha256": "b723f303be4a28545aaea42aa93a2f5d21342a716dba554b26b37c99b0a53853"
+    },
+    {
+      "url": "./assets/icons/artifacts/tianji.svg",
+      "category": "images",
+      "bytes": 1497,
+      "sha256": "228c995fe1f04734a274e03d18a5051f05fe70fd3e5412e4ceff17366d7e9889"
+    },
+    {
+      "url": "./assets/icons/artifacts/treasureToken.svg",
+      "category": "images",
+      "bytes": 571,
+      "sha256": "17311b78c85a7c559e64e233be55a72ff82c1850c5ca69deb6ca60e2503c3464"
+    },
+    {
+      "url": "./assets/icons/artifacts/yangSunMirror.svg",
+      "category": "images",
+      "bytes": 650,
+      "sha256": "88718c00a07d631fce9ac44ae794435eb2179b0462bbb506e91be5abded52be6"
+    },
+    {
+      "url": "./assets/icons/items/armorBreakTalisman.svg",
+      "category": "images",
+      "bytes": 695,
+      "sha256": "150bea784514de98b8c18368f67cca9ed15a7e4a8d11a6ee169cd90d9657757e"
+    },
+    {
+      "url": "./assets/icons/items/bigWolfFang.svg",
+      "category": "images",
+      "bytes": 463,
+      "sha256": "c5c0ccb4a9460da34917fa448965d1a80443e27dd543bb9b9bcfe71b7944bbe2"
+    },
+    {
+      "url": "./assets/icons/items/bloodPill.svg",
+      "category": "images",
+      "bytes": 595,
+      "sha256": "1670b6512411c2e10fd1ed10ef855666db6f9203e58ef12a1135a07ee879ca82"
+    },
+    {
+      "url": "./assets/icons/items/bodyTemperManual.svg",
+      "category": "images",
+      "bytes": 764,
+      "sha256": "a8f6fa13f2f370f9a61356620bc026e4360dc68480b5ce60348178cca014d8ba"
+    },
+    {
+      "url": "./assets/icons/items/clearWindManual.svg",
+      "category": "images",
+      "bytes": 763,
+      "sha256": "44cab578fb37f093962e7b82666f1e7665c99c91c812e26be023e4d142b51554"
+    },
+    {
+      "url": "./assets/icons/items/coolingTalisman.svg",
+      "category": "images",
+      "bytes": 691,
+      "sha256": "bde174036555ab65b8012719b7c440b056006384d7240e6ed004fd76b6181550"
+    },
+    {
+      "url": "./assets/icons/items/demonPill1.svg",
+      "category": "images",
+      "bytes": 585,
+      "sha256": "55331142709746604808d8b2b09aabbcc43c1decbb9bf4c707a3384537bb66d5"
+    },
+    {
+      "url": "./assets/icons/items/demonPill2.svg",
+      "category": "images",
+      "bytes": 666,
+      "sha256": "1d2fa567b5bcabdc96b5b27594ff71ca7c11fcae15d10864a11db8610a22cc81"
+    },
+    {
+      "url": "./assets/icons/items/demonPill3.svg",
+      "category": "images",
+      "bytes": 756,
+      "sha256": "e3efc8f952dbf1e69c953c499ef0acd980d76c47a84ec508019fada494d59e90"
+    },
+    {
+      "url": "./assets/icons/items/demonPill4.svg",
+      "category": "images",
+      "bytes": 852,
+      "sha256": "46b3adda0cd710a3d233b63292a801288e0f04dbbf4f96be9055bd3837672e15"
+    },
+    {
+      "url": "./assets/icons/items/diamondBodyManual.svg",
+      "category": "images",
+      "bytes": 659,
+      "sha256": "c40a98e8d287495ccd34c1793e12e37543b893cc7fae893f51afb4c0cdcf3b3e"
+    },
+    {
+      "url": "./assets/icons/items/diamondTalisman.svg",
+      "category": "images",
+      "bytes": 696,
+      "sha256": "781a1902cfc8738196efafb3bc8b5c1a0147300eaccad588d60b42d44a442c3f"
+    },
+    {
+      "url": "./assets/icons/items/drugResidue.svg",
+      "category": "images",
+      "bytes": 440,
+      "sha256": "0ff8b9c875d172707ec9229f9a78a946fcea036ef9f3c9427084e120ac84139b"
+    },
+    {
+      "url": "./assets/icons/items/earthEscapeManual.svg",
+      "category": "images",
+      "bytes": 739,
+      "sha256": "2ca04d970b98643236e2aa25456d9fd81c016dc1f86aba3d2eae3458ceaa76d8"
+    },
+    {
+      "url": "./assets/icons/items/fireTalisman.svg",
+      "category": "images",
+      "bytes": 762,
+      "sha256": "af8188a8b21e05d4f89f73ad9775a2ca3e2349555a1fee87bcbb3aea5968a552"
+    },
+    {
+      "url": "./assets/icons/items/fireballManual.svg",
+      "category": "images",
+      "bytes": 1074,
+      "sha256": "5580bbfebc7686b1336174d6232762bc88ffcd6f9979478a25ceb842f6c9ea11"
+    },
+    {
+      "url": "./assets/icons/items/flameIgnitionManual.svg",
+      "category": "images",
+      "bytes": 924,
+      "sha256": "1fba3b15f20b99c2690df57a6b89691cbd06452d075f0506863fd49f2652d7dc"
+    },
+    {
+      "url": "./assets/icons/items/focusPill.svg",
+      "category": "images",
+      "bytes": 577,
+      "sha256": "3cc2a3a100506a0ad642d26aa70b9668eaae3d402f9e1d295dff4c731bcadef0"
+    },
+    {
+      "url": "./assets/icons/items/frostSpellManual.svg",
+      "category": "images",
+      "bytes": 760,
+      "sha256": "b15e2e1a9855109259fe8b179e039743302f6b89acdd9b9984a3f218aab6b816"
+    },
+    {
+      "url": "./assets/icons/items/goldLightManual.svg",
+      "category": "images",
+      "bytes": 746,
+      "sha256": "ba1f4412da38aa63c2c9c599ef6492e4d194dd022bdf3035585bc30e23de829e"
+    },
+    {
+      "url": "./assets/icons/items/greenWoodManual.svg",
+      "category": "images",
+      "bytes": 758,
+      "sha256": "f5674cba97b7d0cbec3c2ea64684c4c56c71ab315db1e1238c808976f6ad0f2f"
+    },
+    {
+      "url": "./assets/icons/items/heavenDemonTalisman.svg",
+      "category": "images",
+      "bytes": 707,
+      "sha256": "0d2d180b2acce5a3b3c260a5d542fb3b284f1463db90bdfe36cac6fb4bf60149"
+    },
+    {
+      "url": "./assets/icons/items/inchPunchManual.svg",
+      "category": "images",
+      "bytes": 758,
+      "sha256": "46b8a3e0ca3a0ac8ec387d223bfed6ba9d974b72c2de3cf57144016eaaefda39"
+    },
+    {
+      "url": "./assets/icons/items/karmaFireManual.svg",
+      "category": "images",
+      "bytes": 831,
+      "sha256": "69b8cf69dd44a53f1d4cd03282da8a288f1931a762486b26e0765631e1708f4c"
+    },
+    {
+      "url": "./assets/icons/items/lifeLockPill.svg",
+      "category": "images",
+      "bytes": 673,
+      "sha256": "6baed260a2df1e94d895712ca4bb6d6be9c06e4995c100dd1696edfd413884d3"
+    },
+    {
+      "url": "./assets/icons/items/mountainForceManual.svg",
+      "category": "images",
+      "bytes": 1055,
+      "sha256": "0b3f9611d33e2c12c85f44443d267179abbf92637a975f2bb7ba276024c11875"
+    },
+    {
+      "url": "./assets/icons/items/myriadSwordsManual.svg",
+      "category": "images",
+      "bytes": 772,
+      "sha256": "7165a1c14e0d2bff73b744a319df430537c31927166c97f28e984aa1e333917a"
+    },
+    {
+      "url": "./assets/icons/items/mysticPassageManual.svg",
+      "category": "images",
+      "bytes": 735,
+      "sha256": "1bd03ece999bd5ce81620d30b8598613e04ffe904a09a9266c8372439d1727e0"
+    },
+    {
+      "url": "./assets/icons/items/palmThunderManual.svg",
+      "category": "images",
+      "bytes": 752,
+      "sha256": "e4b3106ce05600565198f0577cb990d09be1330dca34d314c02901bbed292732"
+    },
+    {
+      "url": "./assets/icons/items/qiEatingManual.svg",
+      "category": "images",
+      "bytes": 943,
+      "sha256": "de0184f53c92958ba22916523f48653caf9b8102fb6cc9ecd5224691691a2d89"
+    },
+    {
+      "url": "./assets/icons/items/qiPill.svg",
+      "category": "images",
+      "bytes": 564,
+      "sha256": "5e07d1af8af402b2dc3fb41dd1f17159dd9351eeeb88ba6be08379ad7ee27a1f"
+    },
+    {
+      "url": "./assets/icons/items/refiningPill.svg",
+      "category": "images",
+      "bytes": 586,
+      "sha256": "dd1b8f34e77409c9f21e0454212e44f2b223cb7d5d07a7dc227c523243252962"
+    },
+    {
+      "url": "./assets/icons/items/shadowKickManual.svg",
+      "category": "images",
+      "bytes": 766,
+      "sha256": "b131255427f97a81882544807ad78d0c40968487e1d882e2745350f7df18efe2"
+    },
+    {
+      "url": "./assets/icons/items/snakeSlough.svg",
+      "category": "images",
+      "bytes": 515,
+      "sha256": "375c616da7fc7f45a8a02f2fbdd2c9c7f8e974f6ad296a911d3b735acb47b7af"
+    },
+    {
+      "url": "./assets/icons/items/soulGatheringPill.svg",
+      "category": "images",
+      "bytes": 595,
+      "sha256": "ba006144b29e64bd251cd9b5b5afdbb862aa7a08dc78a697c2ca2bf92466a9e0"
+    },
+    {
+      "url": "./assets/icons/items/spiderSilk.svg",
+      "category": "images",
+      "bytes": 474,
+      "sha256": "04cc36bb82834b2e9ec689a63583944b2cc4ea921b1834041ae2d58d575238ed"
+    },
+    {
+      "url": "./assets/icons/items/spiritHeartTalisman.svg",
+      "category": "images",
+      "bytes": 956,
+      "sha256": "f13acf116c70d66feddf2ac510173232d52ee2e9578a2188399de6a66c5a1e1e"
+    },
+    {
+      "url": "./assets/icons/items/spiritQuenchingManual.svg",
+      "category": "images",
+      "bytes": 724,
+      "sha256": "b7eab09114c2f24643343681d8d637ecfc8ec050099bb8d6c849db88677893af"
+    },
+    {
+      "url": "./assets/icons/items/spiritStone.svg",
+      "category": "images",
+      "bytes": 1110,
+      "sha256": "342fd06d7cfe42ad045c083fbc36b98b04cf237d13e2d0edacd72f0bdc2eb976"
+    },
+    {
+      "url": "./assets/icons/items/stoneHeart.svg",
+      "category": "images",
+      "bytes": 1304,
+      "sha256": "33cf2cfef33fcb766bb8a4295acb9874c972752f1c6ee8c068aaf27fe452dd0c"
+    },
+    {
+      "url": "./assets/icons/items/stoneScreenManual.svg",
+      "category": "images",
+      "bytes": 740,
+      "sha256": "9dbab6515b8aac8930cbaad5edb5bd04f11438d27b0fa1ec46ed81c7d4919d0d"
+    },
+    {
+      "url": "./assets/icons/items/swiftTalisman.svg",
+      "category": "images",
+      "bytes": 688,
+      "sha256": "110cee3dfd5ecd0db9f62e67cd8538087fd983f4eedf96d91a0f7e06b47a7f7c"
+    },
+    {
+      "url": "./assets/icons/items/swordControlManual.svg",
+      "category": "images",
+      "bytes": 1376,
+      "sha256": "745d6f22d4e507ff6d41e10d3e0bbf3b2570d41fd9d54117c068af0af0b58f0d"
+    },
+    {
+      "url": "./assets/icons/items/swordGuardManual.svg",
+      "category": "images",
+      "bytes": 782,
+      "sha256": "4288017223749b23f5977d76938a2853f4bf679aff0ef46d209f08d316041404"
+    },
+    {
+      "url": "./assets/icons/items/swordIntentManual.svg",
+      "category": "images",
+      "bytes": 751,
+      "sha256": "d905f763db49fb5178834cfbbc7b4a97755fbf5e6e9371e699dd4f766452b08c"
+    },
+    {
+      "url": "./assets/icons/items/swordQiSlashManual.svg",
+      "category": "images",
+      "bytes": 757,
+      "sha256": "e32062dfa7b80d8849c90fc925f219fc5f6703997bb651dbec8fee4464c844c3"
+    },
+    {
+      "url": "./assets/icons/items/swordTalisman.svg",
+      "category": "images",
+      "bytes": 683,
+      "sha256": "4dfc172ab62698fe1e5a837bed134dcdd8bb1c64a454513f2299cb9f87dd591d"
+    },
+    {
+      "url": "./assets/icons/items/thunderTalisman.svg",
+      "category": "images",
+      "bytes": 659,
+      "sha256": "f2ecdcb9d5c2dd3c39e0ab1e549f534ab921ee36a5a6fa98208763f514290f42"
+    },
+    {
+      "url": "./assets/icons/items/valleyGodCurseManual.svg",
+      "category": "images",
+      "bytes": 670,
+      "sha256": "4fda2ba360ce4660c6348a89cd8591ecc903b8bd299de12a7287f145fe13ac1c"
+    },
+    {
+      "url": "./assets/icons/items/waterDragonManual.svg",
+      "category": "images",
+      "bytes": 782,
+      "sha256": "9152b8ba89d5e29f1d019bdda81b1c6ad6c45a28da107788117329f521d56e22"
+    },
+    {
+      "url": "./assets/icons/items/wolfFang.svg",
+      "category": "images",
+      "bytes": 454,
+      "sha256": "eb19fc1b754e192319515806ae4fe6fc5eb32a320ec39107f284fe9316d3b712"
+    },
+    {
+      "url": "./assets/icons/items/xuanpinQiManual.svg",
+      "category": "images",
+      "bytes": 682,
+      "sha256": "57f6d93c90fefe105dca8ebed1802707b69f9f575e65c2f1e323a1ee8eb10a6f"
+    },
+    {
+      "url": "./assets/images/berserk-wolf.svg",
+      "category": "images",
+      "bytes": 1897,
+      "sha256": "b05cd7bd40cd4278883f0b6b1db1a61a8614ecdab530634ee1d611dea2b581c5"
+    },
+    {
+      "url": "./assets/images/cave-bg.svg",
+      "category": "images",
+      "bytes": 458,
+      "sha256": "fda605bf11cd658ef6b6d6b99f8dd62b782501a654c3985c3e81fd431fbb0a8a"
+    },
+    {
+      "url": "./assets/images/evil-alchemist.svg",
+      "category": "images",
+      "bytes": 212871,
+      "sha256": "9e23083ff2ac764e09e31c7e90a24f8e4f869e8b8ccdf7a28c8f3b1ddf7c02d8"
+    },
+    {
+      "url": "./assets/images/five-elements-disciple.svg",
+      "category": "images",
+      "bytes": 52778,
+      "sha256": "aaee9878c6385e024c27b9caa17726f6f709d37b00ea723b6082e5fd4473e031"
+    },
+    {
+      "url": "./assets/images/five-elements-elite.svg",
+      "category": "images",
+      "bytes": 207246,
+      "sha256": "2ba10d42548a9f6a71766845e6b1adc0f3f78ae6ea885a6dfb9165cdbb503559"
+    },
+    {
+      "url": "./assets/images/five-elements-outer-disciple.svg",
+      "category": "images",
+      "bytes": 253766,
+      "sha256": "cea9a4c0dd85f5547964781b289d4a8d7b89377fcd4a771fce2cb2bcbf664e78"
+    },
+    {
+      "url": "./assets/images/gate.svg",
+      "category": "images",
+      "bytes": 101354,
+      "sha256": "b23b05b051d070104ed135a434bfcee0bf86cf170c20f5f3c91ab8931af98a83"
+    },
+    {
+      "url": "./assets/images/hidden-sword-outer-disciple.svg",
+      "category": "images",
+      "bytes": 333124,
+      "sha256": "fd9a10bde85e8639fad66d3f66fb89899c2680fd4c4b45d7fbc57a9374e652de"
+    },
+    {
+      "url": "./assets/images/lost-mind-apothecary.svg",
+      "category": "images",
+      "bytes": 54982,
+      "sha256": "214986a37941fbce4bec0bb81bb42cc47a251471479b1e3f6f6e65e9fce3a9ff"
+    },
+    {
+      "url": "./assets/images/merchant.svg",
+      "category": "images",
+      "bytes": 2203,
+      "sha256": "2e6959181119ca1c82f626450c016691414a3e3c0e4b47ed41efb66b9152a260"
+    },
+    {
+      "url": "./assets/images/path-cave.svg",
+      "category": "images",
+      "bytes": 1410,
+      "sha256": "b056831d88a8c0e015687cc8b24a5855b86dc036f7ecd4bfa7fae43674bc7b2a"
+    },
+    {
+      "url": "./assets/images/pursuer-elite.svg",
+      "category": "images",
+      "bytes": 66810,
+      "sha256": "61ad99c4a5c09fd10c7902957b5a4aa52dc62c9b71a29ac0141d65663b661552"
+    },
+    {
+      "url": "./assets/images/pursuer.svg",
+      "category": "images",
+      "bytes": 47746,
+      "sha256": "f3978f4d33d0385ee31b6b5d2ed09ed400c54eba7cfeca48a9111db3dd3e1dbd"
+    },
+    {
+      "url": "./assets/images/qingyi-cultivator.svg",
+      "category": "images",
+      "bytes": 45314,
+      "sha256": "5e95b02d40c15aea3ff6f4e8428dfbe52bc91ea95b18a072254d701a1279b392"
+    },
+    {
+      "url": "./assets/images/spider.svg",
+      "category": "images",
+      "bytes": 2068,
+      "sha256": "254d9bdc132976d5d603e62813e7f1b61d1f207d8dda30052bab28c3be56980a"
+    },
+    {
+      "url": "./assets/images/stone-golem.svg",
+      "category": "images",
+      "bytes": 483755,
+      "sha256": "e0ae096b17767379bed99b2f32531e7419e39e92bd798fdd4eede3e5529a47a9"
+    },
+    {
+      "url": "./assets/images/tiger.svg",
+      "category": "images",
+      "bytes": 3615,
+      "sha256": "210d756e42aa7909ffbac8287df1235be8f860bd9e14b3bb109ab7f437a68487"
+    },
+    {
+      "url": "./assets/images/white-jade-python.svg",
+      "category": "images",
+      "bytes": 2873,
+      "sha256": "0abc744bf853c9bbd20286ec4efab7d0e36583f64cf5987a948b236c9e08bb5c"
+    },
+    {
+      "url": "./assets/images/wolf.svg",
+      "category": "images",
+      "bytes": 1772,
+      "sha256": "f798ef3efd5b306946bd6a74411802d66b6b18332e0d5cdf79c9afb88eb2b2f4"
+    },
+    {
+      "url": "./assets/images/zhengyang-chief.svg",
+      "category": "images",
+      "bytes": 365096,
+      "sha256": "f5d9f1001b0a4fd976025d5517559fba87e307797b5dd4066356be473e199dd4"
+    },
+    {
+      "url": "./assets/images/zhengyang-disciple.svg",
+      "category": "images",
+      "bytes": 60386,
+      "sha256": "d6baafbc4a1afe7ff8ad7003401f23d87f890e3945ef65e0eff77c3fdb345a35"
+    },
+    {
+      "url": "./assets/images/zhengyang-elite.svg",
+      "category": "images",
+      "bytes": 69346,
+      "sha256": "a056cdf02b0cb781723d55dbdf4ed280a78d221e63e7e9e32e7afa65d3f4b21a"
+    },
+    {
+      "url": "./assets/images/zhengyang-left-protector.svg",
+      "category": "images",
+      "bytes": 557932,
+      "sha256": "da24a0ffd7f9fd360edbb04e4e5dfb2e19971c4c52a48b7f5c2e6727b5c95ca8"
+    },
+    {
+      "url": "./assets/images/zhengyang-outer-disciple.svg",
+      "category": "images",
+      "bytes": 273426,
+      "sha256": "145dbf33f2ad46b910702998b345a59adf6caa3e51d66e1d7cc0dda60ea3d03c"
+    },
+    {
+      "url": "./assets/skill-art/bodyTemper.svg",
+      "category": "images",
+      "bytes": 1126,
+      "sha256": "191fac1862c9e80c5cf8359543442725b49ad70a5d3d045af8b5ca8163091019"
+    },
+    {
+      "url": "./assets/skill-art/clearWind.svg",
+      "category": "images",
+      "bytes": 1179,
+      "sha256": "d7068b69358bba574643225c6d4d6bb425ee047768c338b16abfbf603d2734b7"
+    },
+    {
+      "url": "./assets/skill-art/coldThunderSword.svg",
+      "category": "images",
+      "bytes": 1887,
+      "sha256": "cd30fe8f01c9ad650652d800cf85d5ba0c3a64b518ba7d04a39a1231ba286a5e"
+    },
+    {
+      "url": "./assets/skill-art/devouringHeaven.svg",
+      "category": "images",
+      "bytes": 1320,
+      "sha256": "54e27397fe838d6af80b83a297862d9beec237945439da541f8531074697cb9b"
+    },
+    {
+      "url": "./assets/skill-art/diamondBody.svg",
+      "category": "images",
+      "bytes": 1053,
+      "sha256": "1dfb7db0314b60047e6b19768ef0d60099799ad3c8320a7091f641564defc5bb"
+    },
+    {
+      "url": "./assets/skill-art/earthEscape.svg",
+      "category": "images",
+      "bytes": 1212,
+      "sha256": "131af064fe4ef872d38b69a375b11dbb728c61a7c16cda4a860683fc1429e781"
+    },
+    {
+      "url": "./assets/skill-art/evergreenTribulation.svg",
+      "category": "images",
+      "bytes": 1152,
+      "sha256": "df4a0bdcef00cf8bf006231496bcb736fa087e58305e4e836ed1e76e30df2513"
+    },
+    {
+      "url": "./assets/skill-art/fireball.svg",
+      "category": "images",
+      "bytes": 1119,
+      "sha256": "e941ffe00c88ff7a05d4aef7cf32198436d5d20b05803b424d78c0c929a6658e"
+    },
+    {
+      "url": "./assets/skill-art/fiveElementsSword.svg",
+      "category": "images",
+      "bytes": 2538,
+      "sha256": "9f19ed023e0bd2c9f1f7a7091fff7f748929377533859d3f4e5439d8b95d97b6"
+    },
+    {
+      "url": "./assets/skill-art/fiveThunder.svg",
+      "category": "images",
+      "bytes": 1001,
+      "sha256": "43ec53210216728d125383d4a7b449839cb78a081f68078035a50ae942fa812b"
+    },
+    {
+      "url": "./assets/skill-art/fiveThunderHeartPalm.svg",
+      "category": "images",
+      "bytes": 1124,
+      "sha256": "81d3ca6bd0152b9111bb52c307a32d1cffa871a0d8b46634207b7b7e935099af"
+    },
+    {
+      "url": "./assets/skill-art/flameIgnitionArt.svg",
+      "category": "images",
+      "bytes": 1156,
+      "sha256": "43169f3fc38bb75ebfea8ec607e0441a0572bfaa65387b8ca889bf25d878050f"
+    },
+    {
+      "url": "./assets/skill-art/fourSeasReturn.svg",
+      "category": "images",
+      "bytes": 1315,
+      "sha256": "04bdc08e880d4252d30334b9c0d4c524af8601350d7c00ca393824f71d2d3e44"
+    },
+    {
+      "url": "./assets/skill-art/frenzyPalm.svg",
+      "category": "images",
+      "bytes": 1267,
+      "sha256": "a99001a0ff1f3427993cf3afae935a055ce60caa12682773b3274e3a956c0767"
+    },
+    {
+      "url": "./assets/skill-art/frostSpell.svg",
+      "category": "images",
+      "bytes": 1663,
+      "sha256": "b041038b8d0d4531e61b5ef241e672353120c0073851db90b5e3b975710a3372"
+    },
+    {
+      "url": "./assets/skill-art/gatherQi.svg",
+      "category": "images",
+      "bytes": 1091,
+      "sha256": "a5105871ce1f2b3715573a89f96e055a80be7d8ae5b83f18449b98ba19464aa7"
+    },
+    {
+      "url": "./assets/skill-art/ghostFlash.svg",
+      "category": "images",
+      "bytes": 1107,
+      "sha256": "e0e9bb9b03e361627ad5adaa1f2dad604248290ff0c94dbd37a54acad08a1d65"
+    },
+    {
+      "url": "./assets/skill-art/goldLight.svg",
+      "category": "images",
+      "bytes": 1824,
+      "sha256": "4ac196a7ecf371bd1f044629c08e61e9194297310ce1709c077c15f1a4ec5b56"
+    },
+    {
+      "url": "./assets/skill-art/greenWood.svg",
+      "category": "images",
+      "bytes": 1204,
+      "sha256": "f674eb41ed2734c86896ba07bb2052a692e7caa96c2604ac2a713bbd82013415"
+    },
+    {
+      "url": "./assets/skill-art/heartDemonCard.svg",
+      "category": "images",
+      "bytes": 1280,
+      "sha256": "3280741cdfc56d5c8d107695ee764727e062090c3c59e76d0de508359de21f3a"
+    },
+    {
+      "url": "./assets/skill-art/heartSword.svg",
+      "category": "images",
+      "bytes": 1322,
+      "sha256": "ffd2060bd708d1e64722c5f50b50b0e21f3cee77dfa2837ef2546b581618c892"
+    },
+    {
+      "url": "./assets/skill-art/humanSwordUnity.svg",
+      "category": "images",
+      "bytes": 1310,
+      "sha256": "66b84ffb47af1393d740a5216e0ab23b97e8117c23a2fb942dd138877f1418f0"
+    },
+    {
+      "url": "./assets/skill-art/huntianGong.svg",
+      "category": "images",
+      "bytes": 1235,
+      "sha256": "576e401a3e93f69261f044965ea982cf05e10270d523d2fa1a92a3941e43bb74"
+    },
+    {
+      "url": "./assets/skill-art/inchPunch.svg",
+      "category": "images",
+      "bytes": 1091,
+      "sha256": "604b8da7106f1446a76d4ed98b54533ee4c5a1954c2e76607c846fae10af3a68"
+    },
+    {
+      "url": "./assets/skill-art/ironBone.svg",
+      "category": "images",
+      "bytes": 1379,
+      "sha256": "601ef5cb324f2bfea39f5c12b1be12ab10d666658437bf41cc769d1359fee932"
+    },
+    {
+      "url": "./assets/skill-art/karmaFire.svg",
+      "category": "images",
+      "bytes": 1157,
+      "sha256": "9f6585bc6c13886802174f71f886c3a26e994c99b575c23e3f9b74b11c4ce0f4"
+    },
+    {
+      "url": "./assets/skill-art/kuiThunder.svg",
+      "category": "images",
+      "bytes": 1056,
+      "sha256": "fa3fa2bbd47fd1b6ff8cadb5a881fc00f3ebe0ca10e1ca26e862c67dc49403ac"
+    },
+    {
+      "url": "./assets/skill-art/metalStoneBurst.svg",
+      "category": "images",
+      "bytes": 1793,
+      "sha256": "50d245838c53a00fa12d09f89e721e37aefba3ae82d1a4841ee448eadcbf2814"
+    },
+    {
+      "url": "./assets/skill-art/mountTai.svg",
+      "category": "images",
+      "bytes": 1174,
+      "sha256": "2c2d6e88920282f341e3bcc5c21f0a11d6f78b0965bba8950e107026f781f868"
+    },
+    {
+      "url": "./assets/skill-art/mountainForce.svg",
+      "category": "images",
+      "bytes": 1248,
+      "sha256": "5085de5a0e48997d76ad0c96e24f848134bfeca649ff005d28c6289a5ce679fc"
+    },
+    {
+      "url": "./assets/skill-art/myriadSwords.svg",
+      "category": "images",
+      "bytes": 2331,
+      "sha256": "bcfca61a4b71963e56ad8020fd1a81739f9bca518e20469803b5ee0be481fff1"
+    },
+    {
+      "url": "./assets/skill-art/myriadSwordsReturn.svg",
+      "category": "images",
+      "bytes": 2252,
+      "sha256": "5431e600583f853a8f4cb6dec75fa01ae47c476af011a9364af6ca4583bbb453"
+    },
+    {
+      "url": "./assets/skill-art/nirvanaSpell.svg",
+      "category": "images",
+      "bytes": 1285,
+      "sha256": "288b8f1a912e33d7509956f5df43940714de5d359a1db5ecc7525d60dddc66cf"
+    },
+    {
+      "url": "./assets/skill-art/palmThunder.svg",
+      "category": "images",
+      "bytes": 1124,
+      "sha256": "c2f99ff6f1c1cd342e5d3fbc41bca59c0188bdef92e3339d2e51479a3ace2702"
+    },
+    {
+      "url": "./assets/skill-art/qiEating.svg",
+      "category": "images",
+      "bytes": 1155,
+      "sha256": "e441fdce5b9a4777be266a5be700531fa0eac46f3fda3025bb0a1038401cba1b"
+    },
+    {
+      "url": "./assets/skill-art/qianKunOneQi.svg",
+      "category": "images",
+      "bytes": 1406,
+      "sha256": "1faeeb0859595414aa9d29438911773429b60a857bcff6d4414e2048e39adba5"
+    },
+    {
+      "url": "./assets/skill-art/redDragonBreath.svg",
+      "category": "images",
+      "bytes": 1332,
+      "sha256": "2b1700437b648551c6dd4d066d17ab0b51cebc3140d38b2f01d67958fa69054d"
+    },
+    {
+      "url": "./assets/skill-art/rockFinger.svg",
+      "category": "images",
+      "bytes": 1086,
+      "sha256": "2b7b4771b629df5e1f7c5ceb589ee55bf5b4b8c8992c6c9a365c3ef4cbbec4c2"
+    },
+    {
+      "url": "./assets/skill-art/samadhiTrueFire.svg",
+      "category": "images",
+      "bytes": 1275,
+      "sha256": "45d6727e6045968d47d73a32843770011c3d5ecd8254040a5435e41915515c6c"
+    },
+    {
+      "url": "./assets/skill-art/samadhiWind.svg",
+      "category": "images",
+      "bytes": 1436,
+      "sha256": "b4668c01a6d0dd35759234b4734db488aed95150290b7caf8daf099d4b01fa17"
+    },
+    {
+      "url": "./assets/skill-art/shadowKick.svg",
+      "category": "images",
+      "bytes": 1164,
+      "sha256": "d4fbe5a448f5a9bd22310a513494f0013114eabf2674b4148b742f21b26e1a95"
+    },
+    {
+      "url": "./assets/skill-art/stoneScreen.svg",
+      "category": "images",
+      "bytes": 1203,
+      "sha256": "cedb1e8cc0f24fc01654561f333abe1a11325373911877420ee44fd7d0f20973"
+    },
+    {
+      "url": "./assets/skill-art/sweetRain.svg",
+      "category": "images",
+      "bytes": 1086,
+      "sha256": "9f58f555d000ce20c28d994e76fd04a6acf55337cf6de308fe21bfcbc799fb01"
+    },
+    {
+      "url": "./assets/skill-art/swordControl.svg",
+      "category": "images",
+      "bytes": 1299,
+      "sha256": "ea16d47d56bb9711b0e40530e485ae538f47590bbc4200e4de413084dd9f588f"
+    },
+    {
+      "url": "./assets/skill-art/swordDomain.svg",
+      "category": "images",
+      "bytes": 1378,
+      "sha256": "2567d5de8b2f7a6c13b3de01812599a9970dfaedef55c8514ed8e20974bea7b8"
+    },
+    {
+      "url": "./assets/skill-art/swordGod.svg",
+      "category": "images",
+      "bytes": 3049,
+      "sha256": "1656200f9c84487226bfbc7b3b3a9f5b06f98c235759df0d2f41a7616303d4b1"
+    },
+    {
+      "url": "./assets/skill-art/swordGuard.svg",
+      "category": "images",
+      "bytes": 1290,
+      "sha256": "58e94f8880ae9b2d4987e88dc6d4f124cf8845d902361263db87584e19b374fc"
+    },
+    {
+      "url": "./assets/skill-art/swordHeartClarity.svg",
+      "category": "images",
+      "bytes": 1383,
+      "sha256": "68e4b482741b3a7ee0a7f62bff5813df658e48da0d7e7af73a1a4ee1e2fbbaa7"
+    },
+    {
+      "url": "./assets/skill-art/swordIntent.svg",
+      "category": "images",
+      "bytes": 1218,
+      "sha256": "80ae40cdaa2398fc9d400e31c71100d3aa7e7797cb4ea78d2c4196264054735e"
+    },
+    {
+      "url": "./assets/skill-art/swordQiSlash.svg",
+      "category": "images",
+      "bytes": 1238,
+      "sha256": "db23f091636b4c5d5af98baa3f9cdac664ef0de2ee765b29a62616c21f6a530a"
+    },
+    {
+      "url": "./assets/skill-art/thunderSeal.svg",
+      "category": "images",
+      "bytes": 1018,
+      "sha256": "833642c071629c5d66c24300f27d2be50acab0605b8cb9703e94df71d083a5fe"
+    },
+    {
+      "url": "./assets/skill-art/undyingBody.svg",
+      "category": "images",
+      "bytes": 1308,
+      "sha256": "8cbca6bc1afb79da61ff6903bcea64fb198f5f69ef069d4854f7e463770db900"
+    },
+    {
+      "url": "./assets/skill-art/valleyGodCurse.svg",
+      "category": "images",
+      "bytes": 1251,
+      "sha256": "a8ff31439040fbeb3d965e8622f7b3e77840358892cfa8d52e648d2223a84f0c"
+    },
+    {
+      "url": "./assets/skill-art/waterDragon.svg",
+      "category": "images",
+      "bytes": 1226,
+      "sha256": "47d709c9ff9038af0612067e7517ea14f3f6f0561f92def139ad62cb49bee8b7"
+    },
+    {
+      "url": "./assets/skill-art/wildfire.svg",
+      "category": "images",
+      "bytes": 1236,
+      "sha256": "5a5898a2e973349a3d3622182b8d438c94cde8c7c80d70623975486f1ecb65b2"
+    },
+    {
+      "url": "./assets/skill-art/xuanpinQi.svg",
+      "category": "images",
+      "bytes": 1199,
+      "sha256": "0954498039a7bf3a5a1c03e2f5fab8227b33011d3a2d033cb8daf6b4c38c2c74"
+    },
+    {
+      "url": "./assets/skill-art/yinWaterThunder.svg",
+      "category": "images",
+      "bytes": 1031,
+      "sha256": "ef102bc0f01a73a12f18c352944debe2b21e9615672994eccdd12504ce9432c8"
+    },
+    {
+      "url": "./index.html",
+      "category": "scripts",
+      "bytes": 2042,
+      "sha256": "7dbb79418965ccf3baef5347adcde68e390e3bb224b2e39ab030e185a935fcd5"
+    },
+    {
+      "url": "./src/core/audio.js",
+      "category": "scripts",
+      "bytes": 13130,
+      "sha256": "f92ab9b1660c4f0f71372301140e61b6ae90e5c8fc37121062697839bf2caa80"
+    },
+    {
+      "url": "./src/core/combat-visuals.js",
+      "category": "scripts",
+      "bytes": 933,
+      "sha256": "f2f702af35b85e76d0c60c23f05c9f1776d68280d8cb77c6f9b47c4e4ff06775"
+    },
+    {
+      "url": "./src/core/combat.js",
+      "category": "scripts",
+      "bytes": 111545,
+      "sha256": "6e3b79d5efa9402014013ec52deecd844560f112ca770e3732b7bd2eb58bf466"
+    },
+    {
+      "url": "./src/core/effects.js",
+      "category": "scripts",
+      "bytes": 110287,
+      "sha256": "43f8bf51dc416302032fd440850c9db4a12cf810410704c4b6c56136e559dcb2"
+    },
+    {
+      "url": "./src/core/enemy-ai.js",
+      "category": "scripts",
+      "bytes": 24151,
+      "sha256": "529a3365279f650a55cef7b1268f4d8956b073852e3a599ae84254c08971927d"
+    },
+    {
+      "url": "./src/core/events.js",
+      "category": "scripts",
+      "bytes": 17664,
+      "sha256": "d4d9a493b9a995bbd3d443c3fa0ce98b1760da9b1d3a523b38819d9d984cf425"
+    },
+    {
+      "url": "./src/core/i18n.js",
+      "category": "scripts",
+      "bytes": 669,
+      "sha256": "ca8d5935978675f8a437567fde02f713ad018392769c795d2d347f7251cbc9ba"
+    },
+    {
+      "url": "./src/core/lethal.js",
+      "category": "scripts",
+      "bytes": 1302,
+      "sha256": "446917d761ce55c30b4463f406fb8e62a8b0ceb982c69cee800241321f277c3a"
+    },
+    {
+      "url": "./src/core/map.js",
+      "category": "scripts",
+      "bytes": 10672,
+      "sha256": "d89d4aabd403ef41800d3d040e4aa74a1ca654a8ddd30552fa56943d1efcf26c"
+    },
+    {
+      "url": "./src/core/resource-hash.js",
+      "category": "scripts",
+      "bytes": 2605,
+      "sha256": "125175e8077521aa5d14ebe21326f69b9a74da3ef5f899e58daf9ba3a9d4fafd"
+    },
+    {
+      "url": "./src/core/resource-store.js",
+      "category": "scripts",
+      "bytes": 4123,
+      "sha256": "26e24b4e25f90e60adcb47b59a9ccd1424d37a7f8686d9e8c6950247d7d1420b"
+    },
+    {
+      "url": "./src/core/resources.js",
+      "category": "scripts",
+      "bytes": 10918,
+      "sha256": "6a5dd8b37388da8f33778a6d4dbc023b2d51ae0fcc422f7a14bf261e510c52c8"
+    },
+    {
+      "url": "./src/core/rest.js",
+      "category": "scripts",
+      "bytes": 26702,
+      "sha256": "4ebd4789a13848dc172bebb9503c8c77bd917ed105cd3c4308abd0cc6e40f0c9"
+    },
+    {
+      "url": "./src/core/rng.js",
+      "category": "scripts",
+      "bytes": 1125,
+      "sha256": "de039922800070d487e48c447178d49adb5489cc7d5cb0884b15af700650f417"
+    },
+    {
+      "url": "./src/core/run-records.js",
+      "category": "scripts",
+      "bytes": 18799,
+      "sha256": "4f1fa6d021fca1af22c754a3a74bed158146c1d78107d285ba21d50f4f01c5a4"
+    },
+    {
+      "url": "./src/core/save.js",
+      "category": "scripts",
+      "bytes": 5107,
+      "sha256": "c8ef8a79e200c964ec012f7f10976a8db504808b30038554943edca6584c7ddb"
+    },
+    {
+      "url": "./src/core/shop.js",
+      "category": "scripts",
+      "bytes": 18697,
+      "sha256": "f579ba37f470bc730730a00d480302c5c71bced439517d5f1c381df2c1b2c7f9"
+    },
+    {
+      "url": "./src/core/state.js",
+      "category": "scripts",
+      "bytes": 15044,
+      "sha256": "c9d4d8382576edb2df1e1ff16c90ede8af2361f22e4583dc53dc4686fa1c74c2"
+    },
+    {
+      "url": "./src/core/status.js",
+      "category": "scripts",
+      "bytes": 29479,
+      "sha256": "f542d455bcb887701b257b53e518708057bf5b0bae6265fb6824ff16c055ecc0"
+    },
+    {
+      "url": "./src/core/version.js",
+      "category": "scripts",
+      "bytes": 112,
+      "sha256": "217af6939503eff468b0430c286a93e98513cce52a15624d4d7b842cc3e013be"
+    },
+    {
+      "url": "./src/data/artifacts.js",
+      "category": "scripts",
+      "bytes": 2569,
+      "sha256": "67c20f282b572e6aa809263cbad5f2d9783c8f7caf1eb9d05363a54fcbafc4e0"
+    },
+    {
+      "url": "./src/data/cards.js",
+      "category": "scripts",
+      "bytes": 33271,
+      "sha256": "197ecbc1265c68dc880b2c9e99ae0f24541c40411ec1d3d55f1ba5e365d30656"
+    },
+    {
+      "url": "./src/data/encounters.js",
+      "category": "scripts",
+      "bytes": 2746,
+      "sha256": "a63669165121aaec12b5f015be2f67dda0b855bb4bb0b18dba48bf21c6b9a561"
+    },
+    {
+      "url": "./src/data/enemies.js",
+      "category": "scripts",
+      "bytes": 48686,
+      "sha256": "44c81e62751ffa0b430a6494eccd4d567ac04cfafc72fddc27044c588f644891"
+    },
+    {
+      "url": "./src/data/events-data.js",
+      "category": "scripts",
+      "bytes": 3335,
+      "sha256": "14db8c4e9a041312e33b06750bc3e4c2d26046a5686347fe407fef1135dc4fe2"
+    },
+    {
+      "url": "./src/data/intent-details.js",
+      "category": "scripts",
+      "bytes": 5323,
+      "sha256": "58b86e929ed588f2b375b2228d27e9672ef65b8c8c00881b7301bc532b1ad416"
+    },
+    {
+      "url": "./src/data/items.js",
+      "category": "scripts",
+      "bytes": 16544,
+      "sha256": "178d7336441e6cb5e2490ad9668c72da0dc30cd64232d2423119298b75c191ed"
+    },
+    {
+      "url": "./src/data/map-data.js",
+      "category": "scripts",
+      "bytes": 4354,
+      "sha256": "21548cbb3f0b59378f37998ba1d06f7547fb1e293290f4ad5267418054d3b995"
+    },
+    {
+      "url": "./src/data/progression.js",
+      "category": "scripts",
+      "bytes": 14417,
+      "sha256": "df56d239efebb7b82df5296c456cbd13ac0f01791a30e7eb6e61d363eac3cdd0"
+    },
+    {
+      "url": "./src/data/skill-sfx.js",
+      "category": "scripts",
+      "bytes": 7657,
+      "sha256": "1e69ec6d0a1eb48dfe995092b5ffbf13a5f716915137e163b30c190b532724b0"
+    },
+    {
+      "url": "./src/data/styles.js",
+      "category": "scripts",
+      "bytes": 2761,
+      "sha256": "12cfaad63588d1511ece3b110fcde1160f1869cafdc35de7bf6d148606dc24bc"
+    },
+    {
+      "url": "./src/data/translations.js",
+      "category": "scripts",
+      "bytes": 202628,
+      "sha256": "c4255c01f830f0de39c1350079f8b18cf1d4e2b2c17c0ddcce76b5953dc49b47"
+    },
+    {
+      "url": "./src/main.js",
+      "category": "scripts",
+      "bytes": 156,
+      "sha256": "73a571633f76336426fb50440d76197ef9969493874a40f3813df3b41aad4c37"
+    },
+    {
+      "url": "./src/ui/app.js",
+      "category": "scripts",
+      "bytes": 134373,
+      "sha256": "25f08472ae9697f7edd6258605dc3a1a115f4fb316b909756a909092609765f3"
+    },
+    {
+      "url": "./src/ui/templates.js",
+      "category": "scripts",
+      "bytes": 139227,
+      "sha256": "6f8c5ea8b4cbb50cfb81a511701d7f95f2a402e89cf4e2077c4bfa9cb3111ac4"
+    },
+    {
+      "url": "./styles/app.css",
+      "category": "styles",
+      "bytes": 99230,
+      "sha256": "6db0dd7de3156bc135284d0b93c5b446f17cb4a766a87ef798835862fd01fd6c"
+    },
+    {
+      "url": "./styles/base.css",
+      "category": "styles",
+      "bytes": 1957,
+      "sha256": "aac2e1568cf68a753f3b6264bcd4841e44098cae0f7455f0e5b036536a8d303e"
+    }
+  ],
+  "revision": "f7cb5393c3cc5677f723532873b35da633e62f3311871d10bc68a77bd155deea"
+}

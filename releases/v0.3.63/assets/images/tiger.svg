@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+  <defs>
+    <linearGradient id="stoneFur" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#bdb5a5"/><stop offset=".5" stop-color="#817d73"/><stop offset="1" stop-color="#555b5a"/></linearGradient>
+    <linearGradient id="stoneDark" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#77776f"/><stop offset="1" stop-color="#414748"/></linearGradient>
+    <linearGradient id="amber" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#ffe07a"/><stop offset=".45" stop-color="#d69a35"/><stop offset="1" stop-color="#8c5427"/></linearGradient>
+    <linearGradient id="muzzle" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#d7cbb6"/><stop offset="1" stop-color="#8c877d"/></linearGradient>
+  </defs>
+  <rect width="200" height="200" rx="24" fill="#18212d"/>
+  <g id="front-facing-stone-tiger" transform="translate(0 -14)">
+    <!-- Broad first-person stance, deliberately echoing the current wolf portraits. -->
+    <path d="M13 171c8-44 36-70 73-77h28c37 7 65 33 73 77l-34 17H47Z" fill="url(#stoneDark)" stroke="#3e4546" stroke-width="6" stroke-linejoin="round"/>
+    <path d="M45 149 31 194h37l20-50m67 5 14 45h-37l-20-50" fill="#666b68" stroke="#3e4546" stroke-width="6" stroke-linejoin="round"/>
+
+    <!-- Smaller rounded tiger ears instead of wolf-like high points. -->
+    <path d="M61 68Q47 51 57 38q12-11 29 8l5 22Z" fill="#6a6a63" stroke="#3e4546" stroke-width="5"/>
+    <path d="M139 68q14-17 4-30-12-11-29 8l-5 22Z" fill="#6a6a63" stroke="#3e4546" stroke-width="5"/>
+    <path d="M62 53q-3-9 3-11 8 2 15 13l-10 7Zm76 0q3-9-3-11-8 2-15 13l10 7Z" fill="url(#amber)" opacity=".88"/>
+
+    <!-- Wide heavy tiger head with strong cheek mass. -->
+    <path d="M62 65q11-25 38-25t38 25l7 40q-2 30-20 44l-25 17-25-17q-18-14-20-44Z" fill="url(#stoneFur)" stroke="#3e4546" stroke-width="6" stroke-linejoin="round"/>
+
+    <!-- Recognizable tiger stripe crown and cheek bands. -->
+    <g fill="#363d3e">
+      <path d="m100 46 11 17-11 13-11-13Z"/>
+      <path d="m82 49 10 15-9 10-12-17Z"/>
+      <path d="m118 49-10 15 9 10 12-17Z"/>
+      <path d="m61 82 25 8-9 9-19-7Z"/>
+      <path d="m139 82-25 8 9 9 19-7Z"/>
+      <path d="m59 105 24 6-8 9-19-5Z"/>
+      <path d="m141 105-24 6 8 9 19-5Z"/>
+    </g>
+
+    <!-- Low, predatory tiger eyes with amber mineral glow. -->
+    <path d="M68 87q13-9 27-3l-8 13-18 1Zm64 0q-13-9-27-3l8 13 18 1Z" fill="#343a3b"/>
+    <path d="M73 89q9-5 17-2l-5 7-12 1Zm54 0q-9-5-17-2l5 7 12 1Z" fill="url(#amber)"/>
+    <circle cx="83" cy="90" r="2" fill="#fff4c8"/><circle cx="117" cy="90" r="2" fill="#fff4c8"/>
+
+    <!-- Broad feline muzzle, nose, mouth and exposed canines. -->
+    <path d="M70 111q30-19 60 0l-7 31-23 19-23-19Z" fill="url(#muzzle)" stroke="#555b59" stroke-width="4"/>
+    <path d="m87 113 13-7 13 7-13 11Z" fill="#242a2b"/>
+    <path d="M81 127q19 18 38 0l-4 19-15 11-15-11Z" fill="#45494a" stroke="#555a59" stroke-width="2.5"/>
+    <path d="m85 128 7 15 7-11 3 11 7-15" fill="#efe7d5"/>
+
+    <!-- Whiskers and carved mineral cracks retain the stone-guardian feel. -->
+    <path d="M67 113 40 124m28 2-29 10m94-23 27 11m-28 2 29 10" stroke="#d8cdb9" stroke-width="3.5" opacity=".47" stroke-linecap="round"/>
+    <g fill="none" stroke="#4a5050" stroke-width="3.5" stroke-linecap="round" opacity=".92"><path d="m51 154 23-12-5 26"/><path d="m149 154-23-12 5 26"/><path d="m75 72 7 9-6 10"/><path d="m125 72-7 9 6 10"/></g>
+    <g fill="none" stroke="#bf8132" stroke-width="3" stroke-linecap="round" opacity=".82"><path d="m61 140 15-7 9 7"/><path d="m139 140-15-7-9 7"/><path d="m88 166 12 9 12-9"/></g>
+  </g>
+</svg>

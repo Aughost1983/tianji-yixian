@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+  <defs>
+    <linearGradient id="fur" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#c16d70"/><stop offset=".55" stop-color="#874651"/><stop offset="1" stop-color="#522d39"/></linearGradient>
+    <linearGradient id="muzzle" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#bd7779"/><stop offset="1" stop-color="#653943"/></linearGradient>
+  </defs>
+  <rect width="200" height="200" rx="24" fill="#18212d"/>
+  <g transform="translate(0 -6.5)">
+    <ellipse cx="100" cy="160" rx="85" ry="16" fill="#0b1016" opacity=".62"/>
+    <g id="front-facing-berserk-wolf">
+    <path d="M17 162c9-42 35-66 69-71h28c34 5 60 29 69 71l-34 17H51Z" fill="url(#fur)" stroke="#4a2933" stroke-width="6" stroke-linejoin="round"/>
+    <path d="M48 143 34 186h31l21-47m66 4 14 43h-31l-21-47" fill="#75404a" stroke="#4a2933" stroke-width="5" stroke-linejoin="round"/>
+    <path d="M50 75 57 27l31 31h24l31-31 7 48-13 55-37 26-37-26Z" fill="url(#fur)" stroke="#4a2933" stroke-width="6" stroke-linejoin="round"/>
+    <path d="M58 42 80 61 63 76Zm84 0-22 19 17 15Z" fill="#8f4650"/>
+    <path d="M69 84 94 78l-9 17-18 2Zm62 0-25-6 9 17 18 2Z" fill="#ff4a4f"/>
+    <circle cx="82" cy="88" r="2" fill="#fff3d7"/><circle cx="118" cy="88" r="2" fill="#fff3d7"/>
+    <path d="M75 109q25-22 50 0l-6 33-19 15-19-15Z" fill="url(#muzzle)" stroke="#5b3039" stroke-width="4"/>
+    <path d="m89 111 11-6 11 6-11 9Z" fill="#25151b"/>
+    <path d="M79 125q21 22 42 0l-5 23-16 10-16-10Z" fill="#35171e" stroke="#4a2933" stroke-width="3"/>
+    <path d="m84 126 7 15 7-12 7 12 7-15" fill="#eee4d4"/>
+    <path d="M63 103 42 115m95-12 21 12M66 121l-25 8m93-8 25 8" stroke="#e18a8e" stroke-width="4" opacity=".55" stroke-linecap="round"/>
+    <path d="m70 69 11-21m21 14-2-25m30 32-11-21" stroke="#d24d55" stroke-width="4" stroke-linecap="round" opacity=".9"/>
+    </g>
+  </g>
+</svg>
