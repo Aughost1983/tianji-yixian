@@ -5,9 +5,9 @@
 <!-- AUTO_RELEASE_START -->
 ## 当前公开版本
 
-- 游戏版本：**v0.3.68**
+- 游戏版本：**v0.3.69**
 - 公开试玩：https://aughost1983.github.io/tianji-yixian/
-- 发布包：`tianji-yixian-v0.3.68-web.zip`
+- 发布包：`tianji-yixian-v0.3.69-web.zip`
 <!-- AUTO_RELEASE_END -->
 
 ## 运行与存档
