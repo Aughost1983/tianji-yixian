@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="80" height="80" viewBox="0 0 80 80" fill="none">
+  <title>上品灵玉</title>
+  <defs>
+    <linearGradient id="ice-jade" x1="22" y1="17" x2="59" y2="57" gradientUnits="userSpaceOnUse"><stop stop-color="#F7FBF2"/><stop offset=".5" stop-color="#DCEFE9"/><stop offset="1" stop-color="#ACD5CF"/></linearGradient>
+    <linearGradient id="jade-core" x1="30" y1="27" x2="50" y2="54" gradientUnits="userSpaceOnUse"><stop stop-color="#F6FBF0" stop-opacity=".44"/><stop offset="1" stop-color="#B6DAD0" stop-opacity=".16"/></linearGradient>
+  </defs>
+  <g data-mineral-piece="1" stroke-linejoin="round" stroke-linecap="round">
+    <path d="M31 15L52 16L65 28L62 57L49 71L28 68L16 53L19 29Z" fill="#82ADA7" stroke="#18212D" stroke-width="2.7"/>
+    <path d="M31 10L52 11L65 23L62 52L49 66L28 63L16 48L19 24Z" fill="url(#ice-jade)" stroke="#18212D" stroke-width="2.7"/>
+    <path d="M31 10L52 11L50 16L33 15L24 27L21 47L16 48L19 24Z" fill="#F9FDF5"/>
+    <path d="M52 11L65 23L62 52L49 66L28 63L31 57L47 60L57 49L60 25L50 16Z" fill="#BDDCD3"/>
+    <path d="M33 21L47 20L56 29L53 47L44 56L32 53L26 44L28 29Z" fill="url(#jade-core)"/>
+    <path d="M31 57L47 60L57 49" stroke="#EDF8EF" stroke-width="1.5" opacity=".72"/>
+    <path d="M25 26L33 15L44 15" stroke="#FFFFFF" stroke-width="1.7"/>
+    <path d="M33 40C39 37 42 43 48 37" stroke="#92BEB5" stroke-width="1" opacity=".32"/>
+  </g>
+</svg>

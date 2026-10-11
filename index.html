@@ -1,0 +1,34 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+  <meta name="theme-color" content="#111827" />
+  <title>天机一线</title>
+</head>
+<body>
+  <div id="app" aria-live="polite"></div>
+  <script type="module">
+    const manifestUrl = new URL("./release.json", location.href);
+    manifestUrl.searchParams.set("_", Date.now().toString());
+    const response = await fetch(manifestUrl, { cache: "no-store" });
+    if (!response.ok) throw new Error(`Failed to load release manifest: ${response.status}`);
+    const { version } = await response.json();
+    if (!/^v\d+\.\d+\.\d+$/.test(version)) throw new Error("Invalid release version");
+
+    const releaseBase = new URL(`./releases/${version}/`, location.href);
+    const base = document.createElement("base");
+    base.href = releaseBase.href;
+    document.head.append(base);
+
+    for (const file of ["styles/base.css", "styles/app.css"]) {
+      const link = document.createElement("link");
+      link.rel = "stylesheet";
+      link.href = new URL(file, releaseBase).href;
+      document.head.append(link);
+    }
+
+    await import(new URL("src/main.js", releaseBase).href + "?release=" + encodeURIComponent(version));
+  </script>
+</body>
+</html>

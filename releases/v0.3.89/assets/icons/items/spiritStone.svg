@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="80" height="80" viewBox="0 0 80 80" fill="none">
+  <title>灵石</title>
+  <g stroke-linejoin="round" stroke-linecap="round">
+    <g data-mineral-piece="1">
+      <path d="M17 26L25 19L33 33L30 51L20 59L10 46L11 34Z" fill="#AB9BCB" stroke="#18212D" stroke-width="2.5"/>
+      <path d="M25 19L23 39L11 34L17 26Z" fill="#DECFEB"/>
+      <path d="M23 39L33 33L30 51L20 59L18 46Z" fill="#83759F"/>
+      <path d="M16 31L21 27" stroke="#F2E9F5" stroke-width="1.5"/>
+    </g>
+    <g data-mineral-piece="2">
+      <path d="M35 10L45 14L53 36L48 54L34 63L27 43L29 23Z" fill="#73C5B4" stroke="#18212D" stroke-width="2.7"/>
+      <path d="M35 10L39 35L29 23Z" fill="#C8E9D9"/>
+      <path d="M39 35L45 14L53 36L48 54L40 54Z" fill="#499B9D"/>
+      <path d="M39 35L40 54L34 63L27 43Z" fill="#99D5C5"/>
+      <path d="M33 23L35 18" stroke="#E9F7EB" stroke-width="1.6"/>
+    </g>
+    <g data-mineral-piece="3">
+      <path d="M57 27L63 23L70 37L68 51L60 59L49 48L51 35Z" fill="#D4B67A" stroke="#18212D" stroke-width="2.5"/>
+      <path d="M63 23L61 42L51 35Z" fill="#F2DFB5"/>
+      <path d="M61 42L70 37L68 51L60 59L57 47Z" fill="#B88D65"/>
+      <path d="M59 31L61 28" stroke="#FFF2D3" stroke-width="1.4"/>
+    </g>
+    <g data-mineral-piece="4">
+      <path d="M25 49L34 44L46 53L45 66L34 72L18 64Z" fill="#78AACB" stroke="#18212D" stroke-width="2.5"/>
+      <path d="M34 44L34 59L25 49Z" fill="#CAE4EB"/>
+      <path d="M34 59L46 53L45 66L34 72L28 64Z" fill="#527F9C"/>
+      <path d="M26 56L29 53" stroke="#E7F3F0" stroke-width="1.5"/>
+    </g>
+    <g data-mineral-piece="5">
+      <path d="M51 51L60 48L70 59L65 69L52 73L45 64Z" fill="#86BFB4" stroke="#18212D" stroke-width="2.4"/>
+      <path d="M60 48L57 62L51 51Z" fill="#D7EBDA"/>
+      <path d="M57 62L70 59L65 69L52 73Z" fill="#60998E"/>
+    </g>
+  </g>
+</svg>
