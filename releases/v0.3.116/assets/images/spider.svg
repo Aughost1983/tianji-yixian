@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+  <defs>
+    <radialGradient id="ember" cx="50%" cy="100%" r="85%"><stop stop-color="#ffd36a"/><stop offset=".38" stop-color="#e66b2d"/><stop offset="1" stop-color="#8d2830"/></radialGradient>
+  </defs>
+  <rect width="200" height="200" rx="24" fill="#18212d"/>
+  <!-- Web detail stays in the background so the original spider silhouette and position are unchanged. -->
+  <g fill="none" stroke="#73808e" stroke-width="1.5" opacity=".42">
+    <path d="M13 26 66 73M23 9l47 60M8 53l56 24M187 27l-53 46M177 9l-47 60M192 53l-56 24"/>
+    <path d="M20 31q18 5 31-8M28 48q20 4 37-9M180 31q-18 5-31-8M172 48q-20 4-37-9"/>
+    <path d="M21 170 66 137M10 147l53-18M179 170l-45-33M190 147l-53-18"/>
+  </g>
+  <!-- Four legs per side with more natural spider-like bends; size and overall placement remain unchanged. -->
+  <g fill="none" stroke="#8b5963" stroke-width="9" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M80 90 66 81 51 72 37 60"/>
+    <path d="M75 101 60 100 45 106 31 115"/>
+    <path d="M76 116 61 123 49 136 39 151"/>
+    <path d="M82 128 71 138 63 149 56 161"/>
+    <path d="M120 90 134 81 149 72 163 60"/>
+    <path d="M125 101 140 100 155 106 169 115"/>
+    <path d="M124 116 139 123 151 136 161 151"/>
+    <path d="M118 128 129 138 137 149 144 161"/>
+  </g>
+  <!-- Small flame tongues frame the creature without moving or resizing its existing body/legs. -->
+  <g fill="url(#ember)" opacity=".9">
+    <path d="M53 166q-12-19 5-32-2 12 7 17 8-12 14-22 7 24-2 37Z"/>
+    <path d="M147 166q12-19-5-32 2 12-7 17-8-12-14-22-7 24 2 37Z"/>
+    <path d="M91 174q-9-14 3-26-1 10 6 15 7-7 9-16 8 17-1 27Z"/>
+  </g>
+  <ellipse cx="100" cy="112" rx="38" ry="47" fill="#7f3f4d"/>
+  <path d="M78 118q22 12 44 0M83 133q17 10 34 0" fill="none" stroke="#b56667" stroke-width="3" opacity=".7"/>
+  <circle cx="86" cy="98" r="5" fill="#f4c8cf"/><circle cx="114" cy="98" r="5" fill="#f4c8cf"/>
+  <circle cx="76" cy="106" r="2.6" fill="#ff9f62"/><circle cx="124" cy="106" r="2.6" fill="#ff9f62"/>
+</svg>
