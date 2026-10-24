@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256" fill="none">
+  <g transform="translate(128 128)" stroke-linecap="round" stroke-linejoin="round" data-art-subject="shattered-qi-and-stone-shell">
+    <g fill="#9F8965" stroke="#18212D" stroke-width="4">
+      <path d="M-61 -53Q-84 -15 -61 34L-39 48L-46 17L-41 -7L-49 -17L-38 -45Z"/>
+      <path d="M35 -54L57 -48Q83 -12 60 36L42 49L44 18L35 4L46 -14L33 -29Z"/>
+    </g>
+    <path d="M-28 -47Q-52 -16 -28 27L-10 42L-16 18L-10 -3L-21 -16L-10 -42Z" fill="#3F7480" stroke="#18212D" stroke-width="3"/>
+    <path d="M20 -39L34 -34Q54 -7 29 24L16 35L22 13L12 -2L24 -16Z" fill="#528793" stroke="#18212D" stroke-width="3"/>
+    <path d="M-33 -36Q-43 -10 -29 11M35 -26Q44 -7 31 10" stroke="#A9C3C0" stroke-width="2.4"/>
+    <path d="M-6 -73L8 -44L-2 -18L13 5L1 29L8 60L-4 79L-8 42L-19 20L-8 -4L-16 -26Z" fill="#F0DC9E" stroke="#B69A59" stroke-width="2"/>
+    <path d="M-4 -49L2 -29L-6 -14L4 8L-3 32L2 58" stroke="#FFF1C8" stroke-width="3"/>
+    <g data-art-part="four-large-fragments" fill="#AE9671" stroke="#18212D" stroke-width="3">
+      <path d="M-76 -75L-59 -82L-50 -68L-64 -57Z"/>
+      <path d="M68 -75L86 -67L78 -48L62 -59Z"/>
+      <path d="M-79 54L-62 45L-49 63L-63 78Z"/>
+      <path d="M63 51L82 58L78 78L57 71Z"/>
+    </g>
+    <path d="M-64 -69L-56 -64M72 -64L69 -57M-64 59L-58 66M65 63L72 67" stroke="#DAC494" stroke-width="2.3"/>
+  </g>
+</svg>

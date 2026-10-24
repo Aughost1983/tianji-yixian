@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256" fill="none">
+  <g transform="translate(128 128)" stroke-linecap="round" stroke-linejoin="round">
+    <g opacity=".68">
+      <path d="M37 42A81 81 0 0 1 -62 52M-67 -47A81 81 0 0 1 14 -82" stroke="#7C9BA7" stroke-width="2.1"/>
+      <circle cx="-80" cy="-30" r="2.7" fill="#C2D3D5"/>
+      <circle cx="83" cy="29" r="2.7" fill="#C2D3D5"/>
+      <circle cx="-38" cy="74" r="2.7" fill="#C2D3D5"/>
+    </g>
+    <g data-art-subject="metal-spine-ribs">
+      <path d="M-7 -44C-37 -56 -62 -34 -46 -17L-25 -8M7 -44C37 -56 62 -34 46 -17L25 -8M-8 -23C-36 -34 -65 -11 -46 7L-24 15M8 -23C36 -34 65 -11 46 7L24 15M-8 -2C-31 -12 -56 11 -38 29L-20 35M8 -2C31 -12 56 11 38 29L20 35" stroke="#18212D" stroke-width="10"/>
+      <path d="M-7 -44C-37 -56 -62 -34 -46 -17L-25 -8M7 -44C37 -56 62 -34 46 -17L25 -8M-8 -23C-36 -34 -65 -11 -46 7L-24 15M8 -23C36 -34 65 -11 46 7L24 15M-8 -2C-31 -12 -56 11 -38 29L-20 35M8 -2C31 -12 56 11 38 29L20 35" stroke="#A6B8BF" stroke-width="5.5"/>
+      <path d="M-7 -59L0 -62L7 -59L11 -50L5 -45H-5L-11 -50Z" fill="#95AAB5" stroke="#18212D" stroke-width="2.6"/>
+      <path d="M-7 -39L0 -42L7 -39L11 -30L5 -25H-5L-11 -30Z" fill="#95AAB5" stroke="#18212D" stroke-width="2.6"/>
+      <path d="M-7 -19L0 -22L7 -19L11 -10L5 -5H-5L-11 -10Z" fill="#95AAB5" stroke="#18212D" stroke-width="2.6"/>
+      <path d="M-7 1L0 -2L7 1L11 10L5 15H-5L-11 10Z" fill="#95AAB5" stroke="#18212D" stroke-width="2.6"/>
+      <path d="M-7 21L0 18L7 21L11 30L5 35H-5L-11 30Z" fill="#95AAB5" stroke="#18212D" stroke-width="2.6"/>
+      <path d="M-7 41L0 38L7 41L11 50L5 55H-5L-11 50Z" fill="#95AAB5" stroke="#18212D" stroke-width="2.6"/>
+      <path d="M-16 48L-24 59L-11 66M16 48L24 59L11 66" stroke="#7C95A4" stroke-width="5"/>
+      <path d="M0 -55V-50M0 -15V-10M0 25V30" stroke="#D1DEDD" stroke-width="2"/>
+    </g>
+  </g>
+</svg>

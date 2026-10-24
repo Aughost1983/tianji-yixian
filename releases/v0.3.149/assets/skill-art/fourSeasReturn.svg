@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256" fill="none">
+  <title>四海归墟：四向海潮汇入深渊</title>
+  <g transform="translate(128 128)" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M37 42A81 81 0 0 1-62 52M-67-47A81 81 0 0 1 14-82" stroke="#70b8ce" stroke-width="2.1" opacity=".68"/>
+    <g fill="#dcf7ef" opacity=".75"><circle cx="-80" cy="-30" r="2.7"/><circle cx="83" cy="29" r="2.7"/><circle cx="-38" cy="74" r="2.7"/></g>
+    <ellipse rx="64" ry="48" fill="#315e75" opacity=".55"/>
+    <!-- Four solid wave crests turn in one direction toward the same abyss. -->
+    <g fill="#70b8ce" stroke="#18212d" stroke-width="3.5">
+      <path d="M-70-14C-64-45-40-59-14-53C-30-51-39-42-36-33C-33-23-20-22-15-31C-12-15-24-7-38-9C-51-11-54-25-50-33C-59-30-65-23-70-14Z"/>
+      <path transform="rotate(90)" d="M-70-14C-64-45-40-59-14-53C-30-51-39-42-36-33C-33-23-20-22-15-31C-12-15-24-7-38-9C-51-11-54-25-50-33C-59-30-65-23-70-14Z"/>
+      <path transform="rotate(180)" d="M-70-14C-64-45-40-59-14-53C-30-51-39-42-36-33C-33-23-20-22-15-31C-12-15-24-7-38-9C-51-11-54-25-50-33C-59-30-65-23-70-14Z"/>
+      <path transform="rotate(270)" d="M-70-14C-64-45-40-59-14-53C-30-51-39-42-36-33C-33-23-20-22-15-31C-12-15-24-7-38-9C-51-11-54-25-50-33C-59-30-65-23-70-14Z"/>
+    </g>
+    <g stroke="#dcf7ef" stroke-width="3">
+      <path d="M-59-29C-55-42-40-50-28-48C-42-41-38-28-29-28"/>
+      <path transform="rotate(90)" d="M-59-29C-55-42-40-50-28-48C-42-41-38-28-29-28"/>
+      <path transform="rotate(180)" d="M-59-29C-55-42-40-50-28-48C-42-41-38-28-29-28"/>
+      <path transform="rotate(270)" d="M-59-29C-55-42-40-50-28-48C-42-41-38-28-29-28"/>
+    </g>
+    <ellipse rx="31" ry="25" fill="#315e75" stroke="#18212d" stroke-width="3.5"/>
+    <ellipse cy="3" rx="20" ry="15" fill="#18212d" stroke="#70b8ce" stroke-width="3"/>
+    <path d="M-24-7C-14-21 11-22 24-7M-16 10Q0 23 17 10" stroke="#dcf7ef" stroke-width="2.5"/>
+    <path d="M-10-3Q5-13 12-1Q7 11-5 8Q-13 4-5 0" stroke="#70b8ce" stroke-width="2.5"/>
+    <g fill="#dcf7ef"><circle cx="-57" cy="-52" r="2"/><circle cx="52" cy="-57" r="2"/><circle cx="57" cy="52" r="2"/><circle cx="-52" cy="57" r="2"/></g>
+  </g>
+</svg>

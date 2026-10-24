@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256" fill="none">
+  <g transform="translate(128 128)" stroke-linecap="round" stroke-linejoin="round" data-art-subject="fivefold-piercing-palm">
+    <g data-art-part="elusive-palm-afterimages" fill="#7F7896" stroke="#7D7392" stroke-width="2.8">
+      <path d="M-29 82L-31 50C-49 37 -67 17 -73 2C-80 -11 -68 -21 -59 -11L-39 9L-45 -49C-47 -64 -33 -70 -28 -55L-22 -18L-24 -78C-25 -94 -9 -99 -6 -82L-1 -18L6 -73C8 -89 24 -89 25 -73L22 -15L31 -52C35 -66 49 -61 46 -47L41 5C41 28 33 43 25 53L23 82Z" transform="translate(-22 8) scale(.89) rotate(-6)" opacity=".22"/>
+      <path d="M-29 82L-31 50C-49 37 -67 17 -73 2C-80 -11 -68 -21 -59 -11L-39 9L-45 -49C-47 -64 -33 -70 -28 -55L-22 -18L-24 -78C-25 -94 -9 -99 -6 -82L-1 -18L6 -73C8 -89 24 -89 25 -73L22 -15L31 -52C35 -66 49 -61 46 -47L41 5C41 28 33 43 25 53L23 82Z" transform="translate(24 -5) scale(.86) rotate(8)" opacity=".14"/>
+    </g>
+    <path d="M-88 -18L-66 -24M-84 24L-61 17M55 -36L80 -44M51 36L77 30" stroke="#8E82A2" stroke-width="3" opacity=".5" data-art-part="palm-speed-traces"/>
+    <g transform="translate(6 3) scale(.94)" data-art-part="front-facing-open-palm">
+      <path d="M-29 82L-31 50C-49 37 -67 17 -73 2C-80 -11 -68 -21 -59 -11L-39 9L-45 -49C-47 -64 -33 -70 -28 -55L-22 -18L-24 -78C-25 -94 -9 -99 -6 -82L-1 -18L6 -73C8 -89 24 -89 25 -73L22 -15L31 -52C35 -66 49 -61 46 -47L41 5C41 28 33 43 25 53L23 82Z" fill="#777587" stroke="#18212D" stroke-width="4.5"/>
+      <path d="M-31 50Q-5 58 25 53M-36 8Q-25 20 -25 35M-21 -15L-17 -5M-1 -16L1 -6M22 -14L18 -3M-38 -42L-31 -45M-18 -63L-10 -64M10 -57L18 -55M32 -35L39 -32M-17 67L13 68" stroke="#ABA0BE" stroke-width="2.6"/>
+      <circle cx="0" cy="17" r="19" fill="#6B537F" stroke="#B19ACD" stroke-width="2.5"/>
+      <path d="M-9 12L-1 5L8 12L5 22L-4 28L-9 21Z" fill="#E1D3EF"/>
+      <path d="M-14 10L-30 -1L-24 -12L-38 -30M-7 1L-15 -20L-10 -28L-18 -49M6 1L18 -18L11 -27L20 -48M17 15L34 1L28 -10L41 -26M17 26L35 35L28 43L42 56" stroke="#9674B6" stroke-width="7" stroke-opacity=".3"/>
+      <g data-art-part="five-thunder-strikes" stroke="#E5D9F7" stroke-width="3.1">
+        <path d="M-14 10L-30 -1L-24 -12L-38 -30"/>
+        <path d="M-7 1L-15 -20L-10 -28L-18 -49"/>
+        <path d="M6 1L18 -18L11 -27L20 -48"/>
+        <path d="M17 15L34 1L28 -10L41 -26"/>
+        <path d="M17 26L35 35L28 43L42 56"/>
+      </g>
+    </g>
+  </g>
+</svg>

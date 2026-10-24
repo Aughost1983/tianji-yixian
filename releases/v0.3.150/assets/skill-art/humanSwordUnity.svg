@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256" fill="none">
+  <title>人剑合一</title>
+  <g stroke-linecap="round" stroke-linejoin="round">
+    <path d="M55 96A82 82 0 0 1 110 48M146 48A82 82 0 0 1 201 96M201 160A82 82 0 0 1 146 208M110 208A82 82 0 0 1 55 160" stroke="#d2a357" stroke-width="2.1" opacity=".68"/>
+    <g id="subject">
+      <path d="M108 83Q128 75 148 83L154 105L177 116L167 154L151 161L146 188H110L105 161L89 154L79 116L102 105Z" fill="#d2a357" stroke="#18212d" stroke-width="4.4"/>
+      <path d="M105 103Q128 116 151 103M96 125L109 132M160 125L147 132M99 147L112 155M157 147L144 155" stroke="#fff1bb" stroke-width="3"/>
+      <path d="M112 160L115 178M144 160L141 178" stroke="#18212d" stroke-width="2.3" opacity=".6"/>
+      <path d="M128 44L138 79L136 140L128 151L120 140L118 79Z" fill="#fff1bb" stroke="#18212d" stroke-width="3.5"/>
+      <path d="M128 51V144M119 81L128 91L137 81" stroke="#d2a357" stroke-width="2.8"/>
+      <path d="M108 145L128 151L148 145L150 154L128 162L106 154Z" fill="#fff1bb" stroke="#18212d" stroke-width="3.4"/>
+      <path d="M128 165V186" stroke="#18212d" stroke-width="9"/>
+      <path d="M128 165V186M122 174H134M122 182H134" stroke="#fff1bb" stroke-width="3.8"/>
+      <path d="M128 188L134 195L128 202L122 195Z" fill="#d2a357" stroke="#18212d" stroke-width="2.7"/>
+    </g>
+    <g fill="#fff1bb" opacity=".75">
+      <circle cx="48" cy="128" r="2.7"/><circle cx="208" cy="128" r="2.7"/>
+    </g>
+  </g>
+</svg>

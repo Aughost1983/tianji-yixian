@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256" fill="none">
+  <g stroke-linecap="round" stroke-linejoin="round" data-art-subject="ancient-wood-core-constricting-vines-life-drain">
+    <g data-art-part="rear-constricting-vines" stroke="#18212D" stroke-width="3.2">
+      <path d="M45 152C27 122 41 82 71 61C96 43 126 43 147 52C117 50 95 62 79 82C60 105 64 131 88 142L105 152C81 159 60 171 45 152Z" fill="#315E4D"/>
+      <path d="M165 45C195 48 218 76 215 105C213 135 187 156 162 151L146 137C175 144 193 126 195 107C198 83 183 65 165 45Z" fill="#3F7C65"/>
+    </g>
+    <path d="M46 139C39 112 58 81 80 68C95 60 106 56 118 55M184 62C204 81 209 108 192 126" stroke="#68B398" stroke-width="3"/>
+    <g data-art-part="life-flow-inward" fill="#8D4651" stroke="#18212D" stroke-width="1.4">
+      <path d="M44 103C62 104 67 119 82 125C93 129 103 127 111 122C100 134 88 137 77 130C61 121 57 109 44 103Z"/>
+      <path d="M207 148C190 146 184 131 168 132C157 132 152 140 145 144C149 132 158 124 171 126C187 128 192 141 207 148Z"/>
+      <path d="M105 210C101 189 114 177 122 164C128 155 126 147 127 139C134 151 133 160 126 171C117 184 110 194 105 210Z"/>
+    </g>
+    <path d="M52 107C72 119 76 134 98 129M201 146C182 139 176 125 158 133M108 204C111 184 130 173 130 158" stroke="#BC7471" stroke-width="1.5" opacity=".85"/>
+    <g data-art-part="ancient-wood-heart">
+      <path d="M128 79C111 65 95 77 90 98C83 119 92 146 111 163L132 181C151 164 168 141 169 119C171 96 159 77 144 74C138 72 132 75 128 79Z" fill="#28584D" stroke="#18212D" stroke-width="3.5"/>
+      <path d="M125 86C111 80 101 94 99 112C97 133 110 151 129 167C119 147 116 126 121 108C124 97 131 92 138 88C133 86 129 85 125 86Z" fill="#4A8A6A"/>
+      <path d="M143 82C158 91 164 107 159 126C155 146 142 161 132 176C138 151 148 139 146 119C144 106 137 100 143 82Z" fill="#1F433C"/>
+      <path d="M125 95C106 93 100 121 110 141C115 151 122 157 130 162M137 93C151 103 155 123 144 141L132 156" stroke="#77AB86" stroke-width="2.2"/>
+      <path d="M126 108C116 105 109 121 117 136L128 146M135 108C144 117 142 131 132 139" stroke="#18212D" stroke-width="2.4"/>
+      <path d="M127 84L130 103L123 118L132 128L128 143L135 157M96 105L108 110L112 121M155 99L147 106L153 115" stroke="#152D2A" stroke-width="2.4"/>
+      <path d="M120 115L123 123L121 131M133 97L135 104M141 144L136 152" stroke="#A3C59A" stroke-width="1.8"/>
+    </g>
+    <g data-art-part="front-constricting-vines" stroke="#18212D" stroke-width="3.2">
+      <path d="M204 115C222 145 208 179 182 196C157 213 127 211 106 201C137 202 162 187 178 167C193 148 185 130 168 122L149 116C170 108 189 97 204 115Z" fill="#407B5D"/>
+      <path d="M91 211C62 209 39 184 40 158C41 131 62 112 88 112L109 124C82 118 62 133 60 153C57 179 73 192 91 211Z" fill="#528E6C"/>
+    </g>
+    <path d="M204 128C212 153 192 183 169 194C154 201 141 204 126 203M73 195C53 177 48 151 65 134C75 124 85 121 94 122" stroke="#92BE94" stroke-width="3"/>
+    <path d="M186 178L202 183L194 166M53 143L38 139L47 155M184 64L196 56L194 75M71 67L65 54L81 59" fill="#609575" stroke="#18212D" stroke-width="2.3" data-art-part="sparse-thorns"/>
+    <path d="M66 91C47 90 44 77 45 67C59 69 69 77 66 91ZM181 184C199 182 207 190 209 201C195 203 184 196 181 184Z" fill="#5D9B70" stroke="#18212D" stroke-width="2.4" data-art-part="two-small-leaves"/>
+    <path d="M48 72L62 86M185 187L204 198" stroke="#B0CAA0" stroke-width="1.8"/>
+    <path d="M77 135C93 133 108 141 114 149L102 144C94 141 86 139 77 135ZM177 125C164 127 152 120 147 112L157 117C165 121 171 122 177 125Z" fill="#87B08A"/>
+  </g>
+</svg>

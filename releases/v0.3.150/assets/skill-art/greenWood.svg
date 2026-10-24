@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256" fill="none">
+  <g transform="translate(128 128) scale(.86) translate(-4 -3)" stroke-linecap="round" stroke-linejoin="round" data-art-subject="striking-vines-entangle-drain">
+    <g data-art-part="four-attacking-vines" stroke="#18212D" stroke-width="3.4">
+      <path d="M-24 53C-55 30 -32 3 -55 -18C-77 -37 -85 -61 -72 -82C-74 -59 -62 -46 -43 -30C-10 -1 -45 22 -12 43Z" fill="#518B72"/>
+      <path d="M-21 39C-5 8 -19 -25 -3 -49C12 -72 38 -79 62 -66C39 -69 19 -59 12 -43C-1 -19 12 12 -9 45Z" fill="#69A58B"/>
+      <path d="M-15 45C7 11 40 31 63 11C90 -10 88 -37 73 -52C99 -40 105 -5 78 20C49 50 22 22 -7 56Z" fill="#4D8C75"/>
+      <path d="M-18 51C-1 60 19 75 45 70C62 66 72 51 66 40C86 55 68 82 49 86C14 95 -3 70 -26 66C-51 64 -74 81 -88 64C-67 74 -45 47 -18 51Z" fill="#5A987B"/>
+    </g>
+    <path d="M-24 45C-43 19 -26 1 -48 -22Q-67 -39 -72 -61M-16 33C-1 8 -13 -19 4 -43Q16 -62 38 -68M-3 45C21 22 46 43 73 16Q91 -2 85 -23M-13 59Q20 87 48 78Q69 72 72 57" stroke="#A8C9A2" stroke-width="2.8"/>
+    <path d="M33 -5C50 -16 73 -5 65 5C56 16 36 8 34 19C33 29 57 30 63 23M32 39Q52 33 61 42" stroke="#18212D" stroke-width="9" data-art-part="binding-turns-outline"/>
+    <path d="M33 -5C50 -16 73 -5 65 5C56 16 36 8 34 19C33 29 57 30 63 23M32 39Q52 33 61 42" stroke="#76AC8D" stroke-width="5.5" data-art-part="binding-turns"/>
+    <path d="M-29 40L-41 34L-37 49L-47 57L-32 59L-25 73L-16 64L-1 66L-6 53L2 41L-14 43L-20 32Z" fill="#3C6F59" stroke="#18212D" stroke-width="3.4" data-art-part="central-spirit-root"/>
+    <path d="M-28 62L-38 77M-18 65L-22 83M-8 62L-4 75M-21 43L-26 55L-17 58L-12 49" stroke="#8EB18B" stroke-width="2.4"/>
+    <path d="M52 12Q38 13 28 22L36 21Q44 17 52 12Z M22 27Q12 27 2 35L10 34Q16 31 22 27Z" fill="#C1D5AD" data-art-part="life-flow-to-root"/>
+    <path d="M-51 -30L-57 -43L-45 -36M14 -44L23 -53L19 -40M77 20L86 23L75 29" fill="#80B296" stroke="#18212D" stroke-width="2"/>
+
+  </g>
+</svg>

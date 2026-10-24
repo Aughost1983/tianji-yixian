@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256" fill="none">
+  <g transform="translate(128 128)" stroke-linecap="round" stroke-linejoin="round" data-art-subject="two-qi-one-pearl">
+    <path d="M-92 -64C-62 -90 -29 -66 -33 -39C-36 -18 -17 -18 0 -13L-8 12C-43 14 -68 -9 -62 -39C-58 -57 -70 -66 -92 -64Z" fill="#A08A5B" stroke="#18212D" stroke-width="4" data-art-part="heaven-qi"/>
+    <path d="M92 64C62 90 29 66 33 39C36 18 17 18 0 13L8 -12C43 -14 68 9 62 39C58 57 70 66 92 64Z" fill="#78939C" stroke="#18212D" stroke-width="4" data-art-part="earth-qi"/>
+    <path d="M-77 -67C-47 -76 -43 -50 -46 -34Q-46 -9 -19 -5" stroke="#D4BD83" stroke-width="4"/>
+    <path d="M77 67C47 76 43 50 46 34Q46 9 19 5" stroke="#C5D4D4" stroke-width="4"/>
+    <circle cx="0" cy="0" r="24" fill="#E9DBB3" stroke="#18212D" stroke-width="4" data-art-part="single-pearl"/>
+    <path d="M-15 -5Q-11 -20 5 -17M-11 14Q3 21 15 10" stroke="#FFF0CE" stroke-width="4"/>
+    <path d="M-6 -4Q-2 -9 4 -5L6 1Q1 6 -4 2Z" fill="#FFF4DA"/>
+
+  </g>
+</svg>

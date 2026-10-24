@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256" fill="none">
+  <title>崩山劲</title>
+  <desc>以简练的身体躯干表现紧绷蓄劲，左右三重震波对称向外传开。</desc>
+  <g transform="translate(128 128)" stroke-linecap="round" stroke-linejoin="round">
+    <g fill="none" stroke="#ad8d67">
+      <path d="M-49 -29Q-69 0 -49 29M49 -29Q69 0 49 29" stroke-width="4.5"/>
+      <path d="M-68 -40Q-94 0 -68 40M68 -40Q94 0 68 40" stroke-width="3.5" opacity=".76"/>
+      <path d="M-87 -51Q-117 0 -87 51M87 -51Q117 0 87 51" stroke-width="2.5" opacity=".48"/>
+    </g>
+    <g fill="none" stroke="#eed7a5" stroke-width="2" opacity=".65">
+      <path d="M-53 -14Q-60 0 -53 14M53 -14Q60 0 53 14"/>
+    </g>
+    <g transform="scale(1.22)">
+      <path d="M-15 -42Q0 -49 15 -42L21 -28L35 -21L31 11L19 17L15 43H-15L-19 17L-31 11L-35 -21L-21 -28Z" fill="#ad8d67" stroke="#18212d" stroke-width="4"/>
+      <path d="M-19 -24Q0 -13 19 -24M0 -14V31M-21 1L-9 13M21 1L9 13" stroke="#eed7a5" stroke-width="3"/>
+      <path d="M-11 25Q0 30 11 25M-25 -16L-23 -3M25 -16L23 -3" stroke="#eed7a5" stroke-width="2.3" opacity=".78"/>
+    </g>
+    <g fill="none" stroke="#ad8d67" stroke-width="2.1" opacity=".55">
+      <path d="M-22 -65Q0 -72 22 -65M-22 65Q0 72 22 65"/>
+    </g>
+  </g>
+</svg>

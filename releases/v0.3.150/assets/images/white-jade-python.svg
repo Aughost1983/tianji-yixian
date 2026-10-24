@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+  <defs>
+    <linearGradient id="jade" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#fffdf0"/><stop offset=".5" stop-color="#d8e8dc"/><stop offset="1" stop-color="#759789"/></linearGradient>
+    <linearGradient id="belly" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#fff8dc"/><stop offset="1" stop-color="#abc4b5"/></linearGradient>
+  </defs>
+  <rect width="200" height="200" rx="24" fill="#18212d"/>
+  <g transform="translate(200 0) scale(-1 1)">
+  <g transform="translate(12.5 0) scale(.875 1)">
+  <ellipse cx="101" cy="142" rx="83" ry="18" fill="#07100e" opacity=".56"/>
+  <!-- Broad coils are deliberately centered because enemy portraits are cropped to a shallow card. -->
+  <path d="M20 137c28-35 72-43 109-24 27 14 45 14 61 2" fill="none" stroke="#456c5d" stroke-width="48" stroke-linecap="round"/>
+  <path d="M23 133c29-27 67-32 101-16 27 13 45 14 61 4" fill="none" stroke="url(#jade)" stroke-width="38" stroke-linecap="round"/>
+  <path d="M25 157c33-28 79-29 116-8 18 10 31 9 44 2" fill="none" stroke="#4b7162" stroke-width="43" stroke-linecap="round"/>
+  <path d="M29 153c31-21 71-21 105-4 20 10 34 10 47 3" fill="none" stroke="url(#jade)" stroke-width="33" stroke-linecap="round"/>
+  <!-- Thick upright neck -->
+  <path d="M111 146c-8-27-5-51 7-69 10-16 25-22 41-19" fill="none" stroke="#42695a" stroke-width="47" stroke-linecap="round"/>
+  <path d="M112 142c-4-23 0-43 10-58 8-12 20-17 33-14" fill="none" stroke="url(#belly)" stroke-width="34" stroke-linecap="round"/>
+  <!-- Heavy wedge head, kept around the vertical center for the 90px card crop. -->
+  <path d="M120 75c8-20 28-30 49-24l24 12-10 12 12 11-12 18c-22 10-48 7-61-8-7-8-7-14-2-21Z" fill="url(#jade)" stroke="#3b6153" stroke-width="4" stroke-linejoin="round"/>
+  <path d="M135 88c18 3 37-1 54-11l5 10c-13 16-36 21-57 12Z" fill="#7b3240" opacity=".92"/>
+  <path d="m170 87 6 13 5-15Zm-18 3 5 11 4-12Z" fill="#fff4d0"/>
+  <path d="M132 69c12-9 28-11 42-5" fill="none" stroke="#34584a" stroke-width="5" stroke-linecap="round"/>
+  <ellipse cx="165" cy="71" rx="5.8" ry="4.4" fill="#a32c39"/><path d="M166 67v9" stroke="#ffd45d" stroke-width="1.7"/>
+  <path d="M187 95c8 0 12 4 8 9m0 0 5 4m-5-4-5 5" fill="none" stroke="#d04b5b" stroke-width="2" stroke-linecap="round"/>
+  <!-- Armour-like scale bands -->
+  <g fill="none" stroke="#759789" stroke-width="2" opacity=".52" stroke-linecap="round">
+    <path d="M115 91q14 9 28 1"/><path d="M110 108q16 9 31 1"/><path d="M108 125q16 9 31 1"/>
+    <path d="M44 121q18 9 36 5"/><path d="M78 110q18 10 37 7"/><path d="M55 151q19 8 39 4"/><path d="M97 145q20 9 38 5"/>
+  </g>
+  <g fill="none" stroke="#fff" stroke-width="3" opacity=".38" stroke-linecap="round"><path d="M35 119c28-17 59-18 89-7"/><path d="M48 147c29-12 58-9 84 4"/><path d="M126 68c14-10 31-12 47-6"/></g>
+  </g>
+  </g>
+</svg>

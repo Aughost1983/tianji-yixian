@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+  <defs>
+    <linearGradient id="fur" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#b7c1cb"/><stop offset=".55" stop-color="#7d8996"/><stop offset="1" stop-color="#4e5a67"/></linearGradient>
+    <linearGradient id="muzzle" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#d9dee2"/><stop offset="1" stop-color="#8d98a2"/></linearGradient>
+  </defs>
+  <rect width="200" height="200" rx="24" fill="#18212d"/>
+  <g transform="translate(0 -8)">
+    <ellipse cx="100" cy="158" rx="82" ry="15" fill="#0b1016" opacity=".58"/>
+    <g id="front-facing-wolf">
+    <!-- Broad shoulders and forelegs fill the shallow first-person combat crop. -->
+    <path d="M24 158c8-37 31-59 61-65h30c30 6 53 28 61 65l-30 18H54Z" fill="url(#fur)" stroke="#46515e" stroke-width="5" stroke-linejoin="round"/>
+    <path d="M52 145 40 183h28l17-43m63 5 12 38h-28l-17-43" fill="#697583" stroke="#46515e" stroke-width="5" stroke-linejoin="round"/>
+    <!-- Front-facing head: ears, cheek fur, muzzle and eyes remain centered. -->
+    <path d="M54 77 63 33l28 28h18l28-28 9 44-12 52-34 25-34-25Z" fill="url(#fur)" stroke="#46515e" stroke-width="5" stroke-linejoin="round"/>
+    <path d="M62 48 79 64 66 75Zm76 0-17 16 13 11Z" fill="#5f6b77"/>
+    <path d="M73 87 94 81l-7 14-16 3Zm54 0-21-6 7 14 16 3Z" fill="#d8b45d"/>
+    <path d="M78 108q22-17 44 0l-7 25-15 11-15-11Z" fill="url(#muzzle)" stroke="#5a6570" stroke-width="3"/>
+    <path d="m91 111 9-5 9 5-9 8Z" fill="#232c35"/>
+    <path d="M91 126q9 7 18 0" fill="none" stroke="#37424c" stroke-width="3" stroke-linecap="round"/>
+    <path d="M58 105 39 116m103-11 19 11M67 121l-20 8m86-8 20 8" stroke="#dce3e7" stroke-width="3" opacity=".38" stroke-linecap="round"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256" fill="none">
+  <g transform="translate(128 128)" stroke-linecap="round" stroke-linejoin="round">
+    <g opacity=".68">
+      <path d="M37 42A81 81 0 0 1 -62 52M-67 -47A81 81 0 0 1 14 -82" stroke="#B68D4C" stroke-width="2.1"/>
+      <circle cx="-80" cy="-30" r="2.7" fill="#E1C58A"/>
+      <circle cx="83" cy="29" r="2.7" fill="#E1C58A"/>
+      <circle cx="-38" cy="74" r="2.7" fill="#E1C58A"/>
+    </g>
+    <g data-art-subject="sovereign-divine-sword">
+      <g transform="translate(-42 -34) rotate(28)" opacity=".72"><path d="M0 -22L4 -13L3 10L0 16L-3 10L-4 -13Z" fill="#C6A05C" stroke="#18212D" stroke-width="2"/><path d="M-7 12H7M0 15V24" stroke="#DABC7E" stroke-width="2.2"/></g>
+      <g transform="translate(42 -34) rotate(-28)" opacity=".72"><path d="M0 -22L4 -13L3 10L0 16L-3 10L-4 -13Z" fill="#C6A05C" stroke="#18212D" stroke-width="2"/><path d="M-7 12H7M0 15V24" stroke="#DABC7E" stroke-width="2.2"/></g>
+      <g transform="translate(-60 8) rotate(42)" opacity=".72"><path d="M0 -22L4 -13L3 10L0 16L-3 10L-4 -13Z" fill="#C6A05C" stroke="#18212D" stroke-width="2"/><path d="M-7 12H7M0 15V24" stroke="#DABC7E" stroke-width="2.2"/></g>
+      <g transform="translate(60 8) rotate(-42)" opacity=".72"><path d="M0 -22L4 -13L3 10L0 16L-3 10L-4 -13Z" fill="#C6A05C" stroke="#18212D" stroke-width="2"/><path d="M-7 12H7M0 15V24" stroke="#DABC7E" stroke-width="2.2"/></g>
+      <g transform="translate(-37 48) rotate(55)" opacity=".72"><path d="M0 -22L4 -13L3 10L0 16L-3 10L-4 -13Z" fill="#C6A05C" stroke="#18212D" stroke-width="2"/><path d="M-7 12H7M0 15V24" stroke="#DABC7E" stroke-width="2.2"/></g>
+      <g transform="translate(37 48) rotate(-55)" opacity=".72"><path d="M0 -22L4 -13L3 10L0 16L-3 10L-4 -13Z" fill="#C6A05C" stroke="#18212D" stroke-width="2"/><path d="M-7 12H7M0 15V24" stroke="#DABC7E" stroke-width="2.2"/></g>
+      <g data-art-detail="luminous-gold-sovereign">
+        <path d="M0 -78L12 -53L9 24L0 33L-9 24L-12 -53Z" stroke="#EAC46E" stroke-width="13" opacity=".16"/>
+        <path d="M0 -78L12 -53L9 24L0 33L-9 24L-12 -53Z" fill="#E6BC65" stroke="#F7D78B" stroke-width="3"/>
+        <path d="M0 -68L5 -51L3 23L0 28L-3 23L-5 -51Z" fill="#FFF1BC"/>
+        <path d="M-22 28Q0 18 22 28L17 35L0 31L-17 35Z" stroke="#EAC46E" stroke-width="9" opacity=".15"/>
+        <path d="M-22 28Q0 18 22 28L17 35L0 31L-17 35Z" fill="#E6BC65" stroke="#FFE5A0" stroke-width="2.5"/>
+        <path d="M0 33V54" stroke="#E2B660" stroke-width="8"/>
+        <path d="M-4 38H4M-4 46H4M0 35V51" stroke="#FFF0B9" stroke-width="2"/>
+        <path d="M0 53L6 60L0 67L-6 60Z" fill="#F0CF80" stroke="#FFE6A3" stroke-width="2.5"/>
+      </g>
+    </g>
+  </g>
+</svg>

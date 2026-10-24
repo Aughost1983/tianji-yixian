@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256" fill="none">
+  <g transform="translate(128 128)" stroke-linecap="round" stroke-linejoin="round" data-art-subject="open-palm-thunder">
+    <path d="M-29 82L-31 50C-49 37 -67 17 -73 2C-80 -11 -68 -21 -59 -11L-39 9L-45 -49C-47 -64 -33 -70 -28 -55L-22 -18L-24 -78C-25 -94 -9 -99 -6 -82L-1 -18L6 -73C8 -89 24 -89 25 -73L22 -15L31 -52C35 -66 49 -61 46 -47L41 5C41 28 33 43 25 53L23 82Z" fill="#777687" stroke="#18212D" stroke-width="4.5"/>
+    <path d="M-31 50Q-5 58 25 53M-36 8Q-25 20 -25 35M-21 -15L-17 -5M-1 -16L1 -6M22 -14L18 -3M-38 -42L-31 -45M-18 -63L-10 -64M10 -57L18 -55M32 -35L39 -32M-17 67L13 68" stroke="#ACA2BC" stroke-width="2.6"/>
+    <circle cx="0" cy="17" r="18" fill="#79648F" stroke="#B6A0D1" stroke-width="2.5"/>
+    <circle cx="0" cy="17" r="10" fill="#C3B2E2"/>
+    <path d="M-6 15L-1 9L4 13L2 21L-3 24Z" fill="#E4D9F3"/>
+    <g data-art-part="three-short-arcs" stroke="#DDC7F4" stroke-width="3.2">
+      <path d="M-15 12L-29 1L-21 -8L-35 -23"/>
+      <path d="M9 3L21 -10L14 -17L27 -37"/>
+      <path d="M17 24L34 30L27 39L39 48"/>
+    </g>
+  </g>
+</svg>

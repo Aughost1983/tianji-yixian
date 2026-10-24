@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256" fill="none">
+  <title>寒雷剑诀</title>
+  <g stroke-linecap="round" stroke-linejoin="round">
+    <path d="M55 96A82 82 0 0 1 112 48M144 48A82 82 0 0 1 201 96M201 160A82 82 0 0 1 144 208M112 208A82 82 0 0 1 55 160" stroke="#91cde3" stroke-width="2.1" opacity=".68"/>
+    <g stroke="#18212d" stroke-width="2.7" opacity=".86">
+      <path d="M82 85L67 119H80L71 146L98 107H84L96 85Z" fill="#91cde3"/>
+      <path d="M174 171L189 137H176L185 110L158 149H172L160 171Z" fill="#91cde3"/>
+    </g>
+    <g stroke="#f0faff" stroke-width="2.4" opacity=".72">
+      <path d="M82 160V184M72 166L92 178M72 178L92 166M174 72V96M164 78L184 90M164 90L184 78"/>
+    </g>
+    <g id="subject" transform="translate(0 4)">
+      <path d="M128 47L142 91L140 142L128 155L116 142L114 91Z" fill="#f0faff" stroke="#18212d" stroke-width="4"/>
+      <path d="M128 54V149M116 91L128 104L140 91M116 119L128 132L140 119" stroke="#91cde3" stroke-width="3"/>
+      <path d="M104 149L128 155L152 149L155 159L128 166L101 159Z" fill="#91cde3" stroke="#18212d" stroke-width="3.6"/>
+      <path d="M128 168V191" stroke="#18212d" stroke-width="10"/>
+      <path d="M128 168V191M121 177H135M121 186H135" stroke="#f0faff" stroke-width="4.5"/>
+      <path d="M128 192L134 199L128 205L122 199Z" fill="#91cde3" stroke="#18212d" stroke-width="2.7"/>
+    </g>
+    <g fill="#f0faff" opacity=".75">
+      <circle cx="48" cy="128" r="2.7"/><circle cx="208" cy="128" r="2.7"/>
+    </g>
+  </g>
+</svg>

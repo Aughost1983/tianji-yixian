@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256" fill="none">
+  <g transform="translate(128 128)" stroke-linecap="round" stroke-linejoin="round" data-art-subject="crossed-forearms-counterbreak">
+    <g transform="translate(-10 0)">
+    <path d="M-17 -58Q-17 -78 0 -78Q18 -78 18 -58L12 -43Q0 -31 -12 -43Z" fill="#797C82" stroke="#18212D" stroke-width="4"/>
+    <path d="M-12 -35Q-35 -31 -46 -8L-53 58H51L45 -8Q34 -31 12 -35" fill="#465563" stroke="#18212D" stroke-width="4"/>
+    <path d="M-49 52L-64 28L-16 -10L-11 -26Q-10 -36 -2 -32L12 -24Q20 -17 13 -9L-29 44Z" fill="#7D7D80" stroke="#18212D" stroke-width="4"/>
+    <path d="M49 52L65 29L20 -3L14 -22Q11 -33 3 -29L-11 -20Q-19 -14 -11 -5L30 45Z" fill="#8A8580" stroke="#18212D" stroke-width="4"/>
+    <path d="M-51 17L-36 35M50 19L36 37M-10 -21L0 -13M12 -20L3 -12" stroke="#C1A472" stroke-width="5"/>
+    <path d="M-58 32L-34 49M56 34L34 51" stroke="#B99A67" stroke-width="2.3"/>
+    <path d="M59 -75L42 -55L46 -44L24 -24" stroke="#BDA06A" stroke-width="6"/>
+    <g data-art-part="two-rebounding-forces" stroke="#D0AE6E" stroke-width="3.5">
+      <path d="M23 -20Q52 -30 68 -14"/>
+      <path d="M29 -6Q49 9 70 8"/>
+    </g>
+    <path d="M72 -30L88 -26L93 -7L87 14L72 20L77 3L70 -9L78 -15Z" fill="#8F795B" stroke="#18212D" stroke-width="3"/>
+    <path d="M80 -21L76 -10L85 -3L79 9" stroke="#D2B584" stroke-width="2.4"/>
+    <path d="M91 -39L99 -35L97 -25L89 -29Z M95 17L101 21L96 30L89 26Z M69 29L78 32L74 40L67 37Z" fill="#9E8560" stroke="#18212D" stroke-width="2.3"/>
+    </g>
+  </g>
+</svg>
