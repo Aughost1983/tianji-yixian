@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="80" height="80" viewBox="0 0 80 80" fill="none">
+  <title>灵玉</title>
+  <defs>
+    <linearGradient id="raw-jade" x1="15" y1="22" x2="47" y2="49" gradientUnits="userSpaceOnUse"><stop stop-color="#E5EBDD"/><stop offset="1" stop-color="#AAC9B7"/></linearGradient>
+  </defs>
+  <g stroke-linejoin="round" stroke-linecap="round">
+    <g data-mineral-piece="1">
+      <path d="M10 38L19 23L40 18L52 27L57 39L47 50L31 56L16 52L10 44Z" fill="#789E91" stroke="#18212D" stroke-width="2.6"/>
+      <path d="M10 34L19 19L40 14L52 23L57 35L47 46L31 52L16 48L10 40Z" fill="url(#raw-jade)" stroke="#18212D" stroke-width="2.6"/>
+      <path d="M10 34L19 19L40 14L38 18L22 23L15 35L13 40L10 40Z" fill="#EFF1E5"/>
+      <path d="M31 52L47 46L57 35L52 34L44 42L30 48L19 46Z" fill="#A2BFAE"/>
+      <path d="M40 14L39 23L52 23L47 27L40 26L37 21Z" fill="#C2D5BE"/>
+      <path d="M23 33C29 29 32 34 39 30" stroke="#EDF0E4" stroke-width="2.8" opacity=".42"/>
+      <path d="M21 24L29 21" stroke="#F5F5E9" stroke-width="1.7"/>
+    </g>
+    <g data-mineral-piece="2">
+      <path d="M47 57L53 48L66 46L72 53L68 64L56 69L47 63Z" fill="#85A79A" stroke="#18212D" stroke-width="2.3"/>
+      <path d="M47 54L53 45L66 43L72 50L68 61L56 66L47 60Z" fill="#C6D9C5" stroke="#18212D" stroke-width="2.3"/>
+      <path d="M47 54L53 45L66 43L63 47L55 49L51 55Z" fill="#E7ECDA"/>
+      <path d="M56 66L68 61L72 50L68 52L64 59L56 63Z" fill="#ABC5B2"/>
+    </g>
+    <g data-mineral-piece="3">
+      <path d="M19 63L24 58L32 59L36 65L28 72L18 69Z" fill="#7C9E90" stroke="#18212D" stroke-width="2.2"/>
+      <path d="M19 60L24 55L32 56L36 62L28 69L18 66Z" fill="#C4D7C7" stroke="#18212D" stroke-width="2.2"/>
+      <path d="M19 60L24 55L32 56L29 58L24 58L21 62Z" fill="#E5ECDD"/>
+    </g>
+  </g>
+</svg>

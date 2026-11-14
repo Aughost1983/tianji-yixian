@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256" fill="none">
+  <title>剑气斩</title>
+  <g stroke-linecap="round" stroke-linejoin="round">
+    <path d="M55 94A82 82 0 0 1 112 48M144 208A82 82 0 0 0 201 162" stroke="#91cde3" stroke-width="2.1" opacity=".68"/>
+    <g opacity=".86">
+      <path d="M62 168Q92 153 117 122Q101 160 70 178Z" fill="#f0faff" stroke="#18212d" stroke-width="2.8"/>
+      <path d="M194 88Q164 103 139 134Q155 96 186 78Z" fill="#f0faff" stroke="#18212d" stroke-width="2.8"/>
+      <path d="M71 169Q94 156 110 136M185 87Q162 100 146 120" stroke="#91cde3" stroke-width="2.5"/>
+      <path d="M54 184Q92 171 108 151M202 72Q164 85 148 105" stroke="#91cde3" stroke-width="2.1" opacity=".65"/>
+    </g>
+    <g id="subject" transform="translate(0 4)">
+      <path d="M128 47L142 91L140 142L128 155L116 142L114 91Z" fill="#f0faff" stroke="#18212d" stroke-width="4"/>
+      <path d="M128 54V149M116 93L128 106L140 93" stroke="#91cde3" stroke-width="3.2"/>
+      <path d="M104 149L128 155L152 149L155 159L128 166L101 159Z" fill="#91cde3" stroke="#18212d" stroke-width="3.6"/>
+      <path d="M128 168V191" stroke="#18212d" stroke-width="10"/>
+      <path d="M128 168V191M121 177H135M121 186H135" stroke="#f0faff" stroke-width="4.5"/>
+      <circle cx="128" cy="199" r="5.5" fill="#91cde3" stroke="#18212d" stroke-width="2.7"/>
+    </g>
+    <g fill="#f0faff" opacity=".75">
+      <circle cx="48" cy="128" r="2.7"/><circle cx="208" cy="128" r="2.7"/>
+    </g>
+  </g>
+</svg>

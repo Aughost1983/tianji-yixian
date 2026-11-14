@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256" fill="none">
+  <g transform="translate(128 128)" stroke-linecap="round" stroke-linejoin="round">
+    <g opacity=".68">
+      <path d="M37 42A81 81 0 0 1 -62 52M-67 -47A81 81 0 0 1 14 -82" stroke="#9D5142" stroke-width="2.1"/>
+      <circle cx="-80" cy="-30" r="2.7" fill="#D7A26A"/>
+      <circle cx="83" cy="29" r="2.7" fill="#D7A26A"/>
+      <circle cx="-38" cy="74" r="2.7" fill="#D7A26A"/>
+    </g>
+    <g data-art-subject="crimson-flame">
+      <path d="M-43 41C-60 14 -35 -5 -29 -31C-18 -18 -24 -4 -12 1C-19 -30 -3 -45 -3 -73C17 -56 22 -36 17 -21C38 -35 53 -8 48 15C47 44 29 64 2 67C-20 68 -35 58 -43 41Z" fill="#943C42" stroke="#18212D" stroke-width="4"/>
+      <path d="M-24 42C-39 22 -10 7 -9 -19C8 -5 3 7 10 12C16 -3 19 -13 16 -27C42 -6 39 23 28 42C15 61 -10 62 -24 42Z" fill="#CC684C"/>
+      <path d="M-10 42C-22 30 -1 15 1 1C13 14 10 25 18 30C22 42 11 51 2 52C-3 52 -7 48 -10 42Z" fill="#F1C77F"/>
+      <path d="M-68 -10L-61 -2L-66 9M60 -28L56 -14L63 -7M-57 48L-49 52L-51 62M52 49L62 45L67 51" stroke="#9D5142" stroke-width="2" opacity=".72"/>
+    </g>
+  </g>
+</svg>

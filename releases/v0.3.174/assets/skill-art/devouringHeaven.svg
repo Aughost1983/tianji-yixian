@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256" fill="none">
+  <g transform="translate(128 128)" stroke-linecap="round" stroke-linejoin="round" data-art-subject="massive-inward-abyss">
+    <g transform="scale(.96)" data-art-part="unified-heavy-vortex">
+      <path d="M-84 -30C-69 -73 -29 -94 14 -85C58 -83 92 -50 92 -9C98 34 68 76 23 86C-18 96 -67 74 -84 37C-95 13 -95 -9 -84 -30Z" fill="#203A38" stroke="#18212D" stroke-width="4.5"/>
+      <path d="M-86 -21C-70 -68 -15 -93 28 -71C-5 -79 -44 -59 -52 -29C-64 11 -29 45 7 36C-19 58 -53 52 -73 28C-86 15 -91 -4 -86 -21Z" fill="#49334D" stroke="#18212D" stroke-width="3"/>
+      <path d="M11 -84C63 -87 99 -40 85 5C80 30 65 42 40 52C63 23 68 -14 45 -37C22 -62 -7 -55 -29 -40C-21 -64 -8 -79 11 -84Z" fill="#355A50" stroke="#18212D" stroke-width="3"/>
+      <path d="M87 10C90 54 52 90 9 88C-32 88 -57 68 -66 40C-36 65 4 63 25 38C48 12 38 -19 16 -32C43 -31 56 -10 52 13C51 32 35 53 12 63C49 63 78 44 87 10Z" fill="#3D2D48" stroke="#18212D" stroke-width="3"/>
+      <path d="M-75 44C-99 9 -79 -41 -43 -54C-12 -69 23 -55 34 -33C7 -50 -24 -43 -37 -19C-52 8 -29 35 -6 34C-23 51 -55 63 -75 44Z" fill="#2C4B45" stroke="#18212D" stroke-width="3"/>
+      <path d="M-50 -22C-37 -55 8 -66 33 -43C56 -24 49 12 28 29C6 48 -29 39 -39 17C-54 -8 -36 -34 -15 -35C-34 -21 -34 -1 -20 11C-3 25 18 15 18 -3C18 -17 5 -25 -7 -21C4 -38 -27 -40 -50 -22Z" fill="#4A3652" stroke="#18212D" stroke-width="3"/>
+      <path d="M-24 -22C-9 -40 18 -36 29 -17C41 4 24 29 2 31C-25 33 -42 0 -24 -22Z" fill="#080D12" stroke="#10191C" stroke-width="4" data-art-part="deep-black-void"/>
+      <path d="M-81 -18C-63 -55 -33 -69 -8 -68M24 -77C58 -66 78 -44 78 -20M76 27C65 56 40 73 16 75M-54 48Q-34 62 -12 57" stroke="#628174" stroke-width="3.2"/>
+      <path d="M-43 -35Q-20 -54 6 -47M41 -8Q42 16 25 29M-18 -22Q-6 -32 8 -27" stroke="#77517E" stroke-width="2.8"/>
+      <path d="M-64 -39C-49 -53 -37 -55 -23 -54M65 -36Q73 -19 68 -3M41 62Q27 70 12 68" stroke="#81958A" stroke-width="2.2" opacity=".65"/>
+    </g>
+  </g>
+</svg>

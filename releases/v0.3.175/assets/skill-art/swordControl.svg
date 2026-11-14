@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256" fill="none">
+  <title>御剑术</title>
+  <g stroke-linecap="round" stroke-linejoin="round">
+    <g stroke="#d2a357" stroke-width="2.1" opacity=".68">
+      <path d="M55 96A82 82 0 0 1 112 48M144 48A82 82 0 0 1 201 96M201 160A82 82 0 0 1 144 208M112 208A82 82 0 0 1 55 160"/>
+    </g>
+    <g stroke="#d2a357" stroke-width="3.5" opacity=".8">
+      <path d="M97 89C69 78 58 100 68 115C76 126 90 120 86 109M159 157C187 168 198 146 188 131C180 120 166 126 170 137"/>
+      <path d="M68 113L65 121L77 120M188 133L191 125L179 126" stroke="#fff1bb" stroke-width="2.2"/>
+    </g>
+    <g id="subject" transform="translate(0 5)">
+      <path d="M128 47L142 91L140 142L128 155L116 142L114 91Z" fill="#fff1bb" stroke="#18212d" stroke-width="4"/>
+      <path d="M128 54V149M117 92L128 106L139 92" stroke="#d2a357" stroke-width="3.2"/>
+      <path d="M104 149L128 155L152 149L155 159L128 166L101 159Z" fill="#d2a357" stroke="#18212d" stroke-width="3.6"/>
+      <path d="M128 168V191" stroke="#18212d" stroke-width="10"/>
+      <path d="M128 168V191M121 177H135M121 186H135" stroke="#fff1bb" stroke-width="4.5"/>
+      <path d="M128 192L134 199L128 205L122 199Z" fill="#d2a357" stroke="#18212d" stroke-width="2.7"/>
+    </g>
+    <g fill="#fff1bb" opacity=".75">
+      <circle cx="48" cy="128" r="2.7"/><circle cx="208" cy="128" r="2.7"/>
+    </g>
+  </g>
+</svg>
