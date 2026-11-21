@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256" fill="none">
+ <g stroke="#18212D" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" data-art-subject="piercing-cry-and-shattered-stance" transform="translate(128 128) scale(.82) translate(-128 -128)">
+  <path d="M96 62C112 48 143 50 160 67C175 83 177 106 167 121C157 136 161 164 153 187C148 204 132 213 117 205C99 196 96 177 97 160C98 142 82 129 82 108C81 88 83 76 96 62Z" fill="#92ABAC"/>
+  <path d="M104 68C120 58 143 64 153 78C161 91 159 106 151 116C139 109 120 109 107 118C97 106 94 79 104 68Z" fill="#CBD8CD" stroke="none"/>
+  <path d="M105 127C107 114 144 113 151 129C158 145 150 181 137 191C126 201 111 185 107 167C103 151 102 139 105 127Z" fill="#33263E"/>
+  <path d="M109 129C119 123 136 122 148 131L144 142C131 138 119 140 109 143Z" fill="#ECE5D2" stroke-width="2"/>
+  <path d="M114 174C117 161 137 161 144 172C141 186 130 194 123 187Z" fill="#A2687E" stroke-width="2"/>
+  <path d="M98 106L110 111M143 109L157 102M101 94L110 93M146 92L155 94" stroke-width="3.4"/>
+  <path d="M70 112C56 127 57 153 70 167M54 95C30 119 32 160 54 185M39 77C8 112 12 169 36 201" stroke="#7896AE" stroke-width="6"/>
+  <path d="M187 112C200 128 199 153 186 168M204 95C227 121 226 159 203 185M218 78C248 113 245 166 222 201" stroke="#A398BE" stroke-width="6"/>
+  <path d="M69 114C60 128 62 150 69 157M190 116C197 131 194 150 188 158" stroke="#D7DEE0" stroke-width="2"/>
+  <path d="M91 193L81 205L87 216M163 193L174 202L169 215M42 63L49 69M210 61L204 69" stroke="#738997" stroke-width="3"/>
+ </g>
+</svg>

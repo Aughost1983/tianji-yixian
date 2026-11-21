@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256" fill="none">
+  <g transform="translate(128 128)" stroke-linecap="round" stroke-linejoin="round" data-art-subject="mysterious-mother-gate">
+    <path d="M-44 81L-49 -2C-51 -44 -33 -65 -7 -70L-3 -91C-42 -92 -76 -52 -72 -6L-65 82Z" fill="#493B5B" stroke="#18212D" stroke-width="4.5"/>
+    <path d="M45 81L50 -2C52 -44 34 -65 8 -70L4 -91C43 -92 77 -52 73 -6L66 82Z" fill="#514365" stroke="#18212D" stroke-width="4.5"/>
+    <path d="M-41 73L-44 -1Q-45 -50 0 -63Q45 -50 44 -1L41 73Z" fill="#171923"/>
+    <path d="M-60 69L-64 -4Q-66 -56 -21 -79M59 68L64 -4Q66 -56 22 -79" stroke="#7C738C" stroke-width="2.7"/>
+    <path d="M0 -32C-24 -3 19 1 5 28C-9 44 -29 39 -39 53C-11 44 15 55 24 28C31 9 6 3 12 -13Z" fill="#4B776F" stroke="#18212D" stroke-width="3"/>
+    <path d="M1 -19C-14 4 21 11 1 35" stroke="#A6B4AC" stroke-width="2.5"/>
+    <path d="M-26 33C-46 21 -67 27 -83 44L-68 46M30 37C48 26 68 32 84 49L70 51" stroke="#817C9E" stroke-width="4"/>
+    <path d="M-38 78H-72M38 78H74" stroke="#4D5367" stroke-width="4"/>
+  </g>
+</svg>

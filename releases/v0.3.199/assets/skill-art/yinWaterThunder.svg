@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256" fill="none">
+  <title>葵水阴雷</title>
+  <g stroke-linecap="round" stroke-linejoin="round">
+    <path d="M55 96A82 82 0 0 1 110 48M146 48A82 82 0 0 1 201 96M201 160A82 82 0 0 1 146 208M110 208A82 82 0 0 1 55 160" stroke="#a78dd9" stroke-width="2.1" opacity=".68"/>
+    <g stroke="#a78dd9" stroke-width="2.8" opacity=".7">
+      <path d="M73 100C59 109 59 126 69 132M183 100C197 109 197 126 187 132M72 157Q79 168 89 170M184 157Q177 168 167 170"/>
+    </g>
+    <g id="subject" transform="translate(0 3)">
+      <path d="M128 45C138 76 168 101 172 125C178 157 157 176 128 178C99 176 78 157 84 125C88 101 118 76 128 45Z" fill="#a78dd9" stroke="#18212d" stroke-width="3.8"/>
+      <path d="M100 120Q91 142 103 153M155 155Q163 148 163 139" stroke="#eedcff" stroke-width="3.4" opacity=".78"/>
+      <path d="M134 80L111 125H128L119 155L148 113H132L146 80Z" fill="#eedcff" stroke="#18212d" stroke-width="3.2"/>
+    </g>
+    <g fill="#eedcff" opacity=".75">
+      <circle cx="48" cy="128" r="2.7"/><circle cx="208" cy="128" r="2.7"/>
+    </g>
+  </g>
+</svg>

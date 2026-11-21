@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="80" height="80" viewBox="0 0 80 80" fill="none">
+  <title>上品灵石</title>
+  <g stroke-linejoin="round" stroke-linecap="round">
+    <g data-mineral-piece="1">
+      <path d="M17 27L26 24L34 38L32 59L21 69L10 59L8 40Z" fill="#A6D9D4" stroke="#18212D" stroke-width="2.6"/>
+      <path d="M17 27L22 44L8 40Z" fill="#E4F3EA"/>
+      <path d="M22 44L26 24L34 38L32 59L21 69Z" fill="#6CB5B9"/>
+      <path d="M22 44L21 69L10 59L8 40Z" fill="#BEE7DE"/>
+      <path d="M14 37L17 33" stroke="#F8FFF5" stroke-width="1.7"/>
+    </g>
+    <g data-mineral-piece="2">
+      <path d="M39 7L51 18L55 45L46 66L32 68L24 49L27 22Z" fill="#B6E3DD" stroke="#18212D" stroke-width="2.8"/>
+      <path d="M39 7L40 34L27 22Z" fill="#F0F9ED"/>
+      <path d="M40 34L51 18L55 45L46 66L40 57Z" fill="#7EC2C4"/>
+      <path d="M40 34L40 57L32 68L24 49L27 22Z" fill="#C8EDE2"/>
+      <path d="M33 25L37 17M33 30L33 34" stroke="#FAFFF5" stroke-width="1.8"/>
+    </g>
+    <g data-mineral-piece="3">
+      <path d="M61 31L71 39L72 55L63 70L51 70L46 55L52 39Z" fill="#B7DDD9" stroke="#18212D" stroke-width="2.6"/>
+      <path d="M61 31L59 50L52 39Z" fill="#F0F7EC"/>
+      <path d="M59 50L71 39L72 55L63 70L59 63Z" fill="#79B6BD"/>
+      <path d="M59 50L59 63L51 70L46 55L52 39Z" fill="#CFEBDF"/>
+      <path d="M57 42L60 38" stroke="#F9FFF4" stroke-width="1.6"/>
+    </g>
+  </g>
+</svg>

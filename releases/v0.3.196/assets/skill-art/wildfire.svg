@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256" fill="none">
+  <title>天火燎原</title>
+  <g stroke-linecap="round" stroke-linejoin="round">
+    <path d="M55 96A82 82 0 0 1 108 49M148 49A82 82 0 0 1 201 96M63 179Q128 216 193 179" stroke="#cb664c" stroke-width="2.1" opacity=".68"/>
+    <g id="subject" transform="translate(128 113)">
+      <path d="M0 -62C16 -44 8 -24 18 -15C20 -33 36 -37 36 -48C56 -25 43 -10 49 5C57 -1 59 -13 57 -23C77 -2 72 25 59 42C44 62 17 67 0 65C-23 66 -48 58 -60 40C-73 21 -72 2 -57 -17C-58 -2 -48 4 -43 -1C-52 -23 -35 -35 -31 -47C-29 -27 -15 -25 -14 -12C-4 -26 -15 -43 0 -62Z" fill="#cb664c" stroke="#18212d" stroke-width="4.4"/>
+      <path d="M0 -16C16 -3 13 9 21 17C23 8 29 4 33 0C39 17 36 34 23 42C10 51 -10 51 -24 41C-36 32 -39 17 -31 4C-26 16 -16 19 -13 10C-12 -1 -4 -6 0 -16Z" fill="#ffd397" stroke="#18212d" stroke-width="3.1"/>
+      <path d="M-47 29Q-42 44 -29 48M47 29Q42 44 29 48" stroke="#ffd397" stroke-width="2.7" opacity=".8"/>
+    </g>
+    <g stroke="#cb664c" stroke-width="2.6" opacity=".78">
+      <path d="M45 137L48 126M211 137L208 126M86 65L82 57M170 65L174 57"/>
+    </g>
+    <g fill="#ffd397" opacity=".75">
+      <circle cx="48" cy="157" r="2.7"/><circle cx="208" cy="157" r="2.7"/>
+    </g>
+  </g>
+</svg>

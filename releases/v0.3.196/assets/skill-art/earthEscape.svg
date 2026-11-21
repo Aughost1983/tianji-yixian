@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256" fill="none">
+  <g transform="translate(128 128)" stroke-linecap="round" stroke-linejoin="round" data-art-subject="excavated-earth-tunnel">
+    <g transform="translate(0 -5)">
+      <path d="M-83 -12L-71 -38L-40 -54L-4 -59L32 -51L65 -30L80 -3L76 31L52 58L16 71L-23 65L-59 49L-78 22Z" fill="#806B4D" stroke="#18212D" stroke-width="4"/>
+      <path d="M-62 1C-56 -24 -24 -39 9 -35C43 -32 66 -11 62 15C57 43 20 55 -15 46C-44 41 -68 27 -62 1Z" fill="#343A33" stroke="#18212D" stroke-width="4" data-art-part="open-tunnel"/>
+      <path d="M-29 -7C-6 -28 33 -22 41 0C48 21 22 34 0 29C-23 27 -40 9 -29 -7Z" fill="#1C292A"/>
+      <path d="M-74 -22L-51 -40L-23 -45L-14 -58M-43 -47L-38 -31M32 -50L25 -34L48 -24M66 -22L54 -8L77 1M-74 23L-53 18L-43 40L-57 49M-16 46L-21 65M22 48L31 64L54 53L48 36" stroke="#C0A06B" stroke-width="3"/>
+      <path d="M-54 -23Q-29 -41 -1 -33M-56 29Q-24 53 12 51M47 29L61 16" stroke="#A68A5A" stroke-width="3.5"/>
+      <path d="M-44 12C-31 23 -8 20 4 10Q14 0 27 2M-29 29Q-9 33 3 24" stroke="#B59860" stroke-width="3" data-art-part="inward-digging-trail"/>
+      <g fill="#9D8256" stroke="#18212D" stroke-width="3" data-art-part="broken-soil">
+        <path d="M-84 -42L-76 -59L-61 -55L-63 -40L-76 -34Z"/>
+        <path d="M-29 -68L-18 -78L-6 -72L-12 -61Z"/>
+        <path d="M65 -49L77 -57L87 -45L80 -34L67 -36Z"/>
+        <path d="M-87 38L-74 31L-63 43L-69 56L-83 52Z"/>
+        <path d="M-46 63L-29 61L-18 76L-32 85L-50 77Z"/>
+        <path d="M57 63L73 51L84 61L78 76L62 80Z"/>
+      </g>
+      <path d="M-89 -28L-92 -37M-19 -86L-15 -88M86 37L91 32M34 78L39 87" stroke="#9D8256" stroke-width="3"/>
+    </g>
+  </g>
+</svg>
