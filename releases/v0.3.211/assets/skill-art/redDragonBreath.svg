@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256" fill="none">
+  <title>赤龙吐息：赤龙张口喷焰</title>
+  <g stroke-linecap="round" stroke-linejoin="round">
+    <path d="M165 170A81 81 0 0 1 66 180M61 81A81 81 0 0 1 142 46" stroke="#cb664c" stroke-width="2.1" opacity=".68"/>
+    <g fill="#ffd397" opacity=".75"><circle cx="48" cy="98" r="2.7"/><circle cx="211" cy="157" r="2.7"/><circle cx="90" cy="202" r="2.7"/></g>
+    <!-- A compact side-profile dragon has horns, one eye and an open jaw. -->
+    <path d="M102 87L88 52L107 67L119 59L118 81M93 101L67 79L72 105L57 119L82 126L65 147L92 141" fill="#8f443d" stroke="#18212d" stroke-width="3.5"/>
+    <path d="M93 89L119 78L139 93L145 104L165 110L169 122L154 130L131 126L122 134L140 145L156 140L161 147L144 160L115 155L101 145L86 140L80 116Z" fill="#cb664c" stroke="#18212d" stroke-width="4"/>
+    <path d="M121 112L154 122L132 125L120 136L140 146L126 146L109 134Z" fill="#18212d"/>
+    <path d="M136 124L139 133L145 126M131 143L136 136L142 145" fill="#ffd397" stroke="#ffd397" stroke-width="1.5"/>
+    <path d="M110 98L132 105L122 115L110 110Z" fill="#ffd397" stroke="#18212d" stroke-width="3"/>
+    <path d="M122 105L122 110M151 115L155 116" stroke="#18212d" stroke-width="3"/>
+    <path d="M101 97L122 99M98 115L105 122M94 130L102 137" stroke="#ffd397" stroke-width="3"/>
+    <path d="M128 125C115 120 104 123 101 133C97 143 88 141 87 135" stroke="#ffd397" stroke-width="2.5"/>
+    <!-- The breath is a connected flame silhouette, distinct from the water dragon. -->
+    <path d="M153 132C164 129 172 117 171 107C184 112 185 126 192 130C201 127 205 115 203 105C220 123 218 139 205 147C210 152 216 153 222 151C216 172 197 175 183 167C172 176 159 170 155 160C166 161 173 157 174 151C165 150 159 145 153 142Z" fill="#cb664c" stroke="#18212d" stroke-width="3.5"/>
+    <path d="M159 137Q178 135 181 124C186 138 195 142 201 133C203 145 196 152 189 153L196 162C180 165 180 153 172 150Z" fill="#ffd397" stroke="#18212d" stroke-width="2.2"/>
+    <path d="M84 146Q84 168 111 177L132 174Q114 194 93 185L74 177L83 172L69 163Z" fill="#8f443d" stroke="#18212d" stroke-width="3"/>
+    <path d="M82 157Q91 175 112 178" stroke="#ffd397" stroke-width="2.5"/>
+    <path d="M191 91L195 83L199 91L195 100ZM216 179L219 173L222 179L219 186Z" fill="#ffd397"/>
+  </g>
+</svg>

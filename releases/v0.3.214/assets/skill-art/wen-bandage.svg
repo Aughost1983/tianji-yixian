@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256" fill="none">
+  <title>Bandage</title>
+  <g stroke-linecap="round" stroke-linejoin="round">
+    <path d="M83 112c13 20 23 42 47 57 17 10 38 13 65 9l-25 26c-27 0-50-9-67-25-17-17-27-36-35-51Z" fill="#e7dbc5" stroke="#18212d" stroke-width="7"/>
+    <path d="M85 125c13 23 25 44 48 55 14 7 29 10 46 10l-10 10c-25-1-45-10-61-25-13-14-24-32-31-46Z" fill="#c9bba3"/>
+    <path d="M94 142c16 28 37 42 66 45" stroke="#a89981" stroke-width="3"/>
+    <path d="M65 64c13-14 30-17 44-11l29 13c22 10 27 41 12 61-9 12-23 17-37 12l-28-12Z" fill="#d8cab2" stroke="#18212d" stroke-width="7"/>
+    <path d="m104 60 29 14c15 8 20 29 10 46-4 7-9 12-16 14l-17-7c12-20 12-44-6-67Z" fill="#f1e8d7"/>
+    <path d="M111 72c15 21 9 51-8 61-18 11-39-2-45-23-6-21 0-42 15-49 13-6 28-1 38 11Z" fill="#f6eedf" stroke="#18212d" stroke-width="7"/>
+    <path d="M78 78c10-7 24 4 26 19 2 14-6 25-15 21-11-4-15-22-8-29 5-5 12 2 12 9 1 6-3 8-6 5" stroke="#a99b84" stroke-width="5"/>
+    <path d="m120 79 15 7m-13 7 17 8m-19 7 14 6" stroke="#b9aa90" stroke-width="3"/>
+  </g>
+</svg>

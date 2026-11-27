@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256" fill="none">
+  <g transform="translate(128 128)" stroke-linecap="round" stroke-linejoin="round" data-art-subject="heavy-mountain-downward-impact">
+    <g data-art-part="downward-fall-trails" fill="#B49973" opacity=".7">
+      <path d="M-85 -70L-81 -78L-77 -19L-82 -12Z"/>
+      <path d="M77 -82L82 -88L84 -24L79 -17Z"/>
+      <path d="M37 -97L41 -100L43 -64L39 -61Z"/>
+    </g>
+    <path d="M-82 23L-69 -30L-49 -43L-28 -78L-8 -62L5 -89L35 -59L52 -63L76 -23L83 23L66 48L27 55L-19 51L-59 54Z" fill="#8D775D" stroke="#18212D" stroke-width="4.5" data-art-part="falling-mountain-mass"/>
+    <path d="M-28 -78L-6 -45L5 -89L21 -42L11 10L27 55L-19 51L-33 5L-20 -30Z" fill="#B3976B" stroke="#18212D" stroke-width="3"/>
+    <path d="M-69 -30L-49 -43L-20 -30L-33 5L-59 54L-82 23Z" fill="#756B5E" stroke="#18212D" stroke-width="3"/>
+    <path d="M35 -59L52 -63L76 -23L83 23L66 48L27 55L11 10L21 -42Z" fill="#6F6559" stroke="#18212D" stroke-width="3"/>
+    <path d="M-59 54L-35 35L-6 39L11 30L40 38L66 29L83 23L66 48L27 55L-19 51Z" fill="#4D4946" stroke="#18212D" stroke-width="3"/>
+    <path d="M-28 -69L-10 -44M5 -78L17 -42M40 -51L54 -31L65 -29M-65 -23L-58 6M29 -18L36 2L30 16M-14 -14L-5 4L-7 26" stroke="#C1AB85" stroke-width="2.7"/>
+    <path d="M-91 69L-68 66L-53 74L-21 66L0 75L27 67L54 75L72 67L94 71M0 75L-11 88M0 75L19 89M-53 74L-67 85M54 75L71 86" stroke="#9F835F" stroke-width="3.5" data-art-part="ground-impact-cracks"/>
+    <g data-art-part="impact-rock-fragments" fill="#AA8B61" stroke="#18212D" stroke-width="2.6">
+      <path d="M-91 44L-80 37L-72 49L-82 57Z"/>
+      <path d="M82 44L92 37L99 50L87 57Z"/>
+      <path d="M-51 83L-42 79L-34 88L-47 93Z"/>
+      <path d="M35 85L43 79L52 89L42 94Z"/>
+    </g>
+    <path d="M-65 59L-79 63M64 57L81 61M-24 60L-28 66M23 61L28 65" stroke="#D7BD87" stroke-width="3"/>
+
+  </g>
+</svg>

@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256" fill="none">
+  <g transform="translate(128 128)" stroke-linecap="round" stroke-linejoin="round" data-art-subject="qi-into-forearm-marrow">
+    <path d="M-77 68L-35 22L-14 -7L-19 -28Q-21 -36 -12 -41L-9 -57Q-5 -65 3 -60L10 -66Q18 -72 24 -63L31 -64Q40 -64 43 -54L51 -49Q56 -42 49 -34L37 -16Q33 -5 18 0L-4 29L-48 88Z" fill="#777B80" stroke="#18212D" stroke-width="4.5"/>
+    <path d="M-62 70L-20 28L3 3M-10 -39L3 -29L15 -36L7 -49M10 -61L18 -46M28 -59L32 -47M40 -48L41 -42" stroke="#B4AD9C" stroke-width="2.6"/>
+    <path d="M-48 65L-15 26L5 -3L25 -22M-42 68L-9 30L12 0L30 -19" stroke="#C0A16A" stroke-width="2.7"/>
+    <g data-art-part="three-inward-streams" fill="#4E887B" stroke="#18212D" stroke-width="2.7">
+      <path d="M-92 -8C-62 -22 -39 -2 -12 -1C-34 12 -59 -10 -92 -8Z"/>
+      <path d="M-1 91C-11 65 15 50 14 20C29 44 7 69 -1 91Z"/>
+      <path d="M91 17C70 37 58 9 41 -5C64 -1 69 18 91 17Z"/>
+    </g>
+    <path d="M-79 -9Q-48 -8 -25 0M1 77Q14 53 15 36M79 22L53 6" stroke="#9ABDA6" stroke-width="2.2"/>
+    <path d="M18 -73C47 -82 71 -61 64 -39C61 -26 49 -17 34 -16" stroke="#B99B61" stroke-width="3.2"/>
+    <path d="M30 -73Q58 -73 61 -51" stroke="#DBC089" stroke-width="2"/>
+  </g>
+</svg>

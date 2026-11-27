@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256" fill="none">
+  <g transform="translate(128 128) scale(.837)" stroke-linecap="round" stroke-linejoin="round" data-art-subject="golden-sword-qi-light-shield">
+    <path d="M0 -87Q41 -67 76 -60L69 18Q57 62 0 91Q-57 62 -69 18L-76 -60Q-41 -67 0 -87Z" stroke="#C6A15B" stroke-width="12" opacity=".13" data-art-part="soft-sword-light"/>
+    <path d="M0 -87Q41 -67 76 -60L69 18Q57 62 0 91Q-57 62 -69 18L-76 -60Q-41 -67 0 -87Z" fill="#D3AA59" fill-opacity=".16" stroke="#8F7549" stroke-width="3.5"/>
+    <g data-art-part="shield-woven-from-sword-qi" stroke="#18212D" stroke-width="2.2">
+      <path d="M-73 -58L-62 -50Q-66 10 -41 48Q-68 24 -73 -9Z" fill="#C5A35D"/>
+      <path d="M73 -58L62 -50Q66 10 41 48Q68 24 73 -9Z" fill="#C5A35D"/>
+      <path d="M-42 -73L-28 -50L-26 32L-10 73L-29 57L-41 27Z" fill="#D9B76C"/>
+      <path d="M42 -73L28 -50L26 32L10 73L29 57L41 27Z" fill="#D9B76C"/>
+      <path d="M0 -91L12 -54L9 37L0 85L-9 37L-12 -54Z" fill="#F2DB98"/>
+    </g>
+    <path d="M0 -77L0 63M-36 -54L-32 20M36 -54L32 20M-68 -42Q-66 -4 -59 13M68 -42Q66 -4 59 13" stroke="#FFF0C1" stroke-width="2.5"/>
+    <path d="M-73 -58Q-38 -67 0 -87Q38 -67 73 -58M-68 19Q-54 62 0 88Q54 62 68 19" stroke="#E3C67D" stroke-width="3" data-art-part="sword-light-shield-contour"/>
+    <path d="M-52 -39Q-38 -44 -22 -45M22 -45Q38 -44 52 -39M-39 45Q-22 61 -8 65M8 65Q22 61 39 45" stroke="#F0D99B" stroke-width="2" opacity=".72"/>
+
+  </g>
+</svg>

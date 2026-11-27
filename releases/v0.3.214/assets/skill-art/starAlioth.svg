@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256" fill="none"><title>玉衡变✦</title>
+<defs><linearGradient id="starlight" x1="50" y1="50" x2="208" y2="192" gradientUnits="userSpaceOnUse"><stop stop-color="#D8F4D1"/><stop offset=".52" stop-color="#68B398"/><stop offset="1" stop-color="#325B50"/></linearGradient></defs>
+<g stroke="#18212D" stroke-linejoin="round" stroke-linecap="round">
+<path d="M39 159 C20 122 29 72 70 38 C45 85 47 122 65 143 C90 175 151 202 223 195 C171 224 72 210 39 159Z" fill="#68B398" fill-opacity=".17" stroke-width="2"/>
+<path d="M31 163 C64 203 128 220 193 209 M71 33 C111 26 146 42 164 64" stroke="#68B398" stroke-opacity=".58" stroke-width="2.5"/>
+<path d="M57 63 L52 121 L107 140 L129 86 Z M129 86 L164 98 L190 132 L211 182" stroke-width="9"/>
+<path d="M57 63 L52 121 L107 140 L129 86 Z M129 86 L164 98 L190 132 L211 182" stroke="#68B398" stroke-width="4"/>
+<path d="M57 63 L52 121 L107 140 L129 86 M129 86 L164 98 L190 132 L211 182" stroke="#D8F4D1" stroke-width="1.2" stroke-opacity=".8"/>
+<path d="M57.00,55.00 L58.70,61.30 L65.00,63.00 L58.70,64.70 L57.00,71.00 L55.30,64.70 L49.00,63.00 L55.30,61.30 Z" fill="#325B50" stroke-width="2.5"/><path d="M55 63 L57 60 L59 63 L57 66Z" fill="#D8F4D1" stroke="none"/>
+<path d="M52.00,113.00 L53.70,119.30 L60.00,121.00 L53.70,122.70 L52.00,129.00 L50.30,122.70 L44.00,121.00 L50.30,119.30 Z" fill="#325B50" stroke-width="2.5"/><path d="M50 121 L52 118 L54 121 L52 124Z" fill="#D8F4D1" stroke="none"/>
+<path d="M107.00,132.00 L108.70,138.30 L115.00,140.00 L108.70,141.70 L107.00,148.00 L105.30,141.70 L99.00,140.00 L105.30,138.30 Z" fill="#325B50" stroke-width="2.5"/><path d="M105 140 L107 137 L109 140 L107 143Z" fill="#D8F4D1" stroke="none"/>
+<path d="M129.00,78.00 L130.70,84.30 L137.00,86.00 L130.70,87.70 L129.00,94.00 L127.30,87.70 L121.00,86.00 L127.30,84.30 Z" fill="#325B50" stroke-width="2.5"/><path d="M127 86 L129 83 L131 86 L129 89Z" fill="#D8F4D1" stroke="none"/>
+<path d="M190.00,124.00 L191.70,130.30 L198.00,132.00 L191.70,133.70 L190.00,140.00 L188.30,133.70 L182.00,132.00 L188.30,130.30 Z" fill="#325B50" stroke-width="2.5"/><path d="M188 132 L190 129 L192 132 L190 135Z" fill="#D8F4D1" stroke="none"/>
+<path d="M211.00,174.00 L212.70,180.30 L219.00,182.00 L212.70,183.70 L211.00,190.00 L209.30,183.70 L203.00,182.00 L209.30,180.30 Z" fill="#325B50" stroke-width="2.5"/><path d="M209 182 L211 179 L213 182 L211 185Z" fill="#D8F4D1" stroke="none"/>
+<path d="M141 92 L155 78 M172 76 L186 90 M186 106 L172 120 M156 120 L142 106" stroke="#68B398" stroke-width="3"/>
+<path d="M164.00,76.00 L168.67,93.33 L186.00,98.00 L168.67,102.67 L164.00,120.00 L159.33,102.67 L142.00,98.00 L159.33,93.33 Z" fill="url(#starlight)" stroke-width="3"/>
+<path d="M164 87 L170 98 L164 109 L158 98Z" fill="#D8F4D1" stroke="#325B50" stroke-width="1.5"/>
+<path d="M150 81 L144 73 M180 117 L186 125" stroke="#D8F4D1" stroke-width="2"/>
+<path d="M76 184 Q110 197 141 191 M80 192 Q111 205 151 197" stroke="#68B398" stroke-opacity=".6" stroke-width="2"/>
+</g></svg>

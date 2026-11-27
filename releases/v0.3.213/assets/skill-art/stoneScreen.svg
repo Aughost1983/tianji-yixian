@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256" fill="none">
+  <g transform="translate(128 128)" stroke-linecap="round" stroke-linejoin="round">
+    <g opacity=".68">
+      <path d="M37 42A81 81 0 0 1 -62 52M-67 -47A81 81 0 0 1 14 -82" stroke="#A18A6A" stroke-width="2.1"/>
+      <circle cx="-80" cy="-30" r="2.7" fill="#D5BD91"/>
+      <circle cx="83" cy="29" r="2.7" fill="#D5BD91"/>
+      <circle cx="-38" cy="74" r="2.7" fill="#D5BD91"/>
+    </g>
+    <g data-art-subject="rising-stone-wall">
+      <path d="M40 -59L54 -49L52 48L40 60L29 35Z" fill="#766653" stroke="#18212D" stroke-width="4"/>
+      <path d="M-46 -56L-25 -62L-7 -57L13 -63L40 -59L40 60L-45 60Z" fill="#A18A6A" stroke="#18212D" stroke-width="4"/>
+      <path d="M-38 -32L-19 -36L0 -31L18 -37L33 -33M-39 -7L-21 -12L-4 -6L15 -11L33 -7M-38 18L-18 13L1 20L20 14L33 19M-36 41L-16 36L6 41L32 36" stroke="#D0B88D" stroke-width="3"/>
+      <path d="M7 -57L2 -40L12 -26L6 -12L16 3L10 19" stroke="#766653" stroke-width="2.6"/>
+      <g data-art-detail="erupting-ground-rubble">
+        <path d="M-80 72L-61 63L-54 52L-41 59L-29 52L-15 63L1 54L17 64L31 53L47 60L59 53L66 66L81 73" stroke="#BFA67E" stroke-width="3"/>
+        <path d="M-58 62L-68 51L-77 60L-70 72Z M-43 67L-32 55L-16 62L-22 76L-37 76Z M8 70L17 59L31 63L34 77L17 79Z M47 68L57 57L70 69L63 78Z" fill="#8C775D" stroke="#18212D" stroke-width="3"/>
+        <path d="M-57 37L-65 23L-60 13L-53 26Z M61 42L69 31L76 37L68 48Z" fill="#A18A6A" stroke="#18212D" stroke-width="2.5"/>
+        <path d="M-62 45L-67 34M-51 11V-6M62 18L66 2M75 57L82 53M-16 79L-25 86M39 78L46 84" stroke="#BFA67E" stroke-width="2" opacity=".7"/>
+      </g>
+    </g>
+  </g>
+</svg>

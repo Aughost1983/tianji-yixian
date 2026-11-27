@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256" fill="none">
+  <g transform="translate(128 128)" stroke-linecap="round" stroke-linejoin="round">
+    <g opacity=".68">
+      <path d="M37 42A81 81 0 0 1 -62 52M-67 -47A81 81 0 0 1 14 -82" stroke="#AC5946" stroke-width="2.1"/>
+      <circle cx="-80" cy="-30" r="2.7" fill="#E2BB80"/>
+      <circle cx="83" cy="29" r="2.7" fill="#E2BB80"/>
+      <circle cx="-38" cy="74" r="2.7" fill="#E2BB80"/>
+    </g>
+    <g data-art-subject="converging-ignition">
+      <path d="M-77 29C-54 19 -63 -7 -43 -25C-43 -5 -22 -7 -15 12C-11 26 -2 29 4 27C-20 50 -46 49 -77 29Z" fill="#A94F3E" stroke="#18212D" stroke-width="4"/>
+      <path d="M73 35C48 32 61 1 43 -18C43 3 21 -3 14 13C7 29 4 34 -4 37C20 56 53 54 73 35Z" fill="#A94F3E" stroke="#18212D" stroke-width="4"/>
+      <path d="M-14 -72C5 -63 24 -49 15 -29C6 -13 4 -5 8 7C-14 -4 -26 -16 -20 -35C-16 -48 -7 -57 -14 -72Z" fill="#B95C42" stroke="#18212D" stroke-width="4"/>
+      <path d="M-57 25Q-34 32 -16 21M52 31Q34 37 17 23M-9 -51Q6 -30 -1 -14" stroke="#E1A25F" stroke-width="3"/>
+      <path d="M0 -26L10 -1L29 -11L22 10L44 16L22 25L31 44L11 37L1 65L-10 39L-30 47L-23 26L-43 16L-20 8L-27 -10L-10 -1Z" fill="#D77B48" stroke="#18212D" stroke-width="3.5"/>
+      <path d="M1 -6L8 12L20 17L9 26L2 42L-6 27L-18 17L-6 10Z" fill="#F4D399"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256" fill="none">
+  <g transform="translate(128 128)" stroke-linecap="round" stroke-linejoin="round" data-art-subject="six-streams-gathering-qi">
+    <g transform="translate(0 14) scale(.85) translate(0 -14)" data-art-part="inhaling-airflow">
+      <g data-art-part="six-irregular-inflows" stroke-width="8" opacity=".34">
+        <path d="M-83 -51C-61 -83 -20 -81 -13 -58C-6 -36 -41 -46 -34 -22C-29 -5 -12 -5 -3 13" stroke="#598774" data-qi-stream="1"/>
+        <path d="M40 -88C16 -62 58 -73 66 -47C74 -23 29 -37 24 -18Q20 -2 3 13" stroke="#648D7B" data-qi-stream="2"/>
+        <path d="M96 -12C73 -30 91 19 68 28C50 36 58 10 40 12L3 14" stroke="#4D7F70" data-qi-stream="3"/>
+        <path d="M66 79C34 96 54 49 30 54C10 58 27 35 7 29L0 14" stroke="#5F8C78" data-qi-stream="4"/>
+        <path d="M-47 92C-22 86 -54 68 -37 55C-20 43 -1 61 -9 39Q-15 22 0 14" stroke="#4C7E70" data-qi-stream="5"/>
+        <path d="M-97 26C-64 45 -83 -11 -58 -9C-41 -7 -61 19 -34 21L-3 14" stroke="#598A75" data-qi-stream="6"/>
+      </g>
+      <g data-art-part="turbulent-inhaled-wisps" stroke="#94BBA3" stroke-width="2.8" opacity=".94">
+        <path d="M-91 -37C-69 -73 -37 -81 -24 -68C-9 -53 -33 -52 -38 -39C-48 -16 -17 -13 -4 13"/>
+        <path d="M22 -91C7 -73 34 -68 49 -67C83 -64 83 -35 52 -32C30 -30 31 -7 3 13"/>
+        <path d="M101 3C84 -8 85 32 65 33C44 34 59 18 38 18L4 14"/>
+        <path d="M79 67C62 88 40 83 41 66C44 44 23 61 22 43Q21 28 1 14"/>
+        <path d="M-32 96C-8 82 -44 74 -29 59C-15 46 2 52 -4 35L0 14"/>
+        <path d="M-102 10C-77 32 -78 -12 -62 -20C-40 -30 -52 8 -33 14L-3 14"/>
+      </g>
+      <g stroke="#B3CDB4" stroke-width="1.2" opacity=".66" data-art-part="scattered-air-filaments">
+        <path d="M-73 -80C-47 -98 -8 -85 -4 -62M-26 -47Q-39 -32 -24 -23L-10 -9"/>
+        <path d="M107 27Q92 16 85 41C80 59 59 49 62 42M47 6Q34 -1 23 8L10 12"/>
+      </g>
+    </g>
+    <g data-art-part="simple-inhaling-mouth">
+      <path d="M-29 8C-24 -1 -12 -7 -2 -2C7 -8 21 -2 29 7C26 26 15 34 0 34C-15 34 -25 24 -29 8Z" fill="#8B8280" stroke="#18212D" stroke-width="3.6"/>
+      <path d="M-22 9C-12 3 -8 7 -1 5C8 6 15 2 22 9C20 23 12 27 0 27C-12 27 -19 22 -22 9Z" fill="#14222A"/>
+      <path d="M-19 7Q-9 3 -1 5Q9 2 20 7M-12 28Q0 32 12 28" stroke="#B3A8A0" stroke-width="2.2"/>
+      <path d="M-7 10Q0 15 7 10" stroke="#94BBA3" stroke-width="2.5"/>
+    </g>
+  </g>
+</svg>

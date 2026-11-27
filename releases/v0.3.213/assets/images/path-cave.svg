@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 150">
+  <defs>
+    <radialGradient id="depth" cx="50%" cy="44%" r="68%"><stop offset="0" stop-color="#314353"/><stop offset=".35" stop-color="#1a2732"/><stop offset="1" stop-color="#080c11"/></radialGradient>
+    <linearGradient id="floor" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#18232c"/><stop offset="1" stop-color="#080c10"/></linearGradient>
+  </defs>
+  <rect width="240" height="150" fill="#080c11"/>
+  <path d="M0 0h240v150H0Z" fill="url(#depth)"/>
+  <!-- Jagged cave walls close around a small distant opening. -->
+  <path d="M0 0h72l14 20-13 20 15 17-17 23 17 20-22 50H0Z" fill="#0b1015"/>
+  <path d="M240 0h-72l-14 20 13 20-15 17 17 23-17 20 22 50h66Z" fill="#0b1015"/>
+  <path d="M55 0h130l-16 17-8 14-18-7-14 14-20-11-19 12-15-13-12 5Z" fill="#0a0f14"/>
+  <path d="M0 150h240l-39-38-30-18-24-8h-54l-25 9-30 18Z" fill="url(#floor)"/>
+  <path d="M101 87 84 150m55-63 17 63" stroke="#2b3842" stroke-width="2" opacity=".5"/>
+  <path d="M91 110h58M79 129h82" stroke="#26333d" stroke-width="2" opacity=".42"/>
+  <path d="M100 50q20-17 40 0v39h-40Z" fill="#263846" opacity=".6"/>
+  <path d="M107 57q13-10 26 0v24h-26Z" fill="#8aa2aa" opacity=".10"/>
+  <g fill="#41515c" opacity=".32"><path d="m30 43 16-11 8 18-14 9Z"/><path d="m194 42 15-12 9 19-15 10Z"/><path d="m20 101 19-12 9 16-18 13Z"/><path d="m191 98 20-10 8 18-19 11Z"/></g>
+</svg>

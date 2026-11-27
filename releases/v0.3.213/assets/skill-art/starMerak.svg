@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256" fill="none"><title>天璇变✦</title>
+<defs><linearGradient id="starlight" x1="50" y1="50" x2="208" y2="192" gradientUnits="userSpaceOnUse"><stop stop-color="#D4FFF8"/><stop offset=".52" stop-color="#52C8C2"/><stop offset="1" stop-color="#285F62"/></linearGradient></defs>
+<g stroke="#18212D" stroke-linejoin="round" stroke-linecap="round">
+<path d="M39 159 C20 122 29 72 70 38 C45 85 47 122 65 143 C90 175 151 202 223 195 C171 224 72 210 39 159Z" fill="#52C8C2" fill-opacity=".17" stroke-width="2"/>
+<path d="M31 163 C64 203 128 220 193 209 M71 33 C111 26 146 42 164 64" stroke="#52C8C2" stroke-opacity=".58" stroke-width="2.5"/>
+<path d="M57 63 L52 121 L107 140 L129 86 Z M129 86 L164 98 L190 132 L211 182" stroke-width="9"/>
+<path d="M57 63 L52 121 L107 140 L129 86 Z M129 86 L164 98 L190 132 L211 182" stroke="#52C8C2" stroke-width="4"/>
+<path d="M57 63 L52 121 L107 140 L129 86 M129 86 L164 98 L190 132 L211 182" stroke="#D4FFF8" stroke-width="1.2" stroke-opacity=".8"/>
+<path d="M57.00,55.00 L58.70,61.30 L65.00,63.00 L58.70,64.70 L57.00,71.00 L55.30,64.70 L49.00,63.00 L55.30,61.30 Z" fill="#285F62" stroke-width="2.5"/><path d="M55 63 L57 60 L59 63 L57 66Z" fill="#D4FFF8" stroke="none"/>
+<path d="M107.00,132.00 L108.70,138.30 L115.00,140.00 L108.70,141.70 L107.00,148.00 L105.30,141.70 L99.00,140.00 L105.30,138.30 Z" fill="#285F62" stroke-width="2.5"/><path d="M105 140 L107 137 L109 140 L107 143Z" fill="#D4FFF8" stroke="none"/>
+<path d="M129.00,78.00 L130.70,84.30 L137.00,86.00 L130.70,87.70 L129.00,94.00 L127.30,87.70 L121.00,86.00 L127.30,84.30 Z" fill="#285F62" stroke-width="2.5"/><path d="M127 86 L129 83 L131 86 L129 89Z" fill="#D4FFF8" stroke="none"/>
+<path d="M164.00,90.00 L165.70,96.30 L172.00,98.00 L165.70,99.70 L164.00,106.00 L162.30,99.70 L156.00,98.00 L162.30,96.30 Z" fill="#285F62" stroke-width="2.5"/><path d="M162 98 L164 95 L166 98 L164 101Z" fill="#D4FFF8" stroke="none"/>
+<path d="M190.00,124.00 L191.70,130.30 L198.00,132.00 L191.70,133.70 L190.00,140.00 L188.30,133.70 L182.00,132.00 L188.30,130.30 Z" fill="#285F62" stroke-width="2.5"/><path d="M188 132 L190 129 L192 132 L190 135Z" fill="#D4FFF8" stroke="none"/>
+<path d="M211.00,174.00 L212.70,180.30 L219.00,182.00 L212.70,183.70 L211.00,190.00 L209.30,183.70 L203.00,182.00 L209.30,180.30 Z" fill="#285F62" stroke-width="2.5"/><path d="M209 182 L211 179 L213 182 L211 185Z" fill="#D4FFF8" stroke="none"/>
+<path d="M29 115 L43 101 M60 99 L74 113 M74 129 L60 143 M44 143 L30 129" stroke="#52C8C2" stroke-width="3"/>
+<path d="M52.00,99.00 L56.67,116.33 L74.00,121.00 L56.67,125.67 L52.00,143.00 L47.33,125.67 L30.00,121.00 L47.33,116.33 Z" fill="url(#starlight)" stroke-width="3"/>
+<path d="M52 110 L58 121 L52 132 L46 121Z" fill="#D4FFF8" stroke="#285F62" stroke-width="1.5"/>
+<path d="M38 104 L32 96 M68 140 L74 148" stroke="#D4FFF8" stroke-width="2"/>
+<path d="M76 184 Q110 197 141 191 M80 192 Q111 205 151 197" stroke="#52C8C2" stroke-opacity=".6" stroke-width="2"/>
+</g></svg>

@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256" fill="none">
+  <title>水龙吟：水浪簇拥的龙首</title>
+  <g stroke-linecap="round" stroke-linejoin="round">
+    <path d="M165 170A81 81 0 0 1 66 180M61 81A81 81 0 0 1 142 46" stroke="#70b8ce" stroke-width="2.1" opacity=".68"/>
+    <g fill="#dcf7ef" opacity=".75"><circle cx="48" cy="98" r="2.7"/><circle cx="211" cy="157" r="2.7"/><circle cx="90" cy="202" r="2.7"/></g>
+    <!-- Antler horns and swept-back cheek fins make a readable dragon silhouette. -->
+    <path d="M106 88C91 81 82 65 86 51L95 65L106 61L103 74L116 82M150 88C165 81 174 65 170 51L161 65L150 61L153 74L140 82" fill="#dcf7ef" stroke="#18212d" stroke-width="3.5"/>
+    <path d="M92 98L70 86L75 107L62 119L83 126L73 146L97 139M164 98L186 86L181 107L194 119L173 126L183 146L159 139" fill="#315e75" stroke="#18212d" stroke-width="3.5"/>
+    <path d="M101 82Q128 73 155 82L166 105L160 131L146 153L128 164L110 153L96 131L90 105Z" fill="#70b8ce" stroke="#18212d" stroke-width="4"/>
+    <path d="M128 84L116 101L128 111L140 101Z" fill="#a9dfdf" stroke="#315e75" stroke-width="2.5"/>
+    <path d="M98 106L116 112L112 121L100 117ZM158 106L140 112L144 121L156 117Z" fill="#dcf7ef" stroke="#18212d" stroke-width="3"/>
+    <path d="M109 113L109 117M147 113L147 117" stroke="#18212d" stroke-width="3"/>
+    <path d="M97 103L116 108M159 103L140 108M98 125L109 130M158 125L147 130" stroke="#dcf7ef" stroke-width="3"/>
+    <!-- Broad muzzle, paired nostrils, fangs and long whiskers anchor the head. -->
+    <path d="M115 119Q128 114 141 119L149 133L142 145H114L107 133Z" fill="#a9dfdf" stroke="#18212d" stroke-width="3.5"/>
+    <path d="M117 127L121 128M139 127L135 128" stroke="#315e75" stroke-width="3"/>
+    <path d="M112 137Q128 148 144 137L139 154Q128 163 117 154Z" fill="#18212d" stroke="#315e75" stroke-width="2.5"/>
+    <path d="M116 139L120 148L124 142M140 139L136 148L132 142" fill="#dcf7ef" stroke="#dcf7ef" stroke-width="1.5"/>
+    <path d="M110 133C97 130 85 137 81 150C77 159 69 159 67 152M146 133C159 130 171 137 175 150C179 159 187 159 189 152" stroke="#dcf7ef" stroke-width="3"/>
+    <path d="M121 156L128 174L135 156" fill="#70b8ce" stroke="#18212d" stroke-width="3"/>
+    <!-- A single connected wave supports the head instead of loose blue strokes. -->
+    <path d="M59 176C70 164 85 166 96 175C111 188 130 192 150 180C165 171 180 171 193 178C183 176 177 180 178 185C168 199 147 204 128 201C106 199 92 186 78 181C70 178 64 178 59 181Z" fill="#315e75" stroke="#18212d" stroke-width="3"/>
+    <path d="M65 175C83 166 94 190 124 193C150 196 164 179 181 179" stroke="#70b8ce" stroke-width="4"/>
+    <path d="M91 186Q112 201 137 196M164 182L170 180" stroke="#dcf7ef" stroke-width="2.5"/>
+    <path d="M57 145Q47 155 57 159Q67 155 57 145ZM199 132Q190 143 199 146Q208 143 199 132Z" fill="#70b8ce" stroke="#18212d" stroke-width="2"/>
+  </g>
+</svg>

@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256" fill="none">
+  <g stroke-linecap="round" stroke-linejoin="round" data-art-subject="ivory-feather-in-two-open-wind-streams">
+    <g data-art-part="rear-wind" stroke="#18212D" stroke-width="2.6">
+      <path d="M46 174C30 143 45 105 75 87C109 67 160 74 188 97C198 106 204 117 205 128C190 109 172 106 151 102C119 96 88 95 69 114C52 132 52 153 67 166C82 180 104 178 121 170C98 195 61 198 46 174Z" fill="#68B398" fill-opacity=".8"/>
+      <path d="M51 156C45 134 59 109 83 97C112 84 151 89 175 103C140 92 111 94 89 104C65 114 52 136 51 156Z" fill="#D8F4D1" fill-opacity=".7" stroke="none"/>
+      <path d="M76 179C92 184 108 180 121 170C113 183 105 190 94 194C86 190 80 185 76 179Z" fill="#3E7E6A" fill-opacity=".75" stroke="none"/>
+    </g>
+    <path d="M43 128C41 111 53 91 69 81M55 188C64 197 79 202 94 201" stroke="#68B398" stroke-width="2.8" opacity=".76" data-art-part="short-wind-tails"/>
+    <path d="M82 79C100 71 120 71 136 74" stroke="#D8F4D1" stroke-width="2" opacity=".78"/>
+    <g data-art-part="ivory-feather">
+      <path d="M108 178C88 157 95 118 115 94C126 80 141 66 157 55C161 83 165 107 153 133C143 154 127 169 108 178Z" fill="#F1F0DC" stroke="#18212D" stroke-width="3.1"/>
+      <path d="M108 176C116 143 131 105 157 57C154 92 153 119 140 141C130 158 119 169 108 176Z" fill="#D8E4CB"/>
+      <path d="M101 159C103 134 116 107 132 91C123 113 114 140 111 165Z" fill="#FFFBEA" opacity=".8"/>
+      <path d="M103 193C112 155 131 103 157 56" stroke="#18212D" stroke-width="3.5"/>
+      <path d="M106 187C115 155 132 109 152 68" stroke="#A5BEA0" stroke-width="1.8"/>
+      <path d="M111 163L100 145M117 145L104 126M124 127L113 109M133 108L124 94M141 91L136 82" stroke="#9CAF97" stroke-width="1.8"/>
+      <path d="M115 158L136 151M122 140L148 129M131 119L155 108M140 99L158 88" stroke="#9CAF97" stroke-width="1.8"/>
+      <path d="M99 138L106 140M108 115L116 116M147 135L141 133" stroke="#18212D" stroke-width="1.6" opacity=".65"/>
+    </g>
+    <g data-art-part="front-wind" stroke="#18212D" stroke-width="2.6">
+      <path d="M210 82C226 111 211 151 181 170C148 191 98 182 71 161C61 153 55 142 53 131C68 148 87 153 108 156C138 162 170 164 190 144C207 127 207 104 192 91C177 78 156 79 140 87C160 64 194 59 210 82Z" fill="#68B398" fill-opacity=".83"/>
+      <path d="M205 98C212 120 198 146 175 159C150 172 113 170 88 158C117 165 147 162 167 152C191 141 204 120 205 98Z" fill="#D8F4D1" fill-opacity=".8" stroke="none"/>
+      <path d="M181 77C165 74 151 80 140 87C147 75 154 67 166 64C171 69 176 73 181 77Z" fill="#3E7E6A" fill-opacity=".8" stroke="none"/>
+    </g>
+    <path d="M213 132C216 149 205 167 189 178M202 65C191 56 177 53 162 56" stroke="#68B398" stroke-width="2.8" opacity=".76"/>
+    <path d="M174 181C157 189 137 190 120 186" stroke="#D8F4D1" stroke-width="2" opacity=".8"/>
+  </g>
+</svg>

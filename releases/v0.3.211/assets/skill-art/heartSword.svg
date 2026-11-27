@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256" fill="none">
+  <g transform="translate(128 128)" stroke-linecap="round" stroke-linejoin="round">
+    <g opacity=".68">
+      <path d="M37 42A81 81 0 0 1 -62 52M-67 -47A81 81 0 0 1 14 -82" stroke="#7D8EB2" stroke-width="2.1"/>
+      <circle cx="-80" cy="-30" r="2.7" fill="#C6D6E0"/>
+      <circle cx="83" cy="29" r="2.7" fill="#C6D6E0"/>
+      <circle cx="-38" cy="74" r="2.7" fill="#C6D6E0"/>
+    </g>
+    <g data-art-subject="mind-forged-sword">
+      <path d="M-40 -17Q-21 -48 10 -45Q33 -43 42 -25Q24 -8 -1 -5Q-27 -4 -40 -17Z" fill="#111824" stroke="#6B758F" stroke-width="2.8"/>
+      <path d="M-41 -18L-53 -26L-62 -22M36 -29L47 -42L59 -45M-10 -44L-14 -55L-9 -64M15 -8L26 1L24 12" stroke="#9A91B4" stroke-width="2"/>
+      <path d="M-32 -12Q-13 0 8 -8M19 -42Q31 -39 36 -31" stroke="#D8BC81" stroke-width="2.5"/>
+      <g transform="rotate(32)" data-art-detail="gold-sword-piercing-void">
+        <path d="M0 -66L9 -44L6 14L0 21L-6 14L-9 -44Z" stroke="#DBB66B" stroke-width="9" opacity=".14"/>
+        <path d="M0 -66L9 -44L6 14L0 21L-6 14L-9 -44Z" fill="#DDB86C" stroke="#F4D995" stroke-width="2.5"/>
+        <path d="M0 -56V13" stroke="#FFF0BC" stroke-width="2.5"/>
+        <path d="M-16 18Q0 12 16 18L13 23L0 20L-13 23Z" fill="#C49B51" stroke="#EBD08E" stroke-width="2"/>
+        <path d="M0 23V38M-4 27H4M-4 33H4" stroke="#D7AF64" stroke-width="4"/>
+        <path d="M0 38L5 43L0 48L-5 43Z" fill="#EED18D" stroke="#AE884F" stroke-width="2"/>
+      </g>
+      <path d="M20 -58L24 -66M32 -48L41 -52M-27 47L-37 59M-15 52L-21 66" stroke="#D6B879" stroke-width="2" opacity=".7"/>
+    </g>
+  </g>
+</svg>

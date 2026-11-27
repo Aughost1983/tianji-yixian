@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256" fill="none">
+  <g transform="translate(128 128)" stroke-linecap="round" stroke-linejoin="round">
+    <g opacity=".68">
+      <path d="M37 42A81 81 0 0 1 -62 52M-67 -47A81 81 0 0 1 14 -82" stroke="#8E77B2" stroke-width="2.1"/>
+      <circle cx="-80" cy="-30" r="2.7" fill="#C5B2DF"/>
+      <circle cx="83" cy="29" r="2.7" fill="#C5B2DF"/>
+      <circle cx="-38" cy="74" r="2.7" fill="#C5B2DF"/>
+    </g>
+    <g data-art-subject="sidestepping-ghost">
+      <path d="M8 -59C23 -72 48 -56 47 -38C43 -21 56 -13 57 3C60 18 40 24 46 41L24 34L8 60L6 35L-11 42C-1 23 -15 12 -7 -5C1 -23 -6 -38 8 -59Z" transform="translate(-48 8)" fill="#9B87CB" opacity=".12"/>
+      <path d="M8 -59C23 -72 48 -56 47 -38C43 -21 56 -13 57 3C60 18 40 24 46 41L24 34L8 60L6 35L-11 42C-1 23 -15 12 -7 -5C1 -23 -6 -38 8 -59Z" transform="translate(-25 4)" fill="#9B87CB" opacity=".28"/>
+      <path d="M-79 -30H-43M-83 -5H-52M-70 20H-39" stroke="#8D7AB5" stroke-width="3" opacity=".6"/>
+      <path d="M8 -59C23 -72 48 -56 47 -38C43 -21 56 -13 57 3C60 18 40 24 46 41L24 34L8 60L6 35L-11 42C-1 23 -15 12 -7 -5C1 -23 -6 -38 8 -59Z" fill="#9B87CB" stroke="#18212D" stroke-width="4"/>
+      <path d="M13 -44Q28 -58 40 -40L32 -23L8 -27Z" fill="#293043"/>
+      <path d="M14 -35L21 -34M29 -33L35 -32" stroke="#DDCFEF" stroke-width="2.2"/>
+      <path d="M6 10Q22 17 40 9M10 28L25 23" stroke="#C0AEDF" stroke-width="2.2"/>
+    </g>
+  </g>
+</svg>
